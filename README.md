@@ -48,9 +48,13 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 [<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
 [<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
 [<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
+[<img align="left" alt="yolo" height="30px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
+[<img align="left" alt="tensorflow" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
+[<img align="left" alt="keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" />][keras]
 [<img align="left" alt="github" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
 [<img align="left" alt="gitlab" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />][gitlab]
 [<img align="left" alt="atlassian" height="30px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" />][atlassian]
+
 
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
@@ -67,12 +71,10 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 [gitlab]: https://about.gitlab.com/
 [atlassian]: https://www.atlassian.com
 
+[yolo]: https://www.atlassian.com
+[keras]: https://keras.io/
+[tensorflow]: https://www.tensorflow.org/
 
-
-
-
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -81,6 +83,7 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 <br />
 
 [<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
+[<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
 [<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
 [<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
 [<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
@@ -92,6 +95,8 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 [balena]: https://www.balena.io/
 [nvidia]: https://www.nvidia.com/es-la/
 [slamtec]: https://www.slamtec.com/en/
+[raspi]: https://www.raspberrypi.org/
+
 
 <br />
 <br />
