@@ -1,7 +1,7 @@
 ### Hi there, I'm John Betancourt - aka [JohnBetaCode][website] 👋
 
 [![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JohnBetaCode1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%JohnBetaCode1&screen_name=JohnBetaCode1)
 
 ## I'm a Entrepreneur, Developer, and Teacher!
 
@@ -15,18 +15,17 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 - 🥅 2020 Goals: Contribute more to Open Source projects, and create my own
 - ⚡ Fun fact: I love pop music, photography, to draw and play guitar (I'm not good), some people call me uncle John.
 
-<br />
 
 ### Connect with me:
 
 <br />
 
 [<img align="left" alt="JohnBetaCode.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
-[<img align="left" alt="JohnBetaCode | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JohnBetaCode | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JohnBetaCode | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube2]
+[<img align="left" alt="JohnBetaCode | Twitter" width="50px" src="https://sevilla.2019-2022.org/wp-content/uploads/2016/07/Logo-twitter.svg_.png" />][twitter]
+[<img align="left" alt="JohnBetaCode | LinkedIn" width="50px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="JohnBetaCode | Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
 <br />
@@ -37,18 +36,19 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 
 <br />
 
+[<img align="left" alt="JohnBetaCode | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][vscode]
 
 
 <br />
 
-<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
-<img height="50" width="50" src="https://camo.githubusercontent.com/a3301bd38765e3d3e31c1990c586db7a15b02dc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" />
+
+<!-- <img height="50" width="50" src="https://camo.githubusercontent.com/a3301bd38765e3d3e31c1990c586db7a15b02dc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" />
 <img height="50" width="50" src="https://camo.githubusercontent.com/c133ee98c6b00c3185ac4e223b3b5e39875f3080/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31382f49534f5f432532422532425f4c6f676f2e737667" />
 <img height="30" width="150" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />
 <img height="50" width="50" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img height="40" width="180" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />
+<img height="40" width="180" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" /> -->
 
 <br />
 <br />
@@ -144,3 +144,4 @@ Portafolio | Businessinsider | The New York Times | Techcrunch | Newscientist
 [instagram]: https://www.instagram.com/johnbetacode
 [linkedin]: https://www.linkedin.com/in/john-betancourt-345557129
 
+[vscode]: https://code.visualstudio.com/
