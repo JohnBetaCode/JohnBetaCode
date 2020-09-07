@@ -1,6 +1,6 @@
 ### Hi there, I'm John Betancourt - aka [JohnBetaCode][website] 👋
 
-[![Website](https://www.kiwibot.com/)](https://www.kiwibot.com/))
+[![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Entrepreneur, Developer, and Teacher!
@@ -16,24 +16,65 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 - ⚡ Fun fact: I love pop music, photography, to draw and play guitar (I'm not good), some people call me uncle John.
 
 <br />
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="JohnBetaCode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JohnBetaCode | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JohnBetaCode | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
-[<img align="left" alt="JohnBetaCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JohnBetaCode | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JohnBetaCode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
+[<img align="left" alt="JohnBetaCode.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
+[<img align="left" alt="JohnBetaCode | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JohnBetaCode | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JohnBetaCode | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+<br />
 <br />
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<br />
 
+
+
+<br />
+
+<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
+<img height="50" width="50" src="https://camo.githubusercontent.com/a3301bd38765e3d3e31c1990c586db7a15b02dc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e737667" />
+<img height="50" width="50" src="https://camo.githubusercontent.com/c133ee98c6b00c3185ac4e223b3b5e39875f3080/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31382f49534f5f432532422532425f4c6f676f2e737667" />
+<img height="30" width="150" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />
+<img height="50" width="50" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
+<img height="40" width="180" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />
+
+<br />
+<br />
+
+### Platforms:
+<br />
+
+<img height="40" width="180" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />
+<img height="40" width="80" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />
+<img height="40" width="70" src="https://www.balena.io/docs/img/logo.svg" />
+<img height="40" width="180" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />
+
+<br />
+<br />
+<br />
+
+<!-- #https://github.com/anuraghazra/github-readme-stats -->
+
+<img align="left" alt="JohnBeaCode's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JohnBetaCode&show_icons=true&hide_border=true" /><br />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -70,45 +111,13 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCGIyDyfQFqBh--vQsunWqRw/videos)
 
-
-
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="JohnBeaCode's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JohnBetaCode&show_icons=true&hide_border=true" />
-
-</details>
 
 <!-- ---------------------------------------------------------------------- -->
-## **Kiwibot In The News**
- 
+
+---
+
+## **Kiwibot In The News** 
  
 | | | | | |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -127,7 +136,6 @@ Portafolio | Businessinsider | The New York Times | Techcrunch | Newscientist
 🤖 **Facebook**: [kiwicampus](https://www.facebook.com/kiwicampus/) /
 🐦 **Twitter**: [kiwicampus](https://twitter.com/kiwicampus). Follow us and give us a star ⭐ if this project helped you or you like it!
  
-
 <!-- ---------------------------------------------------------------------- -->
 [website]: https://www.kiwibot.com/
 [twitter]: https://twitter.com/JohnBetaCode1
