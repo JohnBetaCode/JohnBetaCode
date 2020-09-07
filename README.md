@@ -17,37 +17,40 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 - ⚡ Fun fact: I love pop music, photography, to draw and play guitar (I'm not good), some people call me uncle John.
 
 
-### Connect with me:
+### **Connect with me**:
 
 <br />
 
-[<img align="left" alt="JohnBetaCode.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="JohnBetaCode | YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube2]
-[<img align="left" alt="JohnBetaCode | Twitter" width="50px" src="https://sevilla.2019-2022.org/wp-content/uploads/2016/07/Logo-twitter.svg_.png" />][twitter]
-[<img align="left" alt="JohnBetaCode | LinkedIn" width="50px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="JohnBetaCode | Instagram" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="JohnBetaCode.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="JohnBetaCode | YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="JohnBetaCode | YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube2]
+[<img align="left" alt="JohnBetaCode | Twitter" width="30px" src="https://sevilla.2019-2022.org/wp-content/uploads/2016/07/Logo-twitter.svg_.png" />][twitter]
+[<img align="left" alt="JohnBetaCode | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="JohnBetaCode | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
 <br />
 <br />
 <br />
 
-### Languages and Tools:
+### **Languages and Tools**:
 
 <br />
 
-[<img align="left" alt="Visual Studio Code" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
-[<img align="left" alt="Python" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python]
-[<img align="left" alt="C++" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][c]
-[<img align="left" alt="C++" height="50px" src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" />][javascript]
-[<img align="left" alt="ROS" height="25px" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />][ros]
-[<img align="left" alt="ROS2" height="50px" src="https://avatars3.githubusercontent.com/u/3979232?s=400&v=4" />][ros2]
-[<img align="left" alt="gazebo" height="50px" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />][gazebo]
-[<img align="left" alt="rviz" height="50px" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />][rviz]
-[<img align="left" alt="opencv" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
-[<img align="left" alt="docker" height="50px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
-[<img align="left" alt="github" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
+[<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
+[<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python]
+[<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][c]
+[<img align="left" alt="C++" height="30px" src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" />][javascript]
+[<img align="left" alt="ROS" height="15px" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />][ros]
+[<img align="left" alt="ROS2" height="30px" src="https://avatars3.githubusercontent.com/u/3979232?s=400&v=4" />][ros2]
+[<img align="left" alt="gazebo" height="30px" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />][gazebo]
+[<img align="left" alt="rviz" height="30px" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />][rviz]
+[<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
+[<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
+[<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
+[<img align="left" alt="github" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
+[<img align="left" alt="gitlab" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />][gitlab]
+[<img align="left" alt="atlassian" height="30px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" />][atlassian]
 
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
@@ -60,20 +63,28 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 [docker]: https://www.docker.com/
 [javascript]: https://es.wikipedia.org/wiki/JavaScript
 [github]: https://github.com/
+[ffmpeg]: https://ffmpeg.org/
+[gitlab]: https://about.gitlab.com/
+[atlassian]: https://www.atlassian.com
+
+
+
+
 
 <br />
 <br />
 <br />
 <br />
-
-### Platforms:
 <br />
 
-[<img align="left" alt="nvidia" height="50px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
-[<img align="left" alt="realsense" height="50px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
-[<img align="left" alt="slamtec" height="50px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
-[<img align="left" alt="peplink" height="50px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
-[<img align="left" alt="balena" height="50px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
+### **Platforms**:
+<br />
+
+[<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
+[<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
+[<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
+[<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
+[<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
 
 
 [realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
