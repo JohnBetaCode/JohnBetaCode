@@ -64,14 +64,23 @@ Electrical engineer with an emphasis on computer vision, robotics, and machine l
 <br />
 <br />
 <br />
+<br />
 
 ### Platforms:
 <br />
 
-<img height="40" width="180" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />
-<img height="40" width="80" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />
-<img height="40" width="70" src="https://www.balena.io/docs/img/logo.svg" />
-<img height="40" width="180" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />
+[<img align="left" alt="nvidia" height="50px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
+[<img align="left" alt="realsense" height="50px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
+[<img align="left" alt="slamtec" height="50px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
+[<img align="left" alt="peplink" height="50px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
+[<img align="left" alt="balena" height="50px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
+
+
+[realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
+[peplink]: https://www.peplink.com/
+[balena]: https://www.balena.io/
+[nvidia]: https://www.nvidia.com/es-la/
+[slamtec]: https://www.slamtec.com/en/
 
 <br />
 <br />
