@@ -1,11 +1,13 @@
 ### Hi there 👋, I'm John Betancourt - aka [JohnBetaCode][linkedin] 
-Technical Leader of Artificial Intelligence and Robotics in Kiwibot (The Great Dictator)
+Head of Artificial Intelligence and Robotics at Kiwibot (The Great Dictator)
 
 [![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
 [![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/johnbetacode/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohnBetaCode1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%JohnBetaCode1&screen_name=JohnBetaCode1)
 
-## I'm a Entrepreneur, Developer, and Teacher!
+## I'm a Entrepreneur, Developer, and a Teacher!
+
+As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #Impact_assessment #Leadership_engagement #Managing_meetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
 
 <img src="https://user-images.githubusercontent.com/43115782/87436693-feecbe00-c5b2-11ea-9939-9411ab7dcf2a.jpg" alt="kiwi_banner" width="1200">
 
