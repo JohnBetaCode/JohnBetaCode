@@ -9,7 +9,6 @@ Head of Artificial Intelligence and Robotics at Kiwibot (The Great Dictator)
 
 <img src="https://user-images.githubusercontent.com/43115782/87436693-feecbe00-c5b2-11ea-9939-9411ab7dcf2a.jpg" alt="kiwi_banner" width="1200">
 
-**As Sotfware Product Manager**: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #Impact_assessment #Leadership_engagement #Managing_meetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
 
 
 I'm Electrical engineer with emphasis on computer vision, robotics, and machine learning. I work on software and AI solutions. My areas of interest are mobile rovers, aerial (UAV), underwater vehicles (ROV), control architectures for navigation and mapping, cooperative robotics, vision systems, sensor fusion, machine learning, and image processing. I’m very interested and ready for any challenge that allows me to academically and professionally growing.
@@ -20,6 +19,12 @@ I'm Electrical engineer with emphasis on computer vision, robotics, and machine 
 - 🥅 2021 - 2022 Goals: Contribute more to Open Source projects, and create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
 - ⚡ Fun fact: I love pop music 🎵, photography 📷, draw ✏️, and play guitar 🎸(I'm not good), some people call me uncle John 👴, I love teaching 👨‍🏫.
 
+
+<br />
+**As Sotfware Product Manager**: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #Impact_assessment #Leadership_engagement #Managing_meetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
+
+
+<br />
 
 ### **Connect with me**:
 
