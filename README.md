@@ -21,7 +21,8 @@ I'm Electrical engineer with emphasis on computer vision, robotics, and machine 
 
 
 <br />
-**As Sotfware Product Manager**: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #Impact_assessment #Leadership_engagement #Managing_meetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
+
+As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #ImpactAssessment #LeadershipEngagement #ManagingMeetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
 
 
 <br />
