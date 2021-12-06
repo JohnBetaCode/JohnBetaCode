@@ -37,8 +37,8 @@ As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessin
 [<img align="left" alt="JohnBetaCode | YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="JohnBetaCode | YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube2]
 [<img align="left" alt="JohnBetaCode | Twitter" width="30px" src="https://sevilla.2019-2022.org/wp-content/uploads/2016/07/Logo-twitter.svg_.png" />][twitter]
-[<img align="left" alt="JohnBetaCode | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="JohnBetaCode | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="JohnBetaCode | Twitter" width="30px ; padding-right:10px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="JohnBetaCode | Instagram" width="30px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
 <br />
