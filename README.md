@@ -1,21 +1,25 @@
 ### Hi there 👋, I'm John Betancourt - aka [JohnBetaCode][linkedin] 
-Technical Leader of Artificial Intelligence and Robotics in Kiwibot (The Great Dictator)
+Head of Ai and Robotics at Kiwibot (Also aka as the Great Dictator)
 
 [![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
 [![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/johnbetacode/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohnBetaCode1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%JohnBetaCode1&screen_name=JohnBetaCode1)
 
-## I'm a Entrepreneur, Developer, and Teacher!
+## I'm a Developer 👨‍💻, Entrepreneur 💪, Teacher 🧑‍🏫, and Tech Lover ❤️!
 
-<img src="https://user-images.githubusercontent.com/43115782/87436693-feecbe00-c5b2-11ea-9939-9411ab7dcf2a.jpg" alt="kiwi_banner" width="1200">
+<img src="https://user-images.githubusercontent.com/43115782/140562354-bc14aacb-3aa0-41eb-bb48-1ed9e97c3c0d.jpg" alt="kiwi_banner" width="1200">
 
-I'm Electrical engineer with emphasis on computer vision, robotics, and machine learning. I work on software and AI solutions. My areas of interest are mobile rovers, aerial (UAV), underwater vehicles (ROV), control architectures for navigation and mapping, cooperative robotics, vision systems, sensor fusion, machine learning, and image processing. I’m very interested and ready for any challenge that allows me to academically and professionally growing.
+
+Hi human, I love working in my greatness passion ❤️‍🔥: software 👨‍💻 and AI solutions 💡(Vision 👀, Machine learning 🧠, and robotics 🤖). My areas of interest are mobile rovers 🚗, aerial, and underwater robots/vehicles (ROV), control architectures, navigation, and mapping. 
+
+Currently, I’m building the robotics infrastructure of the future in the atoms ⚛️ delivering industry at [@Kiwibot][website] 🥝. I also love photography 📷 [@JohnBetaCode](https://www.instagram.com/johnbetacode/) and burgers 🍔.
+
 
 - 🔭 I’m currently working with robots 🤖 at [Kiwibot][website]! (Food develivery Robots).
-- 🌱 I'm currently learning everything 🤣, but focused in ML, Ai and Engineering management (learning how complicate are people 🤯).
-- 👯 I’m looking to collaborate with other content creators in Ai and ML or things that I like.
-- 🥅 2021 - 2022 Goals: Contribute more to Open Source projects, and create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
-- ⚡ Fun fact: I love pop music 🎵, photography 📷, draw ✏️, and play guitar 🎸(I'm not good), some people call me uncle John 👴, I love teaching 👨‍🏫.
+- 🌱 I'm currently learning everything 🤣, but focused in Leadership, and product/Engineering management (learning how complicate are people 🤯), when I have free time in ML, Ai.
+- 👯 I’m looking to collaborate with other content creators in Ai and ML or things that I like, also I'm always opened to talk, and chat about tech stuff.
+- 🥅 2022 - 2023 Goals: Contribute more to Open Source projects, and create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
+- ⚡ Fun fact: I love pop music 🎵 ([here one of my favorites](https://www.youtube.com/watch?v=p4QqMKe3rwY&list=RDMM8RZeHO7gBJk&index=2)), photography 📷, drawing ✏️, and playing guitar 🎸(I'm not good), some people call me uncle John 👴, and I also love teaching 👨‍🏫.
 
 
 ### **Connect with me**:
