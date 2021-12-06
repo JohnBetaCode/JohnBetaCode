@@ -22,6 +22,13 @@ Currently, I’m building the robotics infrastructure of the future in the atoms
 - ⚡ Fun fact: I love pop music 🎵 ([here one of my favorites](https://www.youtube.com/watch?v=p4QqMKe3rwY&list=RDMM8RZeHO7gBJk&index=2)), photography 📷, drawing ✏️, and playing guitar 🎸(I'm not good), some people call me uncle John 👴, and I also love teaching 👨‍🏫.
 
 
+<br />
+
+As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #ImpactAssessment #LeadershipEngagement #ManagingMeetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
+
+
+<br />
+
 ### **Connect with me**:
 
 <br />
