@@ -121,6 +121,8 @@ As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBetaCode&layout=compact&theme=onedark" />
 </p>
 
+Note: Many of my work is not reflected here due to almost all my work is in private repositories in [Kiwibot ](https://github.com/kiwicampus).
+
 <br />
 <br />
 <br />
