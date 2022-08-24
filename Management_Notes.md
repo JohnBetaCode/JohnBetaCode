@@ -1,39 +1,166 @@
-# The Tech Leadership Framework
-By: JohnBetaCode
+# **The Tech Leadership Framework**
+Collected By: [JohnBetaCode](https://www.linkedin.com/in/johnbetacode/)
 
-This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with the time, and made a summary about what it worked for me. 
+This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with the time, and made a summary about what worked for me. 
 
 Feel free to chat with me, discuss any topic, and share opinions. 
 
+<br />
+
 ---
 
-### **[The Tech Leadership Framework](https://www.mindtools.com/pages/article/smart-goals.htm)**
+<!-- ************************************************************************************************************************************ -->
+# **Planning Metodologies**
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+## **[The Tech Leadership Framework](https://www.mindtools.com/pages/article/smart-goals.htm)**
+
 
 Apply the SMART model: The SMART Goals framework helps you to set objectives in a way that is not confusing or vague, giving you a concrete and clear framework to reach your desired outcome. It’s a straightforward tool, and that’s why many professionals use SMART to keep their plans in check and track progress as they execute their strategies. The SMART Goal method is also a great way to design growth plans, either professional or personal, creating room to develop a purpose and fulfilling path.
 
-* S - Specific: What do you want to accomplish? To be specific, add as many ideas as you can to identify patterns and determine the particular goal you want to pursue. Be careful not to get too broad and instead think about a specific area of focus. As you brainstorm, add sticky notes, move them around the board, and cluster ideas with shapes and frames to stay organized.
+* **S** - Specific: What do you want to accomplish? To be specific, add as many ideas as you can to identify patterns and determine the particular goal you want to pursue. Be careful not to get too broad and instead think about a specific area of focus. As you brainstorm, add sticky notes, move them around the board, and cluster ideas with shapes and frames to stay organized.
 
-* M - Measurable: How will you know when you accomplished your goal? Make sure your goals are measurable by adding details, metrics, and performance indicators, making notes of anything you want to track. You can also add more templates to your board like Gantt charts, milestone charts, or action plans to have a more complete overview of a project.
+* **M** - Measurable: How will you know when you accomplished your goal? Make sure your goals are measurable by adding details, metrics, and performance indicators, making notes of anything you want to track. You can also add more templates to your board like Gantt charts, milestone charts, or action plans to have a more complete overview of a project.
 
-* A - Attainable: How can the goal be accomplished? To make your goals attainable, consider splitting them into smaller steps that you prioritize so you can achieve results quickly. And, think about whether the goals are realistic, given constraints like financing.
+* **A** - Attainable: How can the goal be accomplished? To make your goals attainable, consider splitting them into smaller steps that you prioritize so you can achieve results quickly. And, think about whether the goals are realistic, given constraints like financing.
 
-* R - Relevant: Will the goal meet your short- and long-term needs? To ensure your goals are relevant, be sure to align them with your company’s goals, mission, and vision. You can easily share your goals with leaders to get their input.
+* **R** - Relevant: Will the goal meet your short- and long-term needs? To ensure your goals are relevant, be sure to align them with your company’s goals, mission, and vision. You can easily share your goals with leaders to get their input.
 
-* T - Timely When will the goal be accomplished? To create timely goals, make sure each one gets assigned a deadline, whether short-term (“what can I do today?”) or long-term (“what can I do in six months?”). Time-bounded goals ensure lofty ideas can be broken down into actionable steps and make tracking milestones easier and more efficient.
+* **T** - Timely When will the goal be accomplished? To create timely goals, make sure each one gets assigned a deadline, whether short-term (“what can I do today?”) or long-term (“what can I do in six months?”). Time-bounded goals ensure lofty ideas can be broken down into actionable steps and make tracking milestones easier and more efficient.
 
 How do you write a SMART goal?: Start writing a specific goal with as much detail as possible. Then, add a measurable action to achieve it, followed by what is needed to accomplish this action and what’s relevant and might influence your process. Set deadlines and timelines to keep track of your progress to finalize it. Remember, write goals that seem realistic and detailed, so you can easily follow what you are setting out to do.
 
----
-
-### **The Right 1:1**
+<br />
 
 ---
+<!-- ************************************************************************************************************************************ -->
+<br />
 
-### **The Impostor Syndrome**
+# **The Management Guideline**
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+## **Pillars For Effective Time Management**
+
+1. **1️⃣ Set clear priorities**: Setting clear priorities helps you focus on what matters most, preventing you from thinking so much about your entire to-do list. As you are not going to do it right now, it only makes you feel overwhelmed. How to do it?
+
+    📝 Quick exercise: MIT (Most Important Task): 
+        
+    * Just define at the end of the day the first thing you will do the next day, the most critical one, and write it down.
+    * Then, every day, first thing in the morning, you just do it. 
+    * Remember, first means no email, no slack, no meetings. Just. Do. It. If there is something else on your agenda the first time in the * morning, try to move it and make sure you block that first hour for the subsequent days and weeks.
+
+<br />
+
+2. ⌛ **Blocking time**: Get back control of your time. You need to focus work on the manager’s important things: systems design, performance reviews, goal setting…And that focus needs enough time to get into the flow, not just 15 minutes slots spread all over the week!
+
+    📝 Quick exercise:
+
+    * Try to block 3 slots of 2 hours for deep & shallow work (like MIT). That means 15% of your week.
+    * Think about moving some 1:1s, avoiding non-critical meetings, or delegating part of your tasks.
+    * Try to gain this time in the moments of the day when you feel more productive. Trying to focus for 2 hours in a row immediately after lunch is an impossible mission (did you hear about food comma?)
+    * Finally, add a 10-minute buffer after meetings to reorder the notes, write down TODOs, and take a break before the next thing. Change the environment, drink some water, close your eyes and breathe for 1-2 minutes. — Don’t take your phone, walk a bit, and stretch your arms and neck. This will close the chapter and re-energize you for the next one.
+
+<br />
+
+3. 😖 **Distractions**: Do you struggle with managing your attention, energy, and time effectively? Do you sometimes feel overwhelmed and don't have the resources to increase your concentration? If your answer is yes to any question, you might have problems with distractions. But no worries, we all face them — even daily! Slack notifications, social media, messages, etc… are time robbers if not managed properly.
+
+    📝 Quick exercise:
+
+    * Set Do Not Disturb status every time you are focused (like in the blocks of the previous exercise, MIT, lunch, meetings…).
+    * Use time management tools to keep focused: The Pomodoro technique can help you.
+    * Set a time for communications: messages, emails, etc. 2-3 times per day should be more than enough. If they happen in moments of low focus i.e., after lunch, much better.
+    * Set clear expectations by communicating the measures to your team and stakeholders, so they know there will be a delay. Add a way to communicate urgencies (real urgencies!), so they know when they can count on you.
+
+<br />
+
+4. **Avoid multitasking**: Context switching, task switching, multitasking… whatever you want to call these behaviors, they’re incredibly hard on your already-taxed brain. And while the immediate costs might feel small, the compounding impact on your productivity is staggering.
+
+    📝 Quick exercise:
+
+    * Get the focus on just one thing, the most important (MIT again), only one at a time. If you complete one task daily, at the end of the week you will have completed the 5 most important tasks.
+
+<br />
+
+5. On Friday, at the end of the day, ask yourself:
+
+    * How productive do you feel, from 1 to 10?
+    * How would you evaluate your focus, from 1 to 10?
+    * How much control over your agenda do you feel you have, from 1 to 10?
+    * Compare the results with the values written on Monday
+    * Propose 3 measures to increase the values by 1 point
+    * Repeat next week!  🌀
+
+Reference: [Lidr](https://www.lidr.co)
 
 ---
 
-### **Hiring the Right Talent**
+<!-- ************************************************************************************************************************************ -->
+<br />
+
+# **Work Relationships**
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+## **The Framework for Conducting Successful Performance Reviews**
+
+A fundamental and constant task you should carry out is evaluating the performance of your collaborators. 
+
+* ✏️ **Prepare the foundations**: To define the foundations, it is very important to start with the career ladder, setting those expectations and clarity that are held within each role on the engineering ladder. Define what performance means for the company, and ask yourself what metrics, behaviors, OKRs, competencies, and even cultural values you want to evaluate.
+
+* 🛐 **Evangelize your team**: We are not prepared to give or receive feedback, and it is usually something we are not taught in our environment. So you, as a leader,  should train your team to give that feedback in the right way. Likewise, your team must be clear about the evaluation process. Who does it? What is the format? What is the objective pursued when carrying out these 360 evaluations?
+
+* 📊 **Reunite & Refine data**: Take the time to understand and comprehend the data. Evaluate what metrics, behaviors, facts, and values you can extract from the exercise. Does the evaluation correspond to reality? Are there biases that can affect the reading of the results?
+
+* 💯 **Formalize the results**: Establish a format to present the data to your collaborators and evaluate it with them. How to transmit the message? Connect conclusions with data points or situations. Share with your direct report the good performance,  where she failed but also how she can grow. Remember that communication is in 2 ways, you and her. Ask questions that will help you understand the results even better, and take the time to listen actively. Challenge her to keep growing and turn feedback into actionable next steps.
+
+* ⏩ **Follow Up constantly**: Create a follow-up plan, run regular 1:1s with your collaborators and add two key ingredients to make this a long-term successful process: Training and challenges.
+
+Reference: [Lidr](https://www.lidr.co)
+
+---
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+## **The Constructive Feedback to your Tech Team**
+
+Most common mistakes:
+
+* I wasn't concrete or clear about why we were doing that task (I affected their motivation).
+* I didn't give them freedom or autonomy.
+* I didn't celebrate their milestones and only looked at what they had to improve.
+* I shared my critiques in public — at team meetings, and I couldn't wait to say what I felt at that moment.
+
+When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
+
+❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
+❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
+
+1. Ask for permission
+
+Start by asking permission from the other person. «Do you have a couple of minutes? I have some ideas to improve the process» «I want to tell you something about the performance of the meeting, can we talk?»
+These types of questions will anticipate to your collaborator's brain that there is feedback to come and, thus, create a moment of acceptance and autonomy.
+
+2. Implement the SBI framework model:
+
+[𝗦] Situation: Define when and where the situation happened. Be as specific as possible. 
+[𝗕] Behavior: Describe how that behavior occurred objectively and specifically. Keep to the facts, and don't insert opinions or judgments.
+[𝗜] Impact: Show the impact of the person's behavior on you, your team, and the organization.
+
+3. End with a question
+
+«What do you think about it?» 
+«I consider we should do this, but what do you think?»
+Closing with a bouncing question will turn the situation into a joint problem-solving moment where your collaborator also has the chance to share her opinion and decision.
+It will create commitment on her part rather than compliance.
+
+Managers also have room for improvement.
+
+Those who know how to give proper feedback also ask for it regularly.
+
+As a manager, you also have things to improve, so I recommend you to ask for constant feedback from your team members. — It will help you set up a better continuous improvement process and achieve higher performance.
+
+
+Reference: [Lidr](https://www.lidr.co)
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <!-- 
 👉 I did 1:1s without prior preparation, not knowing what to say or how to empower the meeting.
@@ -69,69 +196,9 @@ Managers are role models in every aspect, whether we like it or not. You have a 
 
 Losing someone is a chance to find someone better, stronger, and more agile. Loses are new opportunities.
 
-4 Pillars For Effective Time Management:
 
-Set clear priorities: Setting clear priorities helps you focus on what matters most, preventing you from thinking so much about your entire to-do list. As you are not going to do it right now, it only makes you feel overwhelmed. How to do it?
-
-📝 Quick exercise: MIT (Most Important Task)
-
-Just define at the end of the day the first thing you will do the next day, the most critical one, and write it down.
-Then, every day, first thing in the morning, you just do it. 
-Remember, first means no email, no slack, no meetings. Just. Do. It. If there is something else on your agenda the first time in the morning, try to move it and make sure you block that first hour for the subsequent days and weeks.
-
-You may have tried doing this before without even knowing that the MIT strategy was actually a thing :).
-
-Blocking time: Get back control of your time. You need to focus work on the manager’s important things: systems design, performance reviews, goal setting…And that focus needs enough time to get into the flow, not just 15 minutes slots spread all over the week!
-
-    📝 Quick exercise:
-
-Try to block 3 slots of 2 hours for deep & shallow work (like MIT). That means 15% of your week.
-Think about moving some 1:1s, avoiding non-critical meetings, or delegating part of your tasks.
-Try to gain this time in the moments of the day when you feel more productive. Trying to focus for 2 hours in a row immediately after lunch is an impossible mission (did you hear about food comma?)
-Finally, add a 10-minute buffer after meetings to reorder the notes, write down TODOs, and take a break before the next thing. Change the environment, drink some water, close your eyes and breathe for 1-2 minutes. — Don’t take your phone, walk a bit, and stretch your arms and neck. This will close the chapter and re-energize you for the next one.
-
-Distractions: Do you struggle with managing your attention, energy, and time effectively? Do you sometimes feel overwhelmed and don't have the resources to increase your concentration? If your answer is yes to any question, you might have problems with distractions. But no worries, we all face them — even daily! Slack notifications, social media, messages, etc… are time robbers if not managed properly.
-
-    📝 Quick exercise:
-
-Set Do Not Disturb status every time you are focused (like in the blocks of the previous exercise, MIT, lunch, meetings…).
-Use time management tools to keep focused: The Pomodoro technique can help you.
-Set a time for communications: messages, emails, etc. 2-3 times per day should be more than enough. If they happen in moments of low focus i.e., after lunch, much better.
-Set clear expectations by communicating the measures to your team and stakeholders, so they know there will be a delay. Add a way to communicate urgencies (real urgencies!), so they know when they can count on you.
-
-4. Avoid multitasking: Context switching, task switching, multitasking… whatever you want to call these behaviors, they’re incredibly hard on your already-taxed brain. And while the immediate costs might feel small, the compounding impact on your productivity is staggering.
-
-    📝 Quick exercise:
-
-Get the focus on just one thing, the most important (MIT again), only one at a time. If you complete one task daily, at the end of the week you will have completed the 5 most important tasks.
-
-
-On Friday, at the end of the day, ask yourself:
-
-    How productive do you feel, from 1 to 10?
-    How would you evaluate your focus, from 1 to 10?
-    How much control over your agenda do you feel you have, from 1 to 10?
-    Compare the results with the values written on Monday
-    Propose 3 measures to increase the values by 1 point
-    Repeat next week!  🌀
-
-Web Pages, and Resources:
-SMART Goals Template
 
 *******************************************************************************************************************
-The framework for conducting successful performance reviews
-
-Fundamental and constant task you should carry out is evaluating the performance of your collaborators.
-
-Prepare the foundations: To define the foundations, it is very important to start with the career ladder, setting those expectations and clarity that are held within each role on the engineering ladder. Define what performance means for the company, and ask yourself what metrics, behaviors, OKRs, competencies, and even cultural values you want to evaluate.
-
-Evangelize your team: We are not prepared to give or receive feedback, and it is usually something we are not taught in our environment. So you, as a leader,  should train your team to give that feedback in the right way. Likewise, your team must be clear about the evaluation process. Who does it? What is the format? What is the objective pursued when carrying out these 360 evaluations?
-
-Reunite & Refine data: Take the time to REALLY understand and comprehend the data. Evaluate what metrics, behaviors, facts, and values you can extract from the exercise. Does the evaluation correspond to reality? Are there biases that can affect the reading of the results?
-
-Formalize the results: Establish a format to present the data to your collaborators and evaluate it with them. How to transmit the message? Connect conclusions with data points or situations. Share with your direct report the good performance,  where she failed but also how she can grow. Remember that communication is in 2 ways, you and her. Ask questions that will help you understand the results even better, and take the time to listen actively. Challenge her to keep growing and turn feedback into actionable next steps.
-
-Follow Up constantly: Create a follow-up plan, run regular 1:1s with your collaborators and add two key ingredients to make this a long-term successful process: Training and challenges.
 
 
 
@@ -140,43 +207,6 @@ Follow Up constantly: Create a follow-up plan, run regular 1:1s with your collab
 
 
 *******************************************************************************************************************
-A framework to give constructive feedback to your tech team. 💊
-
-
-Most common mistakes:
-I wasn't concrete or clear about why we were doing that task (I affected their motivation).
-I didn't give them freedom or autonomy.
-I didn't celebrate their milestones and only looked at what they had to improve.
-I shared my critiques in public — at team meetings, and I couldn't wait to say what I felt at that moment.
-When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
-
-❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
-
-❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
-
-1. Ask for permission
-
-Start by asking permission from the other person. «Do you have a couple of minutes? I have some ideas to improve the process» «I want to tell you something about the performance of the meeting, can we talk?»
-These types of questions will anticipate to your collaborator's brain that there is feedback to come and, thus, create a moment of acceptance and autonomy.
-
-2. Implement the SBI framework model:
-
-[𝗦] Situation: Define when and where the situation happened. Be as specific as possible. 
-[𝗕] Behavior: Describe how that behavior occurred objectively and specifically. Keep to the facts, and don't insert opinions or judgments.
-[𝗜] Impact: Show the impact of the person's behavior on you, your team, and the organization.
-
-3. End with a question
-
-«What do you think about it?» 
-«I consider we should do this, but what do you think?»
-Closing with a bouncing question will turn the situation into a joint problem-solving moment where your collaborator also has the chance to share her opinion and decision.
-It will create commitment on her part rather than compliance.
-
-Managers also have room for improvement.
-
-Those who know how to give proper feedback also ask for it regularly.
-
-As a manager, you also have things to improve, so I recommend you to ask for constant feedback from your team members. — It will help you set up a better continuous improvement process and achieve higher performance.
 
 *******************************************************************************************************************
 
