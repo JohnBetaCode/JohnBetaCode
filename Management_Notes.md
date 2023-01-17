@@ -28,7 +28,7 @@ Apply the SMART model: The SMART Goals framework helps you to set objectives in 
 
 * **T** - Timely When will the goal be accomplished? To create timely goals, make sure each one gets assigned a deadline, whether short-term (“what can I do today?”) or long-term (“what can I do in six months?”). Time-bounded goals ensure lofty ideas can be broken down into actionable steps and make tracking milestones easier and more efficient.
 
-How do you write a SMART goal?: Start writing a specific goal with as much detail as possible. Then, add a measurable action to achieve it, followed by what is needed to accomplish this action and what’s relevant and might influence your process. Set deadlines and timelines to keep track of your progress to finalize it. Remember, write goals that seem realistic and detailed, so you can easily follow what you are setting out to do.
+How do you write a SMART goal? Start writing a specific goal with as much detail as possible. Then, add a measurable action to achieve it, followed by what is needed to accomplish this action and what’s relevant and might influence your process. Set deadlines and timelines to keep track of your progress to finalize it. Remember, write goals that seem realistic and detailed, so you can easily follow what you are setting out to do.
 
 <br />
 
@@ -123,20 +123,21 @@ Reference: [Lidr](https://www.lidr.co)
 
 Most common mistakes:
 
-* I wasn't concrete or clear about why we were doing that task (I affected their motivation).
-* I didn't give them freedom or autonomy.
-* I didn't celebrate their milestones and only looked at what they had to improve.
-* I shared my critiques in public — at team meetings, and I couldn't wait to say what I felt at that moment.
+* It is not concrete or clear about why we were doing that task ( affected motivation).
+* Don't give freedom or autonomy.
+* Dodn't celebrate milestones and only looked at what must be improve.
+* Share critiques in public — at team meetings, and do not wait to say what it's felt at that moment.
 
 When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
 
 ❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
+
 ❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
 
 1. Ask for permission
 
-Start by asking permission from the other person. «Do you have a couple of minutes? I have some ideas to improve the process» «I want to tell you something about the performance of the meeting, can we talk?»
-These types of questions will anticipate to your collaborator's brain that there is feedback to come and, thus, create a moment of acceptance and autonomy.
+    Start by asking permission from the other person. «Do you have a couple of minutes? I have some ideas to improve the process» «I want to tell you something about the performance of the meeting, can we talk?»
+    These types of questions will anticipate to your collaborator's brain that there is feedback to come and, thus, create a moment of acceptance and autonomy.
 
 2. Implement the SBI framework model:
 
