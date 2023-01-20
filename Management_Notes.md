@@ -34,7 +34,7 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
 
 ---
 <!-- ************************************************************************************************************************************ -->
-<br />
+
 
 # **The Management Guideline**
 
@@ -92,10 +92,12 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
 
 Reference: [Lidr](https://www.lidr.co)
 
+<br />
+
 ---
 
 <!-- ************************************************************************************************************************************ -->
-<br />
+
 
 # **Work Relationships**
 
@@ -116,23 +118,28 @@ A fundamental and constant task you should carry out is evaluating the performan
 
 Reference: [Lidr](https://www.lidr.co)
 
+<br />
+
 ---
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ************************************************************************************************************************************ -->
+
 ## **The Constructive Feedback to your Tech Team**
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 Most common mistakes:
 
 * It is not concrete or clear about why we were doing that task ( affected motivation).
 * Don't give freedom or autonomy.
-* Dodn't celebrate milestones and only looked at what must be improve.
+* Don't celebrate milestones and only looked at what must be improve.
 * Share critiques in public — at team meetings, and do not wait to say what it's felt at that moment.
 
 When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
 
-❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
+* ❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
 
-❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
+* ❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
 
 1. Ask for permission
 
@@ -161,7 +168,137 @@ As a manager, you also have things to improve, so I recommend you to ask for con
 
 Reference: [Lidr](https://www.lidr.co)
 
+<br />
+
+---
+
+<!-- ************************************************************************************************************************************ -->
+
+## **Best practices to build an engineering culture where everyone can thrive 💊**
+
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Culture is the “why” behind every action taken by anyone. Those infinite, small actions are what ultimately determine success.
+
+* ❌  **Not working well enough with the team to maintain effective communication**. The fact that the founders and the team are in different time zones without being prepared caused communication to be lost. 
+
+* ❌  **lose trust in the team**, and lose on you, as no longer talking on a personal level – getting the work process to suffer. The planning, prioritization, time management, everything could be affected, and therefore the delivery of the team is slower and with less quality. 
+
+* ⚠️ **A toxic culture is easily noticed**: Communication is not assertive, teams are not synced, managers spend much time micromanaging, and the trust and motivation of the team are reduced. But… A good engineering culture is extremely valuable! Besides keeping your developers close, It sets everyone up for success and holds the team accountable for its stated goals
+
+* 💨 **Culture is a set of practices and behaviors in a company's operation** It's something you experience daily; it's the air you breathe in the company; it's your engineers working happily and healthily, doing meaningful work, and growing professionally and personally. However, achieving a good engineering culture is not something simple, nor is there a single way to achieve it. It all depends on you and the company. But, what exists are good practices you should keep in mind when implementing a culture within your team
+
+
+### 👉 **Reflect on your company values**
+
+Fostering a good engineering culture is part of the values ​​and beliefs of the company and the team members.
+
+    Reflect on the most important beliefs to your team and opt for actionable values. — i.e., collaboration, transparency, continuous improvement, etc.
+
+And here’s something important:  If you say something is important to you and you’d like the rest of your team to care about it, be the first person to live that value. Otherwise, don’t be surprised when nobody else does either. 
+
+### **👉 Start with you** 
+
+Culture & Values are all about living them. Walk the walk, and lead by example.  
+
+If you want to ground a certain culture, you must always be the first to lead by example. Your behavior must align with the behaviors and values you would like your team to adopt.
+
+* If you want people to have a good work-life balance and you don't want them to work late, you can't send them an email late. 
+
+* If you want your direct reports to be well prepared and run their 1:1, you must be the first to prepare YOUR 1:1 with your manager. 
+
+You are a referent for your team, and you will be imitated whether you are a role model or not. 
+
+### **👉 Foster Autonomy** 
+
+The most effective leaders build a team culture based on autonomy to achieve their expectations.
+
+Fostering autonomy in your engineers will make them go from being accountable for their responsibilities to wanting to be accountable, as they will begin to acquire and own their initiatives. 
+
+Your role as a manager is to facilitate mastery, so they can put it into practice autonomously.  As well as facilitate an environment in which they can make decisions and accept failure as part of the learning, and process to be more autonomous.
+
+### **👉 Trust & Transparency**
+
+Transparency by default, is a key value. Try to keep everything as open as possible with the team. eg. use Notion as documentation center, so everyone can access it, thus fostering trust and transparency.
+
+Another example of transparency is to have your engineering career ladder accessible from a well-known location.
+
+It should NOT be a mystery how to get promoted in the company, and the standards should be universally applicable. It hurts your culture if someone can be promoted by achieving less in a different group; it can create a "toxic" culture that you definitely don't want.
+
+### **👉 Encourage assertive communication**
+
+Last but not least, encourage communication as effective and assertive as possible. It has a HUGE impact on your team's experience, motivation, trust, and commitment.
+
+When teams communicate effectively,  they can create goals and outcomes that more members agree on, promoting better teamwork. 
+
+    Culture eats strategy for breakfast. 
+
+Keep it as one of your key priorities at all times
+
+Culture is the “why” behind every action taken by anyone. Those infinite, small actions are what ultimately determine success.
+
+Reference: [Lidr](https://www.lidr.co)
+
+<br />
+
+---
+
+
+
+<!-- ************************************************************************************************************************************ -->
+
+## **Using assertiveness when leading tech teams**
+
+Communication is one of the most important skills to develop in any career, but above all, one of the key skills to succeed in leadership roles.
+
+However, effective communication implies assertive communication. — A key component for engineering leaders: Say the right thing at the right time, in the right way.
+
+Being assertive allows us to express our opinions, needs and feelings without ignoring or harming the opinions, needs, and others' feelings.
+
+### **📙 What is Assertiveness**
+
+The Oxford Dictionary defines it as follows: 
+
+    “the quality of expressing opinions or desires in a strong and confident way, so that people take notice”
+
+Although this expression falls short, it lacks the best part of the definition. Expressing opinions assertively includes at least two characteristics, that the sender does not give up his or her principles or internal standards, and that the receiver does not feel that his or her own is being invaded. 
+
+A better definition is included in Dorland's Medical Dictionary:
+
+    “a form of behavior characterized by a confident declaration or affirmation of a statement without need of proof; this affirms the person's rights or point of view without either aggressively threatening the rights of another (assuming a position of dominance) or submissively permitting another to ignore or deny one's rights or point of view”.
+
+### **🔑 What is the key?**
+
+In our language and actions, assertiveness helps us respect the rights of others. Although assertiveness is bidirectional.
+
+### **✅ Using assertiveness when leading teams**
+
+Effective communication helps to detect problems before they grow, to handle incidents in their early stages, and not when the fire is raging out of control.
+
+In order to communicate assertively, one has to change the paradigm. So far, when leading teams, we have been told about the importance of transmitting charisma, leadership, and strength in our words. — But how do the receivers, our teammates, whether they are subordinates or not, feel about our communication? 
+
+Instead of starting a sentence by saying "I want you to give top priority to this task", we could rephrase it in its assertive stream "I think this task has a higher priority, what do you think?". 
+
+At first glance, it may seem like a disadvantage, the second option forces a conversation, while the first is an imperative statement.
+
+### **🗣️ Benefits of implementing assertive language**
+
+As managers, using assertive communication with the team will keep the lines of communication always open, a team or worker who feels respected, will be willing to express themselves freely. 
+
+Reference: [Lidr](https://www.lidr.co)
+
+<br />
+<br />
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<!-- ************************************************************************************************************************************ -->
+# **Bibliography**
+
+* 📙 **The Power of a Positive No: How to Say No and Still Get to Yes**: This indispensable book gives you a simple three-step method for saying a Positive No. It will show you how to assert and defend your key interests; how to make your No firm and strong; how to resist the other side's aggression and manipulation; and how to do all this while still getting to Yes.
+* 🎥 [**The Beauty of Assertiveness**](https://www.ted.com/talks/dr_abby_hamilton_the_beauty_of_assertiveness): While many people believe that assertiveness is rude and ugly, Dr. Abby presents in this TEDx talk the beauty of assertiveness as a way to show the world that we are smart, kind, and important.
 
 <!-- 
 👉 I did 1:1s without prior preparation, not knowing what to say or how to empower the meeting.
