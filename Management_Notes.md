@@ -1,7 +1,7 @@
 # **The Tech Leadership Framework**
 Collected By: [JohnBetaCode](https://www.linkedin.com/in/johnbetacode/)
 
-This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with the time, and made a summary about what worked for me. 
+This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with time, and made a summary about what worked for me. 
 
 Feel free to chat with me, discuss any topic, and share opinions. 
 
@@ -20,7 +20,7 @@ Apply the SMART model: The SMART Goals framework helps you to set objectives in 
 
 * **S** - Specific: What do you want to accomplish? To be specific, add as many ideas as you can to identify patterns and determine the particular goal you want to pursue. Be careful not to get too broad and instead think about a specific area of focus. As you brainstorm, add sticky notes, move them around the board, and cluster ideas with shapes and frames to stay organized.
 
-* **M** - Measurable: How will you know when you accomplished your goal? Make sure your goals are measurable by adding details, metrics, and performance indicators, making notes of anything you want to track. You can also add more templates to your board like Gantt charts, milestone charts, or action plans to have a more complete overview of a project.
+* **M** - Measurable: How will you know when you accomplished your goal? Make sure your goals are measurable by adding details, metrics, and performance indicators, and making notes of anything you want to track. You can also add more templates to your board like Gantt charts, milestone charts, or action plans to have a more complete overview of a project.
 
 * **A** - Attainable: How can the goal be accomplished? To make your goals attainable, consider splitting them into smaller steps that you prioritize so you can achieve results quickly. And, think about whether the goals are realistic, given constraints like financing.
 
@@ -47,7 +47,7 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
         
     * Just define at the end of the day the first thing you will do the next day, the most critical one, and write it down.
     * Then, every day, first thing in the morning, you just do it. 
-    * Remember, first means no email, no slack, no meetings. Just. Do. It. If there is something else on your agenda the first time in the * morning, try to move it and make sure you block that first hour for the subsequent days and weeks.
+    * Remember, first means no email, no slack, and no meetings. Just. Do. It. If there is something else on your agenda the first time in the * morning, try to move it and make sure you block that first hour for the subsequent days and weeks.
 
 <br />
 
@@ -57,7 +57,7 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
 
     * Try to block 3 slots of 2 hours for deep & shallow work (like MIT). That means 15% of your week.
     * Think about moving some 1:1s, avoiding non-critical meetings, or delegating part of your tasks.
-    * Try to gain this time in the moments of the day when you feel more productive. Trying to focus for 2 hours in a row immediately after lunch is an impossible mission (did you hear about food comma?)
+    * Try to gain this time in the moments of the day when you feel more productive. Trying to focus for 2 hours in a row immediately after lunch is an impossible mission (did you hear about the food comma?)
     * Finally, add a 10-minute buffer after meetings to reorder the notes, write down TODOs, and take a break before the next thing. Change the environment, drink some water, close your eyes and breathe for 1-2 minutes. — Don’t take your phone, walk a bit, and stretch your arms and neck. This will close the chapter and re-energize you for the next one.
 
 <br />
@@ -94,14 +94,8 @@ Reference: [Lidr](https://www.lidr.co)
 
 <br />
 
----
-
-<!-- ************************************************************************************************************************************ -->
-
-
-# **Work Relationships**
-
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+---
 ## **The Framework for Conducting Successful Performance Reviews**
 
 A fundamental and constant task you should carry out is evaluating the performance of your collaborators. 
@@ -120,19 +114,15 @@ Reference: [Lidr](https://www.lidr.co)
 
 <br />
 
----
-
 <!-- ************************************************************************************************************************************ -->
-
+---
 ## **The Constructive Feedback to your Tech Team**
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 Most common mistakes:
 
-* It is not concrete or clear about why we were doing that task ( affected motivation).
+* It is not concrete or clear why we were doing that task ( affected motivation).
 * Don't give freedom or autonomy.
-* Don't celebrate milestones and only looked at what must be improve.
+* Don't celebrate milestones and only looked at what must be improved.
 * Share critiques in public — at team meetings, and do not wait to say what it's felt at that moment.
 
 When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
@@ -170,14 +160,12 @@ Reference: [Lidr](https://www.lidr.co)
 
 <br />
 
----
+
 
 <!-- ************************************************************************************************************************************ -->
-
+---
 ## **Best practices to build an engineering culture where everyone can thrive 💊**
 
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 Culture is the “why” behind every action taken by anyone. Those infinite, small actions are what ultimately determine success.
 
@@ -185,7 +173,7 @@ Culture is the “why” behind every action taken by anyone. Those infinite, sm
 
 * ❌  **lose trust in the team**, and lose on you, as no longer talking on a personal level – getting the work process to suffer. The planning, prioritization, time management, everything could be affected, and therefore the delivery of the team is slower and with less quality. 
 
-* ⚠️ **A toxic culture is easily noticed**: Communication is not assertive, teams are not synced, managers spend much time micromanaging, and the trust and motivation of the team are reduced. But… A good engineering culture is extremely valuable! Besides keeping your developers close, It sets everyone up for success and holds the team accountable for its stated goals
+* ⚠️ **A toxic culture is easily noticed**: Communication is not assertive, teams are not synced, managers spend much time micromanaging, and the trust and motivation of the team are reduced. But… Good engineering culture is extremely valuable! Besides keeping your developers close, It sets everyone up for success and holds the team accountable for its stated goals
 
 * 💨 **Culture is a set of practices and behaviors in a company's operation** It's something you experience daily; it's the air you breathe in the company; it's your engineers working happily and healthily, doing meaningful work, and growing professionally and personally. However, achieving a good engineering culture is not something simple, nor is there a single way to achieve it. It all depends on you and the company. But, what exists are good practices you should keep in mind when implementing a culture within your team
 
@@ -194,7 +182,7 @@ Culture is the “why” behind every action taken by anyone. Those infinite, sm
 
 Fostering a good engineering culture is part of the values ​​and beliefs of the company and the team members.
 
-    Reflect on the most important beliefs to your team and opt for actionable values. — i.e., collaboration, transparency, continuous improvement, etc.
+    Reflect on the most important beliefs of your team and opt for actionable values. — i.e., collaboration, transparency, continuous improvement, etc.
 
 And here’s something important:  If you say something is important to you and you’d like the rest of your team to care about it, be the first person to live that value. Otherwise, don’t be surprised when nobody else does either. 
 
@@ -220,7 +208,7 @@ Your role as a manager is to facilitate mastery, so they can put it into practic
 
 ### **👉 Trust & Transparency**
 
-Transparency by default, is a key value. Try to keep everything as open as possible with the team. eg. use Notion as documentation center, so everyone can access it, thus fostering trust and transparency.
+Transparency by default is a key value. Try to keep everything as open as possible with the team. eg. use Notion as a documentation center, so everyone can access it, thus fostering trust and transparency.
 
 Another example of transparency is to have your engineering career ladder accessible from a well-known location.
 
@@ -228,7 +216,7 @@ It should NOT be a mystery how to get promoted in the company, and the standards
 
 ### **👉 Encourage assertive communication**
 
-Last but not least, encourage communication as effective and assertive as possible. It has a HUGE impact on your team's experience, motivation, trust, and commitment.
+Last but not least, encourage communication as effectively and assertively as possible. It has a HUGE impact on your team's experience, motivation, trust, and commitment.
 
 When teams communicate effectively,  they can create goals and outcomes that more members agree on, promoting better teamwork. 
 
@@ -242,12 +230,9 @@ Reference: [Lidr](https://www.lidr.co)
 
 <br />
 
----
-
-
 
 <!-- ************************************************************************************************************************************ -->
-
+---
 ## **Using assertiveness when leading tech teams**
 
 Communication is one of the most important skills to develop in any career, but above all, one of the key skills to succeed in leadership roles.
@@ -284,15 +269,114 @@ At first glance, it may seem like a disadvantage, the second option forces a con
 
 ### **🗣️ Benefits of implementing assertive language**
 
-As managers, using assertive communication with the team will keep the lines of communication always open, a team or worker who feels respected, will be willing to express themselves freely. 
+As managers, using assertive communication with the team will keep the lines of communication always open, a team or worker who feels respected will be willing to express themselves freely. 
 
 Reference: [Lidr](https://www.lidr.co)
 
-<br />
+https://substack.com/redirect/a7c3c0ce-1fed-478c-92a6-108b592df974?r=1f2t64
 <br />
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
+---
+## **Using assertiveness when leading tech teams**
+
+### **🐦 Bird-eye-view**
+
+One of the most important things for tech leaders is to get out of their area of expertise (backend, frontend, data) and see the product from a higher-level perspective to generate expansion. 
+
+Great tech leaders expand horizontally the boundaries of the technologies they know, allowing them to see technology as a whole. They focus on how well the whole engine works to fulfill business needs, not how each part performs individually. Interactions between the different technologies (and the members or teams responsible for each of them) matters, as well as the processes behind. You should keep an eye on it, as it’s your responsibility to care for the combined output, delegating the low-level details of each area to your team. 
+
+Great tech leaders also expand vertically. They look a bit further and see the long-term impact of the work done, decisions made, their consequences, and risks taken, among others. 
+
+To take all key aspects into account and balance your involvement in the different areas impacting the outcome of your team, I recommend using a simple framework that has worked well for me in the past. 
+
+It defines the operation of a business through 3P: People-Product-Process.
+
+
+<p style="text-align:center;"><img src="https://substack.com/redirect/a7c3c0ce-1fed-478c-92a6-108b592df974?r=1f2t64"  alt="Logo"  width="300"></p>
+
+Some examples of things to take into account in each of the three areas:
+
+**People**
+
+* Have the right people with the right skills
+* Create an environment that helps them perform at their best
+
+**Product**
+
+* Translate business and product requirements to technical tasks along with your team. You can not be the only translator!
+* Prioritize effectively what to do according to business impact
+
+**Process**
+
+* Define efficient and standard ways of handling each step: from communication between departments to deployment. How do we collect information? How do we decide? How do we report results?
+* In order to do that, frameworks and methodologies like DevOps, Agile or Dora metrics allow you to get demonstrated results out of the box (well, you must adapt to your current environment)
+
+As you can see, the 3Ps framework allows you to keep everything in mind and avoid blind spots.
+
+### **🗓 Project Planning**
+
+Given that resources (mainly time and money) are never infinite, your role in managing projects is finding the right tradeoff for each case.
+
+To facilitate it, another framework that works very well is what is known as the Golden Triangle of project management:
+
+<p style="text-align:center;"><img src="https://substack.com/redirect/d6206816-f9b1-4b04-a703-b19486b12976?r=1f2t64"  alt="Logo"  width="500"></p>
+
+What this golden triangle teaches you is that the Quality delivered is limited by 3 variables:
+
+* The scope of work aka the features to build
+* The deadline established to deliver
+* The budget available
+
+It can help you to make decisions when any of the variables change, i.e. if you have been told to include an urgent feature, either time has to be extended or the budget has to be increased in order to keep the same quality. Otherwise, the final product will suffer. This way you can negotiate those other variables, say “no” in case that cannot be guaranteed, or find alternatives.
+
+### **🗣Communication**
+
+Communication is the key ingredient to translating tech into business. 
+
+To gain the support and trust of stakeholders, you must continually and effectively communicate how your role in providing technology resources helps all of you to achieve business objectives. 
+
+Some tips here you can take to boost your communication with stakeholders:
+
+* You are the technical expert. Act as one. — They expect clear and concise answers from you. So synthesize your ideas and bring only the relevant information. Think about what is important to them, bring only a small number of topics and keep the message short.
+
+* Avoid technical jargon as much as you can. Bring metaphors, use examples and analogies to be understood, and of course avoid as much as possible all our tech acronyms and concepts like SDK, API, IDE, Kubernetes, or Microservices.
+
+* Speak their language: Time & Money. The more you link every idea to the impact of those variables, the easier it will be for them to understand you — and the bigger chances you will have to get the buy-in. In the end, is in their interest. 
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+---
+## **The importance of mental well-being awareness in tech teams 💊**
+
+People often think about wellness in terms of physical health — nutrition, sleep, exercise, etc. but it is so much more. 
+
+Wellness integrates physical, mental, and spiritual well-being. Using a 7-dimensions model, we make sure we are balanced, and our daily activities, even the smallest ones, fuel our body, engage our mind and nurture our spirit.
+
+<p style="text-align:center;"><img src="https://substack.com/redirect/1d1f59c4-5bb9-476e-80a1-adf40cfde261?r=1f2t64"  alt="Logo"  width="400"></p>
+
+Believe in the power of wellness to give our fullest potential, and to get it from our peers and collaborators. Motivated employees who are both able and willing to give their best every day are the key factor for organizations to achieve ambitious long-term goals.
+
+However, there is one concept that has gained more and more awareness lately, especially since the pandemic hit the world.
+
+For knowledge workers, lines between work and home have become increasingly blurred. 
+
+It’s not only that many of us are working longer hours. We also have experienced how difficult it is to look after children, and how our social interactions have changed.
+
+In 2019, ‘burnout’ was recognized by the World Health Organisation (WHO) as an ‘occupational phenomenon’, but the problem of burnout has been around for decades.
+
+Then, the pandemic pushed our world into a mental health crisis, and burnout is now cited more than ever as a reason for people to quit.
+
+Often, mental health challenges go unnoticed in the tech culture and burnout rates are increasing day after day.
+
+As a manager, it is your responsibility to address your team’s mental health before these problems affect their lives in depth and, in consequence, affect the entire company.
+
+Deliberately focus on the well-being of your team, demonstrate actively that you care for them, and foster practices that increase overall well-being. 
+
+Lead by example, start the conversation if it’s not happening yet, and facilitate the adoption of individual and team measures.
+
+<br />
+<br />
 
 <!-- ************************************************************************************************************************************ -->
 # **Bibliography**
