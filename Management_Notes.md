@@ -1,4 +1,7 @@
+<!-- ************************************************************************************************************************************ -->
+---
 # **The Tech Leadership Framework**
+
 Collected By: [JohnBetaCode](https://www.linkedin.com/in/johnbetacode/)
 
 This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with time, and made a summary about what worked for me. 
@@ -15,6 +18,7 @@ Feel free to chat with me, discuss any topic, and share opinions.
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 ## **[The Tech Leadership Framework](https://www.mindtools.com/pages/article/smart-goals.htm)**
 
+<br />
 
 Apply the SMART model: The SMART Goals framework helps you to set objectives in a way that is not confusing or vague, giving you a concrete and clear framework to reach your desired outcome. It’s a straightforward tool, and that’s why many professionals use SMART to keep their plans in check and track progress as they execute their strategies. The SMART Goal method is also a great way to design growth plans, either professional or personal, creating room to develop a purpose and fulfilling path.
 
@@ -40,6 +44,8 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 ## **Pillars For Effective Time Management**
+
+<br />
 
 1. **1️⃣ Set clear priorities**: Setting clear priorities helps you focus on what matters most, preventing you from thinking so much about your entire to-do list. As you are not going to do it right now, it only makes you feel overwhelmed. How to do it?
 
@@ -98,6 +104,8 @@ Reference: [Lidr](https://www.lidr.co)
 ---
 ## **The Framework for Conducting Successful Performance Reviews**
 
+<br />
+
 A fundamental and constant task you should carry out is evaluating the performance of your collaborators. 
 
 * ✏️ **Prepare the foundations**: To define the foundations, it is very important to start with the career ladder, setting those expectations and clarity that are held within each role on the engineering ladder. Define what performance means for the company, and ask yourself what metrics, behaviors, OKRs, competencies, and even cultural values you want to evaluate.
@@ -117,6 +125,8 @@ Reference: [Lidr](https://www.lidr.co)
 <!-- ************************************************************************************************************************************ -->
 ---
 ## **The Constructive Feedback to your Tech Team**
+
+<br />
 
 Most common mistakes:
 
@@ -166,6 +176,7 @@ Reference: [Lidr](https://www.lidr.co)
 ---
 ## **Best practices to build an engineering culture where everyone can thrive 💊**
 
+<br />
 
 Culture is the “why” behind every action taken by anyone. Those infinite, small actions are what ultimately determine success.
 
@@ -235,6 +246,8 @@ Reference: [Lidr](https://www.lidr.co)
 ---
 ## **Using assertiveness when leading tech teams**
 
+<br />
+
 Communication is one of the most important skills to develop in any career, but above all, one of the key skills to succeed in leadership roles.
 
 However, effective communication implies assertive communication. — A key component for engineering leaders: Say the right thing at the right time, in the right way.
@@ -273,13 +286,15 @@ As managers, using assertive communication with the team will keep the lines of 
 
 Reference: [Lidr](https://www.lidr.co)
 
-https://substack.com/redirect/a7c3c0ce-1fed-478c-92a6-108b592df974?r=1f2t64
+
 <br />
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ---
 ## **Using assertiveness when leading tech teams**
+
+<br />
 
 ### **🐦 Bird-eye-view**
 
@@ -345,9 +360,13 @@ Some tips here you can take to boost your communication with stakeholders:
 
 * Speak their language: Time & Money. The more you link every idea to the impact of those variables, the easier it will be for them to understand you — and the bigger chances you will have to get the buy-in. In the end, is in their interest. 
 
+<br />
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 ---
 ## **The importance of mental well-being awareness in tech teams 💊**
+
+<br />
 
 People often think about wellness in terms of physical health — nutrition, sleep, exercise, etc. but it is so much more. 
 
@@ -376,13 +395,262 @@ Deliberately focus on the well-being of your team, demonstrate actively that you
 Lead by example, start the conversation if it’s not happening yet, and facilitate the adoption of individual and team measures.
 
 <br />
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+---
+## **Entrepreneurial mindset: A top demand skill for engineering leaders 💊**
+
+<br />
+
+The entrepreneurial mindset is a set of skills and attitudes that make all the difference. Developing it will help you become a unicorn in the tech industry.
+
+Have you ever stopped to think about what makes entrepreneurs unique? 
+
+What makes them leave a secure job, gamble everything to solve a problem they have identified in society and never give up? 
+
+Better yet, how can they stay focused, perform at the highest level, radiate optimism and attract the best talent, despite endless work days, debts or commitments, fierce competition and an uncertain environment?
+
+The entrepreneurial mindset is a set of skills and attitudes that make all the difference. —  From passion to resilience to communication and problem-solving, entrepreneurs exhibit qualities that are highly desirable in any position in any organization.
+
+You will agree that successful leadership in tech requires much more than this entrepreneurial mindset — but having the mindset, attitude, business knowledge, and vision will make a HUGE difference from the first contact. 
+
+<br />
+
+### **The entrepreneurial mindset**
+
+It means behaving like a founder/CEO — whether you are a junior developer or the CTO. It is an attitude towards work, regardless of where you are in the organization.
+
+It means feeling the company's ownership and doing everything in the business's best interest. It means thinking about the customer and the problem the company is trying to solve.
+
+It's an attitude that only brings great things.
+
+The different aspects of the mindset come when asking: what do you need to launch a company successfully? 4 pillars, 4 skills that differentiate successful entrepreneurs are:
+
+<br />
+
+### **Ownership**
+
+Entrepreneurs are responsible and accountable for everything that happens, and they do whatever it takes to succeed. They risk their income, risk their own money for a dream.
+
+You own each project, feel it as yours, involving other skills as: 
+
+* **❤️ Passion**: you deeply want to solve that problem in the world, and love the work it involves to make it happen, even if you don’t like some of the tasks.
+
+* **🤨 Problem-solver**: You are a natural problem-solver. Entrepreneurship is just about that: solving a relevant problem for customers. Think about anyone requesting anything as a final customer, treat them like that, and check the difference.
+
+* **💪 Resilience**: You keep pushing, even when things look hard. You know is part of the process, you know how to get extra energy in that moments, and you don’t give up.
+
+<br />
+
+### **Self-guidance**
+
+An entrepreneur starts from 0, a blank page. She/he doesn’t find a guide there, no processes, no tools, no documents, no clients or sales, there is NOTHING. 
+
+She/he creates the path. She/he has her inner compass that guides her. In fact, it is that compass that takes her off the beaten path against her comfort. 
+
+Self-guidance involves other high-desirable skills as:
+
+* ✅ Proactivity: you don’t wait for anyone to solve your problems. You just go out, face the challenges and find the answers and solutions by yourself.
+
+* 🏆 Self-motivation: you come motivated from home. You know why you do what you do, and you shape your environment to facilitate doing it.
+
+* ⚙️ Autonomy: you can work on your own, with others’ support, but don’t block. Others advise, but you don’t need them to tell you what to do.
+
+<br />
+
+### **Innovation**
+
+Once entrepreneurs have the path, they have to create everything from scratch, everything comes out of their heads. Not only the product but also the entire structure that a company requires to operate, from people and skills to HOW they all operate: the culture!
+
+* 🎨 **Creativity**: you find new ways to solve problems. you are curious, you experiment, and try out new things without the fear of failure. You learn fast, think outside the box and use a different approach to problems.
+
+* 💘 **Customer orientation**: You need to be customer-oriented, value their voices, and their feedback, and be close to them to guide your decisions. You think outside of the box and use a different approach to problems.
+
+* 🙏 **Faith**: You act with confidence, even when no one believes in you or is even able to understand your product. You are not afraid of failure or mistakes along the way, you are fully aware that success will not come at first.
+
+* 📈 **Continuous improvement**: Everything could be better. You are not self-indulgent. You always want it better and are ambitious. Nothing is set in stone. You are aware of the VUCA environment you live in and the competitive advantage of adapting quickly.
+
+<br />
+
+### **Communication**
+
+Entrepreneurs require others to fulfill their dream. — From a team that helps them co-create and sell the product, investors who finance the activity, customers who buy… They need highly developed communication skills to be able to adapt to all these environments and reach their main goals.
+
+Skills that make you a great communicator:
+
+* **🤹 Adaptability**: Different profiles, different personalities, different objectives. You need to be capable to adapt to each environment, from reporting to business stakeholders to a motivational speech to your engineering team.
+
+* **💯 Effective communication**, verbal and non-verbal. Clear and concise messages. Empathic, honest, and vulnerable attitude. You know that the important ones are the others, and you give them the importance they require.
+
+* **😀 Optimist**: Sometimes irrational belief in your purpose, no challenge, problem, or challenge can sink you. You always think positively, see opportunities and value the learning gained: the experience points only add up, and each action and decision bring success closer.
+
+* **⚽ Team player**: You know that you can go further and faster with a team. You value that each person has a special superpower. You know that you depend on others to make your dream come true. Likewise, you delegate with confidence and are demanding, you make others participate in the triumphs, and you accompany and facilitate them to achieve the goals.
+
+* **✨ Inspiration**: With your attitude, you set an example and don't stop at empty words. You work harder and are more efficient. You protect your wellness and manage your time effectively. You take time to keep growing. All of that inspires others to be better. You are a multiplier. 
+
+<br />
+<br />
+
+Successfully leading tech teams requires much more than this entrepreneurial mindset, but having this mindset will make the difference from the first contact, and it all evolves at all leadership levels.
+
+In the end, developing this key mindset will help you become a unicorn in the industry! 🦄 
+
+CTOs are often connected to the business, speak the language, communicate effectively and make decisions from a business point of view…  From the interviews, CTOs are expected to have some experience to fully own the vision from a technical point of view, lead their teams autonomously, motivate team members, be an example of a high-performing individual for their teams, etc.
+
+The problem is further down the ladder. Managers, team leaders, and developers often don't have enough exposure to the business and don't make decisions with the business in mind, leading to poor performance...
+
+<br />
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+---
+## **New manager? You're probably feeling imposter syndrome.**
+
+<br />
+
+* You have felt that you are not up to your job.
+* You know you have a good job, but you don't really believe you have the skills to perform successfully in the role.
+* You hand in the tasks, you do what is asked of you, but you continue to feel that it does not meet expectations and you dedicate dozens of hours to make it “perfect”.
+
+It's hard not to feel this syndrome when you find yourself out of code for several days in a row. Or when you don't review technical documentation as often. You literally see yourself spending the entire day from meeting to meeting, from Slack to email, from fire to fire.
+
+* 👉 You feel like your work has no impact.
+* 👉 You feel like nothing gets better.
+* 👉 You even feel "obsolete" on a technical level.
+
+I understand you! I have had the impostor syndrome in almost all my stages: first-time CTO, first hire for my team, first big project to be delivered, first presentation to investors…
+
+This frustration, overwhelm, obsession or insecurity occurs mainly when we face new situations. — You are trying to perform a new task, something that you do not know (yet) how to do 100%, how to evaluate if you have done it well, what results to expect, or when they will arrive.
+
+### **Being out of the comfort zone puts our body and mind on alert**
+
+Imagine you are a developer, and for 3 years, week after week, sprint after sprint, you are asked to build API endpoints, include a new feature, solve a bug, etc. Change some parameters, modify the data source, some changes in logic… But essentially, same process, same lines of code.
+
+Do you think that after those 3 years, you would feel that tingle in your stomach during the planning session, those doubts and uncertainty in the face of an unknown challenge, or that feeling that you will not be up to the task?
+
+Surely not! ❌
+
+This feeling has been a constant in my life, I give you some examples:
+
+* Me co-founding a startup → I had no idea what I was doing, I had to quit my job and invested my savings to create a product that was not selling.
+
+* Me hiring my first team → How am I supposed to lead engineers older and more experienced than me?
+
+* Me preparing my interview with big, famous, and fancy named companies → I'm not even close to the level in algorithms and design patterns, they're going to ban me for life.
+
+* Me in front of the camera (and 600 people) at my first events → What do I have to teach these much more experienced professionals? Why would they want to listen to me? What value am I going to bring them?
+
+✋ Although it's normal to feel it, it's something you have to battle daily, face and take action. This reaction when leaving your comfort zone is instinctive, a security mechanism inherited from when leaving the cave could mean not living another day. So the important thing is to dare, or else you will never know what could have happened.
+
+So the question is: How do you mentally prepare to take action?
+
+If I had to sum it up in just one piece of advice, it would be this: Ask yourself, what is the worst that could happen?
+
+How likely is it that your life is in danger, that you lose your job, that you don't have a roof over your head, or that you don't have food on your plate?
+
+Maybe all that can happen is that you are going to receive a NO.
+
+Get used to things not going the way you expect is critical learning. Learn to deal with NO and with failure, because it is just that, the validation that this path is not the correct one, or at least not at that moment. That forces you to think of alternatives, analyze what is missing, and take action again.
+
+So:
+
+* Visualize the unfavorable scenario, and you'll be adding a bit of objectivity to the equation. Nothing “drastic” is usually going to happen.
+
+* When you see that most of the time you have achieved and surpassed those that you feared so much, it will become easier to challenge yourself to face the new and unknown.
+
+And how to put it into practice?
+
+Here are some tips that have helped me over the years, in different situations, to deal with imposter syndrome. 
+
+### **1️⃣ Address your insecurities**
+
+The first thing you must do if you want to become a great manager is to address your insecurities. Talk to your manager and your team, show yourself vulnerable and don't keep that feeling to yourself.
+
+You will learn that many of the assumptions about the future, about what others will think if you fail, or about the possible consequences of not living up to it, only live in your mind.
+
+<p style="text-align:center;"><img src="https://ci5.googleusercontent.com/proxy/HBWWVsXTbGWQSH1VFc4X_yGXMDWjJnBNq-7lTuVYySmtOeb9fyEUi37gLG9wK4ZHuzAR2yCJO9dHuTQ8IXRTZmOAMk2HC0yyu4uXh_pDYNWxPeeLOePTuPH3GqbI6aIIAG7DD7La-lKPFkNgk2bfI13kItFyvtz2m5SEs8Ti6kR9nvdISjJ5Tl5EHyIHKttGYEgAnTZEcjUF0nOFlBk2CxtKKBnVSCP2Yp5mSGBHFmh0zFc=s0-d-e1-ft#https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/8vRN3/2022/12/09/8fa3d25e-b193-42fb-b662-d2d5ebc41e58.png"  alt="Logo"  width="700"></p>
+
+If you think it's necessary, also talk about expectations. It will give you a lot of clarity, and on the other side, they will be less demanding. Also, if they tell you what they expect of you, you will avoid falling into the perfectionism trap.
+
+### **2️⃣ Get a mentor**
+
+A mentor will help you talk about your fears and insecurities, guide you to establish an action plan to help you overcome them, and provide a complementary and objective view of the situation, all based on their experience dealing with similar situations.
+
+That fresh pair of eyes could give you the perspective you lack to balance your thoughts.
+
+### **3️⃣ Ask for feedback**
+
+Ask your manager and/or team for feedback on your performance, you need external perspectives that challenge your biased view of reality.
+
+They won't just help you identify the areas for improvement that are important to them (those are the ones that matter!). Most importantly, they will help you see what you are doing right. Your head is probably too busy analyzing mistakes to stop and celebrate.
+
+In addition, they will surely be happy to share tips, examples or resources to improve. And they will make themselves available if you need help, and not just feedback. Count on them and do not try to fight the battle alone, you do not have to show "that you can do it". Nobody knows knowing, what is expected is not that you do everything right the first time. What is expected is that you are effective.
+
+### **4️⃣ Reflect on your goals achieved**
+
+Daily task!
+
+Reflect on all that you have accomplished today. Even if you think they are “insignificant” milestones, it all adds to your confidence and builds a positive “yes I can” mental discourse.
+
+If you can, write it down. Trust me, it makes a difference.
+
+When you look back on “every once in a while,” you realize how much you've accomplished, and you probably already have results to link results to actions. It will stop being a matter of luck to be a matter of merit. This will make it much easier to continue gaining confidence.
+
+Don't just look at the bottom of the ladder to find out how far you are still from the top; that will always be in motion.
+
+Instead, take the time to look down and see how far off the ground you are now. Celebrating these small milestones by “looking down” charges you with positive energy and optimism to keep “looking up”.
+
+### **5️⃣ Compare yourself**
+
+But only with yourself!
+
+Today you are better than yesterday, and that is the only thing that matters, and what you should ask yourself every night.
+
+Don't waste time comparing yourself to others, it will never be a fair comparison and it will make you feel worse. Instead, spend that time and energy wisely working on yourself.
+
+### **6️⃣ Don't stop doing new things.**
+
+Do things that are challenging for you, things that involve getting out of your comfort zone. Things that scare you and imply a change.
+
+It can be a new sport or hobby, traveling or meeting “different” people than usual in your day to day. Whatever it is, dare! Only then can you understand that you have much more capacity than you think to face the new and unknown.
+
+<br />
 <br />
 
 <!-- ************************************************************************************************************************************ -->
 # **Bibliography**
 
+## **Books**:
+
 * 📙 **The Power of a Positive No: How to Say No and Still Get to Yes**: This indispensable book gives you a simple three-step method for saying a Positive No. It will show you how to assert and defend your key interests; how to make your No firm and strong; how to resist the other side's aggression and manipulation; and how to do all this while still getting to Yes.
+
+* 📙 [**The Manager's Path**](https://www.amazon.es/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1491973897&linkCode=as2&tag=recomendad088-21&linkId=dde108d0273e43e32ec200c034d7c639): A Guide for Tech Leaders Navigating Growth and Change — Por Camille Fournier.
+
+* 📙 [**The Making of a Manager**](https://www.amazon.es/Making-Manager-What-Everyone-Looks/dp/0753552892?_encoding=UTF8&qid=1671625863&sr=8-1&linkCode=sl1&tag=recomendad088-21&linkId=93bd5da5578f376660d2ed773a1210f9&language=es_ES&ref_=as_li_ss_tl): What to Do When Everyone Looks to You por Julie Zhuo 
+
+* 📙 [**Too Many Bosses, Too Few Leaders**](https://www.amazon.es/gp/product/1451646674/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=recomendad088-21&creative=24630&linkCode=as2&creativeASIN=1451646674&linkId=93634e885c64546d794602fc6226d360) — Por Rajeev Peshawaria
+
+* 📙 [**Start With Why**](https://www.amazon.es/gp/product/0241958229/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0241958229&linkCode=as2&tag=recomendad088-21&linkId=9c6060c8513d9df646400464911781fe) — Por Simon Sinek
+
+* 📙 [**Managing Humans: Biting and Humorous Tales of a Software Engineering Manages**](https://www.amazon.es/gp/product/1484221575/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1484221575&linkCode=as2&tag=recomendad088-21&linkId=fcda75f4af1c72a875b9def957c77fcd) — Por Michael Lopp 
+
+
+## **Videos**:
+
 * 🎥 [**The Beauty of Assertiveness**](https://www.ted.com/talks/dr_abby_hamilton_the_beauty_of_assertiveness): While many people believe that assertiveness is rude and ugly, Dr. Abby presents in this TEDx talk the beauty of assertiveness as a way to show the world that we are smart, kind, and important.
+
+
+## **Interviews**:
+
+* 🎙️ [**¿Cómo convertirte en CTO?**](https://www.youtube.com/watch?v=NqRMD1LUjSo&list=PL1LOpMpqokN6zLyz7_lp1W7PxVkXXmZ6X) — Junto a Oswaldo Alvarez en  Coffee power Podcast.
+
+* 🎙️ [**Gestionando equipos IT en remoto y el employee journey**](https://www.youtube.com/watch?v=3MpTbhBmTEE&list=PL1LOpMpqokN6zLyz7_lp1W7PxVkXXmZ6X) — Junto a Javier Cadierno de Tadatic.
+
+* 🎙️ [**Micro hábitos y rutinas para Devs de alto rendimiento**](https://www.youtube.com/watch?v=vOKNGoc4kC4&list=PL1LOpMpqokN6zLyz7_lp1W7PxVkXXmZ6X) — Junto a Keepcoding.
+
+* 🎙️ [**Mi historia como CTO: de 0 a Unicornio**](https://www.youtube.com/watch?v=opHyep_hpcs&list=PL1LOpMpqokN6zLyz7_lp1W7PxVkXXmZ6X) — Junto a Marcel Gozalbo y Xavi Capa de Opground.
+
+* 🎙️ [**El camino del guerrero**](https://www.techasting.com/1448989/6187261-el-camino-del-guerrero) — Junto a nuestro mentor, Alfons Foubert en su podcast Techasting.
+
 
 <!-- 
 👉 I did 1:1s without prior preparation, not knowing what to say or how to empower the meeting.
