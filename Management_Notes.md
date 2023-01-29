@@ -737,6 +737,43 @@ Doing so can change your life inside and outside of work, both professionally an
 
 <br />
 
+<!-- ************************************************************************************************************************************ -->
+---
+## **It's Not a Promotion, it's a Career Change**
+
+<br />
+
+In the tech world, most of the transitions towards management are born from the company's own needs, and not from the initiative of the employee. In addition, on many occasions the process is not exactly guided, it looks very little like joining a new company, with training, support, progressively more complex tasks...
+
+Nothing of that. It's a lot more like being thrown into a pool without a float: *It's only up to you to learn to swim in time... or sink.*
+
+However, there is always a common denominator: it is not a simple promotion with added responsibilities, it is a total career change. You are now a junior manager, and all your experience as a developer fades into the background.
+
+From one day to the next, your schedule changes radically: what used to be a few scrum ceremonies and a lot of time to schedule become product meetings, planning sessions, 1-1s with each member of your team, interviews with candidates, evaluations of performance, and dealing with more interruptions than you thought you could tolerate.
+
+Much of the day-to-day situations will be new to you:
+
+* How do I resolve a conflict within the team?
+* How do I increase motivation?
+* How do I avoid brain drain?
+* How do I present the project planning to the business?
+
+New skills are required to deal with these questions, but also processes that facilitate standardization and decision-making. There are recipes for every situation, but first, you have to learn to cook.
+
+The biggest challenges are always the most rewarding, and of course, becoming a technology leader is no exception. The personal and professional growth that involves solving all the situations described above multiplies your value, but above all, it multiplies your impact.
+
+Now you're responsible for a lot more code, but especially for other people's growth. You are a role model for them and see your behaviors and practices imitated, have weight in their professional career, and their performance directly affects the achievement of the objectives of the organization (which is how your effectiveness as a leader will be evaluated).
+
+Making the transition is not a piece of cake
+
+This transition is one of the most difficult you can face as a developer, and it requires not only previous preparation, but also a guided landing in which you have 3 key components:
+
+* 💪 The necessary training
+* ✨ Space to gradually gain experience in responsibilities.
+* 👨‍💼 An accompaniment by other managers from whom to learn good practices and with whom to share challenges, concerns and achievements.
+
+Only then will the formal leadership stage be a success and both you and your organization will benefit from the multiplier effect of a good technology leader.
+
 <br />
 <br />
 
@@ -815,18 +852,6 @@ Managers are role models in every aspect, whether we like it or not. You have a 
 Losing someone is a chance to find someone better, stronger, and more agile. Loses are new opportunities.
 
 
-
-*******************************************************************************************************************
-
-
-
-
-
-
-
-*******************************************************************************************************************
-
-*******************************************************************************************************************
 
 Retención de Talento:
 Stock options.
