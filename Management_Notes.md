@@ -352,7 +352,7 @@ To facilitate it, another framework that works very well is what is known as the
 
 
 <p align="center">
-  <img width="460"  src="https://substack.com/redirect/d6206816-f9b1-4b04-a703-b19486b12976?r=1f2t64">
+  <img width="460"  src="https://user-images.githubusercontent.com/43115782/215346105-910924d9-9ec1-4bb0-b0d1-4856aa5d1eb4.png">
 </p>
 
 
