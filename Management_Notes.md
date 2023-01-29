@@ -96,8 +96,6 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
     * Propose 3 measures to increase the values by 1 point
     * Repeat next week!  🌀
 
-Reference: [Lidr](https://www.lidr.co)
-
 <br />
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -117,8 +115,6 @@ A fundamental and constant task you should carry out is evaluating the performan
 * 💯 **Formalize the results**: Establish a format to present the data to your collaborators and evaluate it with them. How to transmit the message? Connect conclusions with data points or situations. Share with your direct report the good performance,  where she failed but also how she can grow. Remember that communication is in 2 ways, you and her. Ask questions that will help you understand the results even better, and take the time to listen actively. Challenge her to keep growing and turn feedback into actionable next steps.
 
 * ⏩ **Follow Up constantly**: Create a follow-up plan, run regular 1:1s with your collaborators and add two key ingredients to make this a long-term successful process: Training and challenges.
-
-Reference: [Lidr](https://www.lidr.co)
 
 <br />
 
@@ -148,22 +144,22 @@ When you become a manager, you have to understand how to deliver the message pro
 
 2. Implement the SBI framework model:
 
-[𝗦] Situation: Define when and where the situation happened. Be as specific as possible. 
-[𝗕] Behavior: Describe how that behavior occurred objectively and specifically. Keep to the facts, and don't insert opinions or judgments.
-[𝗜] Impact: Show the impact of the person's behavior on you, your team, and the organization.
+* [𝗦] Situation: Define when and where the situation happened. Be as specific as possible. 
+* [𝗕] Behavior: Describe how that behavior occurred objectively and specifically. Keep to the facts, and don't insert opinions or judgments.
+* [𝗜] Impact: Show the impact of the person's behavior on you, your team, and the organization.
 
 3. End with a question
 
-«What do you think about it?» 
-«I consider we should do this, but what do you think?»
-Closing with a bouncing question will turn the situation into a joint problem-solving moment where your collaborator also has the chance to share her opinion and decision.
-It will create commitment on her part rather than compliance.
+    «What do you think about it?» 
+    «I consider we should do this, but what do you think?»
+    Closing with a bouncing question will turn the situation into a joint problem-solving moment where your collaborator also has the chance to share her opinion and decision.
+    It will create commitment on her part rather than compliance.
 
 Managers also have room for improvement.
 
 Those who know how to give proper feedback also ask for it regularly.
 
-As a manager, you also have things to improve, so I recommend you to ask for constant feedback from your team members. — It will help you set up a better continuous improvement process and achieve higher performance.
+As a manager, you also have things to improve, so I recommend you ask for constant feedback from your team members. — It will help you set up a better continuous improvement process and achieve higher performance.
 
 
 Reference: [Lidr](https://www.lidr.co)
@@ -189,6 +185,8 @@ Culture is the “why” behind every action taken by anyone. Those infinite, sm
 * 💨 **Culture is a set of practices and behaviors in a company's operation** It's something you experience daily; it's the air you breathe in the company; it's your engineers working happily and healthily, doing meaningful work, and growing professionally and personally. However, achieving a good engineering culture is not something simple, nor is there a single way to achieve it. It all depends on you and the company. But, what exists are good practices you should keep in mind when implementing a culture within your team
 
 
+<br />
+
 ### 👉 **Reflect on your company values**
 
 Fostering a good engineering culture is part of the values ​​and beliefs of the company and the team members.
@@ -196,6 +194,8 @@ Fostering a good engineering culture is part of the values ​​and beliefs of 
     Reflect on the most important beliefs of your team and opt for actionable values. — i.e., collaboration, transparency, continuous improvement, etc.
 
 And here’s something important:  If you say something is important to you and you’d like the rest of your team to care about it, be the first person to live that value. Otherwise, don’t be surprised when nobody else does either. 
+
+<br />
 
 ### **👉 Start with you** 
 
@@ -209,6 +209,8 @@ If you want to ground a certain culture, you must always be the first to lead by
 
 You are a referent for your team, and you will be imitated whether you are a role model or not. 
 
+<br />
+
 ### **👉 Foster Autonomy** 
 
 The most effective leaders build a team culture based on autonomy to achieve their expectations.
@@ -217,6 +219,8 @@ Fostering autonomy in your engineers will make them go from being accountable fo
 
 Your role as a manager is to facilitate mastery, so they can put it into practice autonomously.  As well as facilitate an environment in which they can make decisions and accept failure as part of the learning, and process to be more autonomous.
 
+<br />
+
 ### **👉 Trust & Transparency**
 
 Transparency by default is a key value. Try to keep everything as open as possible with the team. eg. use Notion as a documentation center, so everyone can access it, thus fostering trust and transparency.
@@ -224,6 +228,8 @@ Transparency by default is a key value. Try to keep everything as open as possib
 Another example of transparency is to have your engineering career ladder accessible from a well-known location.
 
 It should NOT be a mystery how to get promoted in the company, and the standards should be universally applicable. It hurts your culture if someone can be promoted by achieving less in a different group; it can create a "toxic" culture that you definitely don't want.
+
+<br />
 
 ### **👉 Encourage assertive communication**
 
@@ -237,14 +243,11 @@ Keep it as one of your key priorities at all times
 
 Culture is the “why” behind every action taken by anyone. Those infinite, small actions are what ultimately determine success.
 
-Reference: [Lidr](https://www.lidr.co)
-
 <br />
-
 
 <!-- ************************************************************************************************************************************ -->
 ---
-## **Using assertiveness when leading tech teams**
+## **Using Assertiveness When Leading Tech Teams**
 
 <br />
 
@@ -253,6 +256,8 @@ Communication is one of the most important skills to develop in any career, but 
 However, effective communication implies assertive communication. — A key component for engineering leaders: Say the right thing at the right time, in the right way.
 
 Being assertive allows us to express our opinions, needs and feelings without ignoring or harming the opinions, needs, and others' feelings.
+
+<br />
 
 ### **📙 What is Assertiveness**
 
@@ -266,19 +271,25 @@ A better definition is included in Dorland's Medical Dictionary:
 
     “a form of behavior characterized by a confident declaration or affirmation of a statement without need of proof; this affirms the person's rights or point of view without either aggressively threatening the rights of another (assuming a position of dominance) or submissively permitting another to ignore or deny one's rights or point of view”.
 
+<br />
+
 ### **🔑 What is the key?**
 
 In our language and actions, assertiveness helps us respect the rights of others. Although assertiveness is bidirectional.
+
+<br />
 
 ### **✅ Using assertiveness when leading teams**
 
 Effective communication helps to detect problems before they grow, to handle incidents in their early stages, and not when the fire is raging out of control.
 
-In order to communicate assertively, one has to change the paradigm. So far, when leading teams, we have been told about the importance of transmitting charisma, leadership, and strength in our words. — But how do the receivers, our teammates, whether they are subordinates or not, feel about our communication? 
+To communicate assertively, one has to change the paradigm. So far, when leading teams, we have been told about the importance of transmitting charisma, leadership, and strength in our words. — But how do the receivers, our teammates, whether they are subordinates or not, feel about our communication? 
 
 Instead of starting a sentence by saying "I want you to give top priority to this task", we could rephrase it in its assertive stream "I think this task has a higher priority, what do you think?". 
 
 At first glance, it may seem like a disadvantage, the second option forces a conversation, while the first is an imperative statement.
+
+<br />
 
 ### **🗣️ Benefits of implementing assertive language**
 
@@ -286,13 +297,12 @@ As managers, using assertive communication with the team will keep the lines of 
 
 Reference: [Lidr](https://www.lidr.co)
 
-
 <br />
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ---
-## **Using assertiveness when leading tech teams**
+## **Using Assertiveness When Leading tech Teams**
 
 <br />
 
@@ -300,7 +310,7 @@ Reference: [Lidr](https://www.lidr.co)
 
 One of the most important things for tech leaders is to get out of their area of expertise (backend, frontend, data) and see the product from a higher-level perspective to generate expansion. 
 
-Great tech leaders expand horizontally the boundaries of the technologies they know, allowing them to see technology as a whole. They focus on how well the whole engine works to fulfill business needs, not how each part performs individually. Interactions between the different technologies (and the members or teams responsible for each of them) matters, as well as the processes behind. You should keep an eye on it, as it’s your responsibility to care for the combined output, delegating the low-level details of each area to your team. 
+Great tech leaders expand horizontally the boundaries of the technologies they know, allowing them to see technology as a whole. They focus on how well the whole engine works to fulfill business needs, not how each part performs individually. Interactions between the different technologies (and the members or teams responsible for each of them) matter, as well as the processes behind them. You should keep an eye on it, as it’s your responsibility to care for the combined output, delegating the low-level details of each area to your team. 
 
 Great tech leaders also expand vertically. They look a bit further and see the long-term impact of the work done, decisions made, their consequences, and risks taken, among others. 
 
@@ -308,8 +318,9 @@ To take all key aspects into account and balance your involvement in the differe
 
 It defines the operation of a business through 3P: People-Product-Process.
 
-
-<p style="text-align:center;"><img src="https://substack.com/redirect/a7c3c0ce-1fed-478c-92a6-108b592df974?r=1f2t64"  alt="Logo"  width="300"></p>
+<p align="center">
+  <img width="350"  src="https://substack.com/redirect/a7c3c0ce-1fed-478c-92a6-108b592df974?r=1f2t64">
+</p>
 
 Some examples of things to take into account in each of the three areas:
 
@@ -330,13 +341,20 @@ Some examples of things to take into account in each of the three areas:
 
 As you can see, the 3Ps framework allows you to keep everything in mind and avoid blind spots.
 
+<br />
+
 ### **🗓 Project Planning**
 
 Given that resources (mainly time and money) are never infinite, your role in managing projects is finding the right tradeoff for each case.
 
 To facilitate it, another framework that works very well is what is known as the Golden Triangle of project management:
 
-<p style="text-align:center;"><img src="https://substack.com/redirect/d6206816-f9b1-4b04-a703-b19486b12976?r=1f2t64"  alt="Logo"  width="500"></p>
+
+
+<p align="center">
+  <img width="460"  src="https://substack.com/redirect/d6206816-f9b1-4b04-a703-b19486b12976?r=1f2t64">
+</p>
+
 
 What this golden triangle teaches you is that the Quality delivered is limited by 3 variables:
 
@@ -344,9 +362,11 @@ What this golden triangle teaches you is that the Quality delivered is limited b
 * The deadline established to deliver
 * The budget available
 
-It can help you to make decisions when any of the variables change, i.e. if you have been told to include an urgent feature, either time has to be extended or the budget has to be increased in order to keep the same quality. Otherwise, the final product will suffer. This way you can negotiate those other variables, say “no” in case that cannot be guaranteed, or find alternatives.
+It can help you to make decisions when any of the variables change, i.e. if you have been told to include an urgent feature, either time has to be extended or the budget has to be increased to keep the same quality. Otherwise, the final product will suffer. This way you can negotiate those other variables, say “no” in case that cannot be guaranteed, or find alternatives.
 
-### **🗣Communication**
+<br />
+
+### **🗣 Communication**
 
 Communication is the key ingredient to translating tech into business. 
 
@@ -364,7 +384,7 @@ Some tips here you can take to boost your communication with stakeholders:
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 ---
-## **The importance of mental well-being awareness in tech teams 💊**
+## **The Importance of Mental Well-Being Awareness in Tech Teams 💊**
 
 <br />
 
@@ -372,7 +392,12 @@ People often think about wellness in terms of physical health — nutrition, sle
 
 Wellness integrates physical, mental, and spiritual well-being. Using a 7-dimensions model, we make sure we are balanced, and our daily activities, even the smallest ones, fuel our body, engage our mind and nurture our spirit.
 
-<p style="text-align:center;"><img src="https://substack.com/redirect/1d1f59c4-5bb9-476e-80a1-adf40cfde261?r=1f2t64"  alt="Logo"  width="400"></p>
+<p align="center">
+  <img width="460"  src="https://substack.com/redirect/1d1f59c4-5bb9-476e-80a1-adf40cfde261?r=1f2t64">
+</p>
+
+
+<br />
 
 Believe in the power of wellness to give our fullest potential, and to get it from our peers and collaborators. Motivated employees who are both able and willing to give their best every day are the key factor for organizations to achieve ambitious long-term goals.
 
@@ -398,7 +423,7 @@ Lead by example, start the conversation if it’s not happening yet, and facilit
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 ---
-## **Entrepreneurial mindset: A top demand skill for engineering leaders 💊**
+## **Entrepreneurial Mindset: A Top Demand Skill for Engineering Leaders 💊**
 
 <br />
 
@@ -424,7 +449,7 @@ It means feeling the company's ownership and doing everything in the business's 
 
 It's an attitude that only brings great things.
 
-The different aspects of the mindset come when asking: what do you need to launch a company successfully? 4 pillars, 4 skills that differentiate successful entrepreneurs are:
+The different aspects of the mindset come when asking: what do you need to launch a company successfully? 4 pillars, and 4 skills that differentiate successful entrepreneurs are:
 
 <br />
 
@@ -446,7 +471,7 @@ You own each project, feel it as yours, involving other skills as:
 
 An entrepreneur starts from 0, a blank page. She/he doesn’t find a guide there, no processes, no tools, no documents, no clients or sales, there is NOTHING. 
 
-She/he creates the path. She/he has her inner compass that guides her. In fact, it is that compass that takes her off the beaten path against her comfort. 
+She/he creates the path. She/he has the inner compass that guides her. In fact, it is that compass that takes her off the beaten path against her comfort. 
 
 Self-guidance involves other high-desirable skills as:
 
@@ -503,7 +528,7 @@ The problem is further down the ladder. Managers, team leaders, and developers o
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 ---
-## **New manager? You're probably feeling imposter syndrome.**
+## **New Manager? You're Probably Feeling Imposter Syndrome.**
 
 <br />
 
@@ -521,9 +546,11 @@ I understand you! I have had the impostor syndrome in almost all my stages: firs
 
 This frustration, overwhelm, obsession or insecurity occurs mainly when we face new situations. — You are trying to perform a new task, something that you do not know (yet) how to do 100%, how to evaluate if you have done it well, what results to expect, or when they will arrive.
 
+<br />
+
 ### **Being out of the comfort zone puts our body and mind on alert**
 
-Imagine you are a developer, and for 3 years, week after week, sprint after sprint, you are asked to build API endpoints, include a new feature, solve a bug, etc. Change some parameters, modify the data source, some changes in logic… But essentially, same process, same lines of code.
+Imagine you are a developer, and for 3 years, week after week, sprint after sprint, you are asked to build API endpoints, include a new feature, solve a bug, etc. Change some parameters, modify the data source, some changes in logic… But essentially, same process, the same lines of code.
 
 Do you think that after those 3 years, you would feel that tingle in your stomach during the planning session, those doubts and uncertainty in the face of an unknown challenge, or that feeling that you will not be up to the task?
 
@@ -561,21 +588,30 @@ And how to put it into practice?
 
 Here are some tips that have helped me over the years, in different situations, to deal with imposter syndrome. 
 
+<br />
+
 ### **1️⃣ Address your insecurities**
 
-The first thing you must do if you want to become a great manager is to address your insecurities. Talk to your manager and your team, show yourself vulnerable and don't keep that feeling to yourself.
+The first thing you must do if you want to become a great manager is to address your insecurities. Talk to your manager and your team, show yourself vulnerability and don't keep that feeling to yourself.
 
 You will learn that many of the assumptions about the future, about what others will think if you fail, or about the possible consequences of not living up to it, only live in your mind.
 
-<p style="text-align:center;"><img src="https://ci5.googleusercontent.com/proxy/HBWWVsXTbGWQSH1VFc4X_yGXMDWjJnBNq-7lTuVYySmtOeb9fyEUi37gLG9wK4ZHuzAR2yCJO9dHuTQ8IXRTZmOAMk2HC0yyu4uXh_pDYNWxPeeLOePTuPH3GqbI6aIIAG7DD7La-lKPFkNgk2bfI13kItFyvtz2m5SEs8Ti6kR9nvdISjJ5Tl5EHyIHKttGYEgAnTZEcjUF0nOFlBk2CxtKKBnVSCP2Yp5mSGBHFmh0zFc=s0-d-e1-ft#https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/8vRN3/2022/12/09/8fa3d25e-b193-42fb-b662-d2d5ebc41e58.png"  alt="Logo"  width="700"></p>
+
+<p align="center">
+  <img width="460" height="300" src="https://ci5.googleusercontent.com/proxy/HBWWVsXTbGWQSH1VFc4X_yGXMDWjJnBNq-7lTuVYySmtOeb9fyEUi37gLG9wK4ZHuzAR2yCJO9dHuTQ8IXRTZmOAMk2HC0yyu4uXh_pDYNWxPeeLOePTuPH3GqbI6aIIAG7DD7La-lKPFkNgk2bfI13kItFyvtz2m5SEs8Ti6kR9nvdISjJ5Tl5EHyIHKttGYEgAnTZEcjUF0nOFlBk2CxtKKBnVSCP2Yp5mSGBHFmh0zFc=s0-d-e1-ft#https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/8vRN3/2022/12/09/8fa3d25e-b193-42fb-b662-d2d5ebc41e58.png">
+</p>
 
 If you think it's necessary, also talk about expectations. It will give you a lot of clarity, and on the other side, they will be less demanding. Also, if they tell you what they expect of you, you will avoid falling into the perfectionism trap.
+
+<br />
 
 ### **2️⃣ Get a mentor**
 
 A mentor will help you talk about your fears and insecurities, guide you to establish an action plan to help you overcome them, and provide a complementary and objective view of the situation, all based on their experience dealing with similar situations.
 
 That fresh pair of eyes could give you the perspective you lack to balance your thoughts.
+
+<br />
 
 ### **3️⃣ Ask for feedback**
 
@@ -585,7 +621,9 @@ They won't just help you identify the areas for improvement that are important t
 
 In addition, they will surely be happy to share tips, examples or resources to improve. And they will make themselves available if you need help, and not just feedback. Count on them and do not try to fight the battle alone, you do not have to show "that you can do it". Nobody knows knowing, what is expected is not that you do everything right the first time. What is expected is that you are effective.
 
-### **4️⃣ Reflect on your goals achieved**
+<br />
+
+### **4️⃣ Reflect on Your Goals Achieved**
 
 Daily task!
 
@@ -599,7 +637,9 @@ Don't just look at the bottom of the ladder to find out how far you are still fr
 
 Instead, take the time to look down and see how far off the ground you are now. Celebrating these small milestones by “looking down” charges you with positive energy and optimism to keep “looking up”.
 
-### **5️⃣ Compare yourself**
+<br />
+
+### **5️⃣ Compare Yourself**
 
 But only with yourself!
 
@@ -607,11 +647,95 @@ Today you are better than yesterday, and that is the only thing that matters, an
 
 Don't waste time comparing yourself to others, it will never be a fair comparison and it will make you feel worse. Instead, spend that time and energy wisely working on yourself.
 
+<br />
+
 ### **6️⃣ Don't stop doing new things.**
 
 Do things that are challenging for you, things that involve getting out of your comfort zone. Things that scare you and imply a change.
 
 It can be a new sport or hobby, traveling or meeting “different” people than usual in your day to day. Whatever it is, dare! Only then can you understand that you have much more capacity than you think to face the new and unknown.
+
+<br />
+
+<!-- ************************************************************************************************************************************ -->
+---
+## **The Effective Communication, and My Dilemma with Couples**
+
+<br />
+
+“Simply: be quiet and listen carefully to the other person, until the end”
+
+As a Software/Robotics engineer and team leader, the problem-solving mindset is everywhere around me. It has been my day to day for some years, in the code and outside of it. Problem → Solution. I am the arrow, my mission is to go from one side to the other.
+
+And although today this problem-solving attitude is essential for any high-performance professional, it is not always the way to go. It is just one more tool, and as such, we should only use it when the situation requires it.
+
+On many occasions, our only role as leaders is to LISTEN. Just listen!
+
+And the same happens in relationships.
+
+In most situations you are not required to solve any problems, just be a support for the other person.
+
+This is what I learned when I pushed my relationship to the limit! 😵‍💫
+
+When Susana, my ex-girlfriend, came home from work or day, she used to share her day with me.
+
+Sometimes they were good days and sometimes not so much.
+
+On those “bad days”, when she would talk to me about her problems, my mind (as a good engineer) would immediately begin to analyze data and think of possible solutions.
+
+I proposed the infallible solution, I asked when she could carry it out or who to rely on, I recommended and showed her tools... My experience allowed me to put together a complete project in my head in seconds that would put an end to that problem. I felt like the hero coming to save her day.
+
+But... things didn't turn out as I expected. She hadn't asked me for help. And that changes everything.
+
+<br />
+
+### **The consequences?**
+
+Offering my help without asking made her feel like a little girl who needs constant support.
+
+She felt obliged to do it, to carry out something that I had "imposed" on her, which limited her decision-making capacity and autonomy, causing her total rejection. Worst of all, I was frustrated for not having carried out the solution she had proposed!
+
+What began as a conversation always ended in discussion, which added to her problem, and I sank her.
+
+The situation got worse until she told me that she would no longer share her problems with me. She didn't trust me anymore, I wasn't her rock for bad times. She had pushed my relationship to the limit.
+
+<br />
+
+### **What was going on in the background?**
+
+It seems simple but it is not: I did not understand the objective that she was pursuing with that conversation.
+
+She needed empathy, to be heard, to feel understood… Instead, I was offering her protection and solutions that she had not asked for.
+
+Besides, I didn't know how to listen. I was missing most of the message for me by not paying attention to emotions, gestures, or non-verbal language, as she would tune me out in the middle of the conversation and stop actively listening to get inside my head.
+
+Unsolicited protection, lack of empathy, and the icing on the cake: I made the problem my own and she added herself to my list, overwhelming and frustrating me in equal measure.
+
+<br />
+
+### **So how to change things?**
+
+During the communication session, Alfons Foubert shared some basic but essential tips such as:
+
+* 👂 Simply listen in a 100% concentrated and conscious way, without doing anything else — 0 distractions like TV, mobile or computer.
+
+* 🎧 Show that you are actively listening: look at the person, nod, summarize what you have understood and empathize with the emotion behind the words (with comments and with your own facial or body expression).
+
+* 👨‍⚖️ Do not judge. Just try to understand the situation. Silence your inner voice for a moment.
+
+* 🚩 Do not interrupt.
+
+* 🚩 DO NOT propose any solution or give your opinion if you have not been asked for it.
+
+These are simple actions to take. It's just looking, listening and being silent.
+
+As Alfons says: *Don't listen to answer; listen to UNDERSTAND.*
+
+If there is a superpower that software engineers must develop, it is learning to communicate effectively.
+
+Doing so can change your life inside and outside of work, both professionally and personally.
+
+<br />
 
 <br />
 <br />
@@ -621,11 +745,11 @@ It can be a new sport or hobby, traveling or meeting “different” people than
 
 ## **Books**:
 
-* 📙 **The Power of a Positive No: How to Say No and Still Get to Yes**: This indispensable book gives you a simple three-step method for saying a Positive No. It will show you how to assert and defend your key interests; how to make your No firm and strong; how to resist the other side's aggression and manipulation; and how to do all this while still getting to Yes.
+* 📙 [**The Power of a Positive No: How to Say No and Still Get to Yes**](https://www.amazon.com/Power-Positive-No-Relationship-Still/dp/0553384260/ref=sr_1_1?crid=3Q1NHF1952H8C&keywords=The+Power+of+a+Positive+No%3A+How+to+Say+No+and+Still+Get+to+Yes&qid=1674827204&sprefix=the+power+of+a+positive+no+how+to+say+no+and+still+get+to+yes%2Caps%2C146&sr=8-1): This indispensable book gives you a simple three-step method for saying a Positive No. It will show you how to assert and defend your key interests; how to make your No firm and strong; how to resist the other side's aggression and manipulation; and how to do all this while still getting to Yes.
 
 * 📙 [**The Manager's Path**](https://www.amazon.es/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1491973897&linkCode=as2&tag=recomendad088-21&linkId=dde108d0273e43e32ec200c034d7c639): A Guide for Tech Leaders Navigating Growth and Change — Por Camille Fournier.
 
-* 📙 [**The Making of a Manager**](https://www.amazon.es/Making-Manager-What-Everyone-Looks/dp/0753552892?_encoding=UTF8&qid=1671625863&sr=8-1&linkCode=sl1&tag=recomendad088-21&linkId=93bd5da5578f376660d2ed773a1210f9&language=es_ES&ref_=as_li_ss_tl): What to Do When Everyone Looks to You por Julie Zhuo 
+* 📙 [**The Making of a Manager**](https://www.amazon.es/Making-Manager-What-Everyone-Looks/dp/0753552892?_encoding=UTF8&qid=1671625863&sr=8-1&linkCode=sl1&tag=recomendad088-21&linkId=93bd5da5578f376660d2ed773a1210f9&language=es_ES&ref_=as_li_ss_tl): What to Do When Everyone Looks to You by Julie Zhuo 
 
 * 📙 [**Too Many Bosses, Too Few Leaders**](https://www.amazon.es/gp/product/1451646674/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=recomendad088-21&creative=24630&linkCode=as2&creativeASIN=1451646674&linkId=93634e885c64546d794602fc6226d360) — Por Rajeev Peshawaria
 
@@ -650,6 +774,10 @@ It can be a new sport or hobby, traveling or meeting “different” people than
 * 🎙️ [**Mi historia como CTO: de 0 a Unicornio**](https://www.youtube.com/watch?v=opHyep_hpcs&list=PL1LOpMpqokN6zLyz7_lp1W7PxVkXXmZ6X) — Junto a Marcel Gozalbo y Xavi Capa de Opground.
 
 * 🎙️ [**El camino del guerrero**](https://www.techasting.com/1448989/6187261-el-camino-del-guerrero) — Junto a nuestro mentor, Alfons Foubert en su podcast Techasting.
+
+## **References**:
+
+* 🔗 [Lidr](https://www.lidr.co)
 
 
 <!-- 
