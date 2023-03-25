@@ -457,7 +457,7 @@ The different aspects of the mindset come when asking: what do you need to launc
 
 Entrepreneurs are responsible and accountable for everything that happens, and they do whatever it takes to succeed. They risk their income, risk their own money for a dream.
 
-You own each project, feel it as yours, involving other skills as: 
+You own each project, feel it as yours, involving other skills such as: 
 
 * **❤️ Passion**: you deeply want to solve that problem in the world, and love the work it involves to make it happen, even if you don’t like some of the tasks.
 
@@ -533,10 +533,10 @@ The problem is further down the ladder. Managers, team leaders, and developers o
 <br />
 
 * You have felt that you are not up to your job.
-* You know you have a good job, but you don't really believe you have the skills to perform successfully in the role.
+* You know you have a good job, but you don't believe you have the skills to perform successfully in the role.
 * You hand in the tasks, you do what is asked of you, but you continue to feel that it does not meet expectations and you dedicate dozens of hours to make it “perfect”.
 
-It's hard not to feel this syndrome when you find yourself out of code for several days in a row. Or when you don't review technical documentation as often. You literally see yourself spending the entire day from meeting to meeting, from Slack to email, from fire to fire.
+It's hard not to feel this syndrome when you find yourself out of code for several days in a row. Or when you don't review technical documentation as often. You see yourself spending the entire day from meeting to meeting, from Slack to email, from fire to fire.
 
 * 👉 You feel like your work has no impact.
 * 👉 You feel like nothing gets better.
@@ -548,7 +548,7 @@ This frustration, overwhelm, obsession or insecurity occurs mainly when we face 
 
 <br />
 
-### **Being out of the comfort zone puts our body and mind on alert**
+### **Being out of the comfort zone **puts our **bodies** and mind** on alert**
 
 Imagine you are a developer, and for 3 years, week after week, sprint after sprint, you are asked to build API endpoints, include a new feature, solve a bug, etc. Change some parameters, modify the data source, some changes in logic… But essentially, same process, the same lines of code.
 
@@ -566,7 +566,7 @@ This feeling has been a constant in my life, I give you some examples:
 
 * Me in front of the camera (and 600 people) at my first events → What do I have to teach these much more experienced professionals? Why would they want to listen to me? What value am I going to bring them?
 
-✋ Although it's normal to feel it, it's something you have to battle daily, face and take action. This reaction when leaving your comfort zone is instinctive, a security mechanism inherited from when leaving the cave could mean not living another day. So the important thing is to dare, or else you will never know what could have happened.
+✋ Although it's normal to feel it, it's something you have to battle daily, face and take action against. This reaction when leaving your comfort zone is instinctive, a security mechanism inherited from when leaving the cave could mean not living another day. So the important thing is to dare, or else you will never know what could have happened.
 
 So the question is: How do you mentally prepare to take action?
 
@@ -576,7 +576,7 @@ How likely is it that your life is in danger, that you lose your job, that you d
 
 Maybe all that can happen is that you are going to receive a NO.
 
-Get used to things not going the way you expect is critical learning. Learn to deal with NO and with failure, because it is just that, the validation that this path is not the correct one, or at least not at that moment. That forces you to think of alternatives, analyze what is missing, and take action again.
+Getting used to things not going the way you expect is critical learning. Learn to deal with NO and with failure, because it is just that, the validation that this path is not the correct one, or at least not at that moment. That forces you to think of alternatives, analyze what is missing, and take action again.
 
 So:
 
@@ -665,7 +665,7 @@ It can be a new sport or hobby, traveling or meeting “different” people than
 
 “Simply: be quiet and listen carefully to the other person, until the end”
 
-As a Software/Robotics engineer and team leader, the problem-solving mindset is everywhere around me. It has been my day to day for some years, in the code and outside of it. Problem → Solution. I am the arrow, my mission is to go from one side to the other.
+As a Software/Robotics engineer and team leader, the problem-solving mindset is everywhere around me. It has been my day-to-day for some years, in the code and outside of it. Problem → Solution. I am the arrow, my mission is to go from one side to the other.
 
 And although today this problem-solving attitude is essential for any high-performance professional, it is not always the way to go. It is just one more tool, and as such, we should only use it when the situation requires it.
 
@@ -683,7 +683,7 @@ Sometimes they were good days and sometimes not so much.
 
 On those “bad days”, when she would talk to me about her problems, my mind (as a good engineer) would immediately begin to analyze data and think of possible solutions.
 
-I proposed the infallible solution, I asked when she could carry it out or who to rely on, I recommended and showed her tools... My experience allowed me to put together a complete project in my head in seconds that would put an end to that problem. I felt like the hero coming to save her day.
+I proposed the infallible solution, I asked when she could carry it out or who to rely on, and I recommended and showed her tools... My experience allowed me to put together a complete project in my head in seconds that would put an end to that problem. I felt like the hero coming to save her day.
 
 But... things didn't turn out as I expected. She hadn't asked me for help. And that changes everything.
 
@@ -695,7 +695,7 @@ Offering my help without asking made her feel like a little girl who needs const
 
 She felt obliged to do it, to carry out something that I had "imposed" on her, which limited her decision-making capacity and autonomy, causing her total rejection. Worst of all, I was frustrated for not having carried out the solution she had proposed!
 
-What began as a conversation always ended in discussion, which added to her problem, and I sank her.
+What began as a conversation always ended in a discussion, which added to her problem, and I sank her.
 
 The situation got worse until she told me that she would no longer share her problems with me. She didn't trust me anymore, I wasn't her rock for bad times. She had pushed my relationship to the limit.
 
@@ -707,7 +707,7 @@ It seems simple but it is not: I did not understand the objective that she was p
 
 She needed empathy, to be heard, to feel understood… Instead, I was offering her protection and solutions that she had not asked for.
 
-Besides, I didn't know how to listen. I was missing most of the message for me by not paying attention to emotions, gestures, or non-verbal language, as she would tune me out in the middle of the conversation and stop actively listening to get inside my head.
+Besides, I didn't know how to listen. I was missing most of the message for myself by not paying attention to emotions, gestures, or non-verbal language, as she would tune me out in the middle of the conversation and stop actively listening to get inside my head.
 
 Unsolicited protection, lack of empathy, and the icing on the cake: I made the problem my own and she added herself to my list, overwhelming and frustrating me in equal measure.
 
@@ -758,7 +758,7 @@ Much of the day-to-day situations will be new to you:
 * How do I avoid brain drain?
 * How do I present the project planning to the business?
 
-New skills are required to deal with these questions, but also processes that facilitate standardization and decision-making. There are recipes for every situation, but first, you have to learn to cook.
+New skills are required to deal with these questions but also processes that facilitate standardization and decision-making. There are recipes for every situation, but first, you have to learn to cook.
 
 The biggest challenges are always the most rewarding, and of course, becoming a technology leader is no exception. The personal and professional growth that involves solving all the situations described above multiplies your value, but above all, it multiplies your impact.
 
@@ -766,7 +766,7 @@ Now you're responsible for a lot more code, but especially for other people's gr
 
 Making the transition is not a piece of cake
 
-This transition is one of the most difficult you can face as a developer, and it requires not only previous preparation, but also a guided landing in which you have 3 key components:
+This transition is one of the most difficult you can face as a developer, and it requires not only previous preparation but also a guided landing in which you have 3 key components:
 
 * 💪 The necessary training
 * ✨ Space to gradually gain experience in responsibilities.
