@@ -384,8 +384,41 @@ Some examples of actions to take into account in each of the three areas:
     * Define efficient and standard ways to handle each step and/or process: from communication between departments to implementation. How to collect information? How to decide? How to report the results?
     * To achieve this, frameworks and methodologies such as DevOps, Agile or Dora metrics allow to obtain proven results out of the box.
 
+<br />
 
-By using the 3P framework, it's easy to consider all relevant aspects and minimize any potential blind spots.
+There are 2 other key ingredients for the success of projects or initiatives in software teams: Planning and Communication.
+
+**🗓 Project Planning**
+
+Since resources (mainly time and money) are never infinite, your role in project management is to find the right balance for each case.
+
+To facilitate this process, a framework that works very well is the Golden Triangle of project management. Have you seen it before?
+
+<p align="center" width="100%">
+    <img width="60%" src="https://ci4.googleusercontent.com/proxy/Ey2UdtXay4R8v_VMHdfon4Z8ajRo9C41Zj7JZGa4bEcAplwUnTo72EwBDb7ayhvNDHuwPVqJEhBEe302_6WLZjkC9yPIYLxYW9mRMRh_Jj29EffbDp32yrui7_plB4nREx_cA9jPbYDayCqTdw4CyFu63GrXBOPw6uhXxgLXEdM60j2r5YMTV9q9XoSMzK3FEooVQIFRPv2OldEpSWpvzJigJpKLyIFFWJmij-VlWFLazDg=s0-d-e1-ft#https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/8vRN3/2023/05/05/e0f2084d-e332-4fa6-ab67-6c103efe14ae.png">
+</p>
+
+What this golden triangle teaches you is that the quality delivered is limited by 3 variables:
+
+* The scope of work, that is, the functionalities to be built.
+* The deadline established to deliver.
+* The available budget.
+
+This can help you make decisions when any of the variables change, that is, if you have been asked to include an urgent feature, you only have 2 options to maintain the same quality: either the time should be extended, or the budget should be increased . Otherwise, the final product may be affected.
+
+By negotiating these variables, by saying “no” if they cannot be guaranteed, or by finding alternatives, you will be able to maintain the desired quality and ensure that the project is successful. Give value to your planning, estimation and coordination work with the team and avoid distractions, scope changes and continuous changes of focus.
+
+How?
+
+* If you work with scrum, you can appeal to the planning so that nothing slips into a running sprint, and you always value it for the following ones.
+
+* In case of accepting it, that always implies the output of some other functionality to maintain the scope as far as possible.
+
+* If you can't say no and you can't sacrifice anything, the functionality is probably not fully defined, good practices are not used, or there are no tests. Make it very clear what risk is being taken and also guarantee time in the next sprint to refine. Lastly, be explicit that this is the exception, get their OK and raise your hand as soon as it happens again.
+
+
+**🗣Communication**
+
 
 <br />
 
