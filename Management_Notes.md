@@ -163,6 +163,7 @@ Reference: [Lidr](https://www.lidr.co)
 
 <br />
 
+
 ## **One & One's**
 
 * 👉 I did 1:1s without prior preparation, not knowing what to say or how to empower the meeting.
@@ -201,8 +202,10 @@ Managers are role models in every aspect, whether we like it or not. You have a 
 
 <br />
 
-## **A Framework to Resolve Conflicts Within Your Tech Team**
-
+---
+<!-- ************************************************************************************************************************************ -->
+# **A Framework to Resolve Conflicts Within Your Tech Team**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 A problem many managers face, especially new leaders, is **working out how to solve conflicts** between team members.
 
@@ -273,7 +276,233 @@ Surely you already knew this, but what you probably don't know is WHY?
 
 Rather than just reading or listening to information, teaching forces us to put what we've learned into practice, and this is especially helpful when it comes to skills that require a lot of practice like programming, people management, and soft skills.
 
-The pyramid of experience, a pedagogical model classifies the effectiveness of different forms of learning in terms of retention after 2 weeks. x
+The pyramid of experience, a pedagogical model classifies the effectiveness of different forms of learning in terms of retention after 2 weeks.
+
+<p align="center" width="100%">
+    <img width="80%" src="https://user-images.githubusercontent.com/43115782/236963328-61c5a22e-9c8e-4805-9c10-583f8efebbe3.png">
+</p>
+
+
+According to this pyramid, the retention of what has been learned increases as the student goes from the passive experience, such as listening or reading, to the active experience of discussing, doing or explaining something related to said learning.
+
+
+### **When you learn something with the intention of teaching it later, you learn it more deeply:**
+
+When you find something useful or interesting ask yourself:
+
+* What is so interesting and valuable that it would be worth teaching others?
+* How would you go about explaining this concept to another person?
+
+Take detailed notes, add examples, and go deeper into the topic knowing that they will be essential to share specific stories, studies, examples, and quotes that otherwise it's impossible to remember.
+
+<p align="center" width="100%">
+    <img width="60%" src="https://user-images.githubusercontent.com/43115782/236964279-19168608-0ce1-456b-88c3-c38df7b09a57.png">
+</p>
+
+
+### **By teaching something, you discover gaps in your own knowledge**
+
+
+Have you ever experienced the feeling of knowing something, but then having a hard time trying to explain it to someone else?
+
+Or think that you know enough about a certain subject… Until you are asked to speak in public and the fear of the questions that they may ask you paralyzes you?
+
+If it happened to you, great ✌️- you're on the right track.
+
+Teaching others or mentoring from our experience makes us aware of gaps in our knowledge and we take quicker action to reinforce it.
+
+Beyond the bottom of the pyramid, active learning in its many forms is most effective because it allows us to get quick feedback on our shortcomings, either because we don't get the desired result, because others challenge our ideas, or because of progress. observed in the learning of those we teach.
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ -->
+# **Agile Methodologies in VUCA Environments**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+The acronym "VUCA" reflects the current reality, especially in the business environment, and is made of Volatility, Uncertainty, Complexity and Ambiguity, which refer to:
+
+* **Volatility**: The speed with which significant changes occur.
+* **Uncertainty**: The difficulty of foreseeing what may happen in the future.
+* **Complexity**: The difficulty in understanding the context or situation in question.
+* **Ambiguity**: The lack of clarity in understanding the environment, which in turn contributes to uncertainty.
+
+
+And what are agile methodologies? It is a collaborative and flexible approach that focuses on the continuous delivery of value to the customer. Instead of working on a large project for months or even years, agile software teams work in shorter cycles and deliver frequent, smaller updates.
+
+
+<br />
+
+
+---
+<!-- ************************************************************************************************************************************ -->
+# **Key Elements to Achieve a High-Level Technical Vision**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+One of the most important things for technology leaders is to get outside of their area of expertise (backend, frontend, data) and look at the product from a higher-level perspective to drive expansion.
+
+**What do I mean by expansion?**
+
+Great tech leaders push the boundaries of the technologies they know horizontally, allowing them to see the technology as a whole.
+
+Instead of focusing on how each part works individually, it's important to focus on how all the pieces fit together to meet business needs, including the interactions between different technologies and the processes that support them, as well as the teams responsible for them. each area.
+
+It is the manager's responsibility to oversee the combined result and delegate the low-level details to your team.
+
+However, it is important to note that not everything is horizontal.
+
+As a technology leader, It's also needed to take a top-down perspective and consider the long-term impact of the decisions made and the risks taken.
+
+To strike the right balance across all areas that affect the team's bottom line, It's recommended to use a simple framework: the 3Ps (People-Product-Processes).
+
+This framework defines how a business operates and helps ensure attention is paid to all relevant aspects that influence overall success.
+
+<p align="center" width="100%">
+    <img width="40%" src="https://user-images.githubusercontent.com/43115782/236968494-719cd299-3e7d-43a1-8b55-bdd32b459bf9.png">
+</p>
+
+
+Some examples of actions to take into account in each of the three areas:
+
+* **People**
+    * Having the right people with the right skills.
+    * Create an environment that helps them perform at their best.
+
+* **Product**
+    * Translate business and product requirements into technical tasks together with the team.
+    * Effectively prioritize what to do based on business impact.
+
+* **Processes**
+    * Define efficient and standard ways to handle each step and/or process: from communication between departments to implementation. How to collect information? How to decide? How to report the results?
+    * To achieve this, frameworks and methodologies such as DevOps, Agile or Dora metrics allow us to obtain proven results out of the box.
+
+<br />
+
+There are 2 other key ingredients for the success of projects or initiatives in software teams: Planning and Communication.
+
+**🗓 Project Planning**
+
+Since resources (mainly time and money) are never infinite, your role in project management is to find the right balance for each case.
+
+To facilitate this process, a framework that works very well is the Golden Triangle of project management. Have you seen it before?
+
+<p align="center" width="100%">
+    <img width="60%" src="https://ci4.googleusercontent.com/proxy/Ey2UdtXay4R8v_VMHdfon4Z8ajRo9C41Zj7JZGa4bEcAplwUnTo72EwBDb7ayhvNDHuwPVqJEhBEe302_6WLZjkC9yPIYLxYW9mRMRh_Jj29EffbDp32yrui7_plB4nREx_cA9jPbYDayCqTdw4CyFu63GrXBOPw6uhXxgLXEdM60j2r5YMTV9q9XoSMzK3FEooVQIFRPv2OldEpSWpvzJigJpKLyIFFWJmij-VlWFLazDg=s0-d-e1-ft#https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/8vRN3/2023/05/05/e0f2084d-e332-4fa6-ab67-6c103efe14ae.png">
+</p>
+
+What this golden triangle teaches you is that the quality delivered is limited by 3 variables:
+
+* The scope of work, that is, the functionalities to be built.
+* The deadline established to deliver.
+* The available budget.
+
+This can help you make decisions when any of the variables change, that is, if you have been asked to include an urgent feature, you only have 2 options to maintain the same quality: either the time should be extended, or the budget should be increased. Otherwise, the final product may be affected.
+
+By negotiating these variables, by saying “no” if they cannot be guaranteed, or by finding alternatives, you will be able to maintain the desired quality and ensure that the project is successful. Give value to your planning, estimation and coordination work with the team and avoid distractions, scope changes and continuous changes of focus.
+
+How?
+
+* If you work with scrum, you can appeal to the planning so that nothing slips into a running sprint, and you always value it for the following ones.
+
+* In case of accepting it, that always implies the output of some other functionality to maintain the scope as far as possible.
+
+* If you can't say no and you can't sacrifice anything, the functionality is probably not fully defined, good practices are not used, or there are no tests. Make it very clear what risk is being taken and also guarantee time in the next sprint to refine. Lastly, be explicit that this is the exception, get their OK and raise your hand as soon as it happens again.
+
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **The Secret to Effective Mentoring**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+Have you ever felt lost having 1:1 sessions with your reports, not knowing what to talk about, or how to help you with your personal goals?
+
+Do you feel that the mentoring you are providing to your team is not realistic or specific enough, that you have to "push" the person to explore the alternatives, or that they do not take action after the session?
+
+All these and more situations are common when there is no strategy to follow to carry out an efficient coaching or mentoring process. For this reason, the GROW model can be helpful.
+
+The GROW model is a very simple and highly effective framework used to help people set clear goals, and take specific actions to achieve them.
+
+It was developed by Sir John Whitmore in the 1980s to provide support in clarifying goals, identifying possible obstacles, exploring innovative solutions and taking decisive action to achieve the stated objective.
+
+This model focuses on asking open-ended questions and active listening to identify the goals of the person being mentored, analyze the current situation, and draw up action plans.
+
+<p align="center" width="100%">
+    <img width="70%" src="https://ci4.googleusercontent.com/proxy/mnizfIMSqBF3KxhSlOoen1A7myLyxPHuoC6ZRClqkENiR7Sfi0MzrexDf_Lz0UQkDQ5Ln46Nvm4Ezmwg82QOip63mWDQxkpWdjjxt5ogGAyXf5_WuHhg0n8romkzOW-AAzUcMqZuQaeM1h3B_7SUUcLIW4XW6CVoa2d413L-aigi8OF6X3FNAL0EpGpaPHKK6koNIxLrjtT2K4XwGUjGjm5RIYalzQncwcwv5O1k_twV7699hI1WqU4ZGeEMoDpA=s0-d-e1-ft#https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/8vRN3/2023/02/23/4dc92c76-66ca-4512-a85b-71ccdae0366f.png?r=2000165668">
+</p>
+
+
+As you can see in the previous image, it is a model based on 4 stages, 4 important and decisive moments such as:
+
+**🏆 Goal**:
+
+It is important that the person you are accompanying (your mentee) knows what he/she wants and that it is clear to both him/her and you.
+
+To achieve this, the first step is to set clear goals, either short or long-term. For this, I recommend using the SMART system.
+
+You may already be familiar with the SMART system, but if you haven't used it before, remember that specific, measurable, achievable, realistic, and timely goals are essential to help the mentee set solid goals.
+
+To guide your mentee in defining these goals, you can ask some of the following questions to gather key information:
+
+* What is it that you want to achieve?
+* Why is achieving this goal important to you and how will it benefit you?
+* When do you hope to achieve it?
+* How challenging is it for you?
+* Is it an achievable goal considering your current resources and skills?
+* How will you measure success?
+
+**👤 Reality**:
+
+Once the objective is defined, you need to have a clear and precise idea of the current situation of your mentee to know how far or close it is to reach it. Inquire about past actions and what obstacles may be holding back their development at this time.
+
+Asking the following questions can be key to understanding the current situation:
+
+* What factors led you to this point in your professional career?
+* What is your current situation in specific terms? What is the reason behind your current situation?
+* What have you tried so far, and what haven't you tried...?
+* What has stopped you?
+* What has worked for you in the past that could work here?
+Which was the result?
+* What has prevented you from taking further action?
+
+**🧩 Options**:
+
+The third step is to come up with a list of possible options that could help your mentee address the goal set out and choose which one will best help you move forward.
+
+Here are some questions that can help stimulate your creativity to find possible solutions:
+
+* What comes to mind to achieve the goal?
+* If money didn't matter, what do you see yourself doing?
+* If time is not a limitation, what would you do?
+* If you had a magic wand, what would you change?
+* What other things would you do?
+* What idea do you like best?
+
+**🔀 Will**:
+
+This last step, It's about concrete actions and responsibilities.
+
+Once the objective is established, the current situation has been explored, and the available options have been evaluated, it is time to put an action plan into action.
+
+Make sure the mentee has specific actions to take, a follow-up schedule, and clear metrics to measure progress.
+
+Help him make a real commitment and make expectations clear.
+
+For example, you can ask what is the probability from 1 to 10 that you will carry out this action. and thus correct a possible lack of commitment or specificity in the actions to be taken, or what would prevent you from doing it? to address obstacles that could slow down the plan, such as when it depends on third parties, budget, etc.
+
+<br />
+
+In conclusion, the GROW model is an effective tool to help your team members set clear goals, identify obstacles, explore options, and establish concrete action plans.
+
+Through the use of this model, a manager can provide effective guidance and support to the team — making your work as a mentor transform and bring your collaborators closer to achieving their goals. This is one of the most effective ways to multiply your impact and improve talent retention, in addition to being able to use it beyond your organization, in pro-bono or paid mentoring programs, and thus earn extra income.
+
+<br />
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+---
 
 <!-- 
 Losing someone is a chance to find someone better, stronger, and more agile. Loses are new opportunities.
