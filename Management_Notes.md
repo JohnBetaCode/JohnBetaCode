@@ -1,9 +1,22 @@
+<!-- ************************************************************************************************************************************ -->
 # **The Tech Leadership Framework**
 Collected By: [JohnBetaCode](https://www.linkedin.com/in/johnbetacode/)
 
-This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with time and made a summary about what worked for me. 
+This is a summary of my learnings and recommendations on different topics about my experience leading technology teams. I'm not the author of most of these frameworks, knowledge, and definitions here presented, I just compiled them with time and made a summary about what worked for me, and sometimes I share what I think about. 
 
 Feel free to chat with me, discuss any topic, and share opinions. 
+
+* The Tech Leadership Framework
+* The Management Guideline
+* Work Relationships
+* The Constructive Feedback to your Tech Team
+* A Framework to Resolve Conflicts Within Your Tech Team
+* Teaching is the most effective way to learn
+* Agile Methodologies in VUCA Environments
+* Key Elements to Achieve a High-Level Technical Vision
+* The Secret to Effective Mentoring
+* Leading with a Product and Technology Relationship
+* Do you have the entrepreneurial mindset you need as a leader?
 
 <br />
 
@@ -123,16 +136,15 @@ Reference: [Lidr](https://www.lidr.co)
 
 Most common mistakes:
 
-* It is not concrete or clear why we were doing that task ( affected motivation).
+* It is not concrete or clear why we were doing that task (Affected motivation).
 * Don't give freedom or autonomy.
-* Dodn't celebrate milestones and only looked at what must be improved.
+* Don't celebrate milestones and only looked at what must be improved.
 * Share critiques in public — at team meetings, and do not wait to say what it's felt at that moment.
 
 When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
 
-❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
-
-❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
+* ❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
+* ❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
 
 1. Ask for permission 🤔
 
@@ -209,6 +221,14 @@ Managers are role models in every aspect, whether we like it or not. You have a 
 
 A problem many managers face, especially new leaders, is **working out how to solve conflicts** between team members.
 
+We all face conflict at some point in our lives, be it with family, friends, and even at work, and it is very normal to have them. They are part of our life.
+
+Especially at work, conflicts cause bitter moments, frustrations, anxiety, and even sadness. They not only affect the people involved but also affect others for one simple reason: the energy they transmit.
+
+Naturally, both leaders and collaborators try to avoid conflict at all costs. However, the key is not to fear them or try to avoid them but to learn how to deal with them in a healthy way.
+
+Whether you are a leader or not, I know that you will inevitably experience conflict situations within your team. I have had them myself! So you need to prepare yourself to handle such issues in the right way.
+
 Let's start from the beginning. Human beings act out of necessity. **We are social animals** interacting with other people to share, give what other person needs, and feel secure. But sometimes, we are selfish. Nothing wrong with that; it is a person's natural behavior. 
 Although being selfish is natural, we should be careful about balancing our relationships, especially in our company.
 
@@ -252,7 +272,20 @@ We all give and take, **and relationships have to be in balance**. Balance in a 
 
     Every time you get a conflict, take it as an opportunity to learn.
 
-    Once the conflict is partially solved, run follow-ups in your 1:1s sessions to get the main takeaways from both parties, and don't forget to take action to prevent this issue from happening again.
+    Once the conflict is partially solved, run follow-ups in your 1:1s sessions to get the main takeaways from both parties and don't forget to take action to prevent this issue from happening again.
+
+Here are 7 recommendations to manage conflicts in an organization:
+
+
+* ✋  Do not immediately launch yourself into a reactive solution, especially when feelings are on the surface and you are going to act from your emotional side instead of your rational side. Give yourself a few minutes or even a few hours.
+* 📚  Every time you observe a conflict, take it as an opportunity to learn. The reactions of those affected, what they say, what they express with their faces and their bodies, the agreement that is reached... You cannot imagine how much benefit you can get from these situations!
+* 💬  Managing people is not like chopping code. It is not A → B, each person is different and has different needs. It requires communication, active listening and especially putting yourself in the shoes of each member of your team. You also have to get them to put on yours. This is how you will obtain solutions that take into account their interests and reach an agreement quickly and effectively.
+* ⌛ Focus on the here and now to resolve the conflict. If you hold grudges based on past experiences, your ability to see the reality of the current situation will be influenced by great subjectivity.
+* 🏁 When it comes to resolving a conflict, you need to assess whether it affects the team's goal: if it doesn't, walk away and let it go! But if it does, it's your responsibility to step in and fix it.
+* 🔁 Keep in mind that relationships are not quantitative, they are qualitative: we cannot expect others to give us in the same proportion that we give. As long as there is a certain balance, there is no conflict.
+* 🤼 Establish alliances with your team members! Make a list of things everyone agrees on or can live with, and come up with guidelines. During a conflict, these are the rules that all of you must follow.
+
+You already know we all face conflicts in our workplace, the important thing is not to avoid them, but to manage them, overcome them and improve together 💪!
 
 <br />
 
@@ -500,10 +533,93 @@ Through the use of this model, a manager can provide effective guidance and supp
 
 <br />
 
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Leading with a Product and Technology Relationship **
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
----
+The first task, for technology leaders with a more comprehensive vision is required, who create and maintain a culture of product engineering. There's frustration due to liability disagreements, and even stories of technically impressive products that users end up not liking and dying quickly, or feature-rich products that consumed a lot of time and money and delivered no real value to the end user.
 
+We need to create multidisciplinary or cross-functional teams. These teams are made up of professionals with different specialized skills and responsibilities, who feel like real owners of a product and work as a team.
+
+Creating these teams is not that easy, it takes skilled leaders with extensive knowledge to create “missionary teams”, not “mercenary teams” — a phrase that Camille Fournier defines very well in his book The Manager's Path.
+
+Camille explains the difference: mercenary teams build what they're told to build; missionaries, instead, are true believers in the vision and are committed to solving problems for their clients because they are motivated and UNITED. They do not recite the typical phrase: "It is that this is not my responsibility."
+
+Sabemos que hace mucho tiempo existen equipos compuestos por personas de ingeniería, diseño, producto, marketing y QA, que trabajan en conjunto. Uno de los más conocidos son los squads o células, famosos por el modelo Spotify. 
+
+So why do mercenary teams still exist?
+
+The reason is simple, and Alex Fernadez (@pinchito) describes it very well on his blog:
+
+Different reporting lines have been created.
+
+In his example, the product depends on the CPO and technology on the CTO, generating the famous phrase:
+
+*“I don't even know who my manager is” which actually translates into: “I don't know who to listen to”*
+
+For this reason, it is necessary that there is only one leader of these teams and in the case of the world of technology, as Alex believes, the CTO is in charge of becoming this leader.
+
+And you may wonder... Why the CTO and not the CPO?
+
+First, being in a sector where technology-based products are developed, his vision generates great value. And second, they can be easily complemented by other disciplines.
+
+This is where the current profile of a technology leader creating “Tech Product Teams” requires an open mind, the ability to discover and learn, and a clear goal to be efficient and profitable, which requires developing the product vision (as well as the ability to manage the complexity of the systems that are created based on these new ideas).
+
+But every time you climb in your career, your vision has to start to increase degrees of vision, to become 360°: from knowing your area of expertise to knowing a little about all of them and making them work together. From there know how to manage people, delegate, hire... And from there to be able to bring the product to success.
+
+As you can see, to unite these two brothers, the new leaders in technology, they need to develop skills that complement the purely technical. They, as well as their teams, have to evolve from software engineers to product engineers.
+
+And watch out! This product methodology is not new, it's just that, at some point in our education, we were taught that everything related to technology or better, software engineering tended to be 100% code, and we forgot that the basis of engineering and technology is the scientific method:
+
+* **Characterize**: Make an observation of the current state
+* **Hypothesis**: Create a description, a theory that can explain your observation.
+* **Predict**: Make a prediction based on the hypothesis.
+* **Experiment**: Test your prediction.
+
+It sounds a lot like current product methodologies, and it's always been in our DNA, we've just forgotten about it.
+
+
+As David Farley says in his latest book: *“Remembering it and applying it will help us make progress on the basis of small, informal experiments, limiting our risk of jumping into a compromise solution and ending up with getting a better job”*
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Do you have the entrepreneurial mindset you need as a leader?**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+There is a skill that is increasingly needed among technology leaders. A skill that, when you're able to power it up, will make you a unicorn 🦄  in the tech industry. Yes, It's the entrepreneurial mindset.
+
+* 👉 Have you ever stopped to think about what makes entrepreneurs unique?
+* 👉 What leads you to leave a safe job, and risk everything to solve a problem that you have identified in society without giving up?
+* 👉 Or better yet, how can they stay focused, perform at their highest level, radiate optimism and attract the best talent, despite endless work days, debt, commitments, fierce competition, or an uncertain and volatile environment?
+
+**The entrepreneurial mindset is a set of skills and attitudes that make a difference.**
+
+From passion to resilience to communication to problem-solving, entrepreneurs exhibit highly desirable qualities in any position and in any organization.
+
+Leading successfully in the technology sector requires much more than this entrepreneurial mindset, but having the mindset, attitude, business knowledge, and vision will make a BIG difference from the first contact.
+
+**🧠 The entrepreneurial mindset**
+
+It means behaving like a CEO, whether it's a junior developer or a CTO. It's an attitude toward work, no matter where you are in the organization.
+
+It means feeling ownership of the business and doing everything possible for its benefit. It means thinking about the customer and the problem the company is trying to solve, and not just working with the latest technology. Remember that technology is only a means to a goal.
+
+**What key ingredients do you need to launch a successful business?**
+
+* 💼 Sense of belonging: Entrepreneurs are responsible for everything that happens in the business and will do whatever it takes to succeed. They risk their income and their own money for a dream. Feeling the owner of a project, and developing that ownership, implies other skills such as:
+
+    * **Passion**: You want to solve that problem in the world, and you love the work that goes into making it happen, even if you don't like some of the tasks.
+    * P**roblem Solver**: You are a born problem solver. Entrepreneurship is precisely about that: solving a relevant problem for customers. Think of anyone who requests something as an end customer. Treat them like this and see the difference.
+    * **Resilience**: You have the will to keep going, even when the going gets tough. You know it's part of the process, you know how to get an energy boost in those moments and you never give up.
+      
+* 🧭 Self-direction: An entrepreneur starts from scratch, from a blank page. You won't find a guide there, there are no processes, tools, documents, clients, or sales, THERE IS NOTHING. Create the path. It starts with a goal and draws up a plan. It has its own internal compass that guides it. In fact, that internal compass takes you off the beaten path and your comfort zone. This ability to self-guide oneself implies other skills such as:
+    
+    * **Proactivity**: you don't wait for someone to solve your problems, you know that solutions, like opportunities, won't come to you by magic. You just go out there, face the challenges and find the answers yourself.
+    * **Self-motivation**: you come home motivated. You know why you do what you do, and you shape your environment to make it easier. Reaching the great goal that you have set for yourself helps you stay in the fight when difficult situations come.
+    * **Autonomy**: you can work on your own, with the support of others (yes), but you don't get blocked. Others advise you, but you do not feel dependent. 
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
 Losing someone is a chance to find someone better, stronger, and more agile. Loses are new opportunities.
 
