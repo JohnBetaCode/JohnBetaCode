@@ -582,6 +582,8 @@ It sounds a lot like current product methodologies, and it's always been in our 
 
 As David Farley says in his latest book: *“Remembering it and applying it will help us make progress on the basis of small, informal experiments, limiting our risk of jumping into a compromise solution and ending up with getting a better job”*
 
+<br />
+
 ---
 <!-- ************************************************************************************************************************************ --> 
 # **Do you have the entrepreneurial mindset you need as a leader?**
@@ -607,17 +609,51 @@ It means feeling ownership of the business and doing everything possible for its
 
 **What key ingredients do you need to launch a successful business?**
 
-* 💼 Sense of belonging: Entrepreneurs are responsible for everything that happens in the business and will do whatever it takes to succeed. They risk their income and their own money for a dream. Feeling the owner of a project, and developing that ownership, implies other skills such as:
+
+* 💼 **Sense of belonging**: Entrepreneurs are responsible for everything that happens in the business and will do whatever it takes to succeed. They risk their income and their own money for a dream. Feeling the owner of a project, and developing that ownership, implies other skills such as:
 
     * **Passion**: You want to solve that problem in the world, and you love the work that goes into making it happen, even if you don't like some of the tasks.
     * P**roblem Solver**: You are a born problem solver. Entrepreneurship is precisely about that: solving a relevant problem for customers. Think of anyone who requests something as an end customer. Treat them like this and see the difference.
     * **Resilience**: You have the will to keep going, even when the going gets tough. You know it's part of the process, you know how to get an energy boost in those moments and you never give up.
+
       
-* 🧭 Self-direction: An entrepreneur starts from scratch, from a blank page. You won't find a guide there, there are no processes, tools, documents, clients, or sales, THERE IS NOTHING. Create the path. It starts with a goal and draws up a plan. It has its own internal compass that guides it. In fact, that internal compass takes you off the beaten path and your comfort zone. This ability to self-guide oneself implies other skills such as:
+* 🧭 **Self-direction**: An entrepreneur starts from scratch, from a blank page. You won't find a guide there, there are no processes, tools, documents, clients, or sales, THERE IS NOTHING. Create the path. It starts with a goal and draws up a plan. It has its own internal compass that guides it. In fact, that internal compass takes you off the beaten path and your comfort zone. This ability to self-guide oneself implies other skills such as:
     
     * **Proactivity**: you don't wait for someone to solve your problems, you know that solutions, like opportunities, won't come to you by magic. You just go out there, face the challenges and find the answers yourself.
     * **Self-motivation**: you come home motivated. You know why you do what you do, and you shape your environment to make it easier. Reaching the great goal that you have set for yourself helps you stay in the fight when difficult situations come.
     * **Autonomy**: you can work on your own, with the support of others (yes), but you don't get blocked. Others advise you, but you do not feel dependent. 
+
+
+* 💡 **Innovation**: Once entrepreneurs have charted their path, they must create everything from scratch, everything comes from their head. Not only the product but also the entire structure that a company requires to operate, from the people and skills to HOW they all operate: the culture!
+  
+    * **Creativity**: You find new ways to solve problems. You are curious, you experiment and try new things without fear of failure. You learn fast, think outside the box, and use a different approach to problems.
+    * **Customer orientation**: the customer is at the center. You value their opinions, their comments and you are close to them to make your decisions. You think outside the box and use a different approach to every problem that comes up.
+    * **Faith**: You act with confidence, even when no one believes in you or is not even able to understand your product. You are not afraid of failure or the mistakes you may make along the way, you are fully aware that success will not come immediately.
+    * **Continuous improvement**: everything could be better, of course. You don't settle for yourself. You always look for your best version with ambition. And it is that nothing is written in stone. You are aware of the VUCA environment in which you live and the competitive advantage of knowing how to adapt quickly.
+
+
+* 📣 **Communication**: Entrepreneurs need others to fulfill their dream, whether it is a team that helps them co-create and sell the product, investors that finance the activity, customers that buy... They need highly developed communication skills to adapt to all these very different environments and achieve their goals.
+  
+    * **Adaptability**: having different profiles, personalities, and objectives. You need to be able to adapt to each environment, from reporting to different stakeholders to offering a motivational speech to your team.
+    * **Effective communication, verbal and non-verbal**. Give clear and concise messages. Empathetic, honest, and vulnerable attitude. You know that the important thing is others and you give them the importance they deserve.
+    * **Optimism**: when you strongly believe in your purpose there is nothing to stop you. You think positively, you detect opportunity and value in any learning experience, and experience only adds up, and each step you take brings you closer to success.
+    * **Team Player**: You know you can go further and faster with a team. You value the superpower that each person has. And you know that working with others will make your dream come true. In the same way, you delegate with confidence and demand in equal parts, celebrating triumphs with others, accompanying them, and helping them achieve their goals.
+    * **Inspiration**: with your attitude, you set an example and don't just talk empty words. You work harder and are more efficient. You protect your well-being and manage your time effectively. You take time to keep growing. And believe me that all this inspires others to be better. You are a multiplier!
+
+
+As you can see, leading successful technology teams requires much more than this entrepreneurial mindset, but having this mindset will make all the difference from the first contact and when that is the case, everything emerges at all levels of leadership.
+
+In the end, developing this key mindset will help you become a unicorn in the industry. 🦄
+
+CTOs are often connected to the business, speak the same language, communicate effectively, and make decisions from a business point of view... In fact, CTOs are expected to have some experience to fully own the vision from a technical point of view, lead their teams autonomously, motivate team members, be an example to follow, etc.
+
+The problem occurs further down the hierarchy. Managers, team leads, and developers very often don't have this mindset.
+
+Perhaps they don't have enough exposure to the business and don't make their decisions with it in mind, or they don't have the communication skills to influence their teams and other peers. They have not even considered that in leadership roles this is what is expected of them, no one clearly explained it to them.
+
+Whatever the cause, for me this lack of attitude and business vision is what leads to poor performance of many technology teams.
+
+<br />
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
