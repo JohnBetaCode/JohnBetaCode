@@ -73,7 +73,7 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
 
 <br />
 
-3. 😖 **Distractions**: Do you struggle with managing your attention, energy, and time effectively? Do you sometimes feel overwhelmed and don't have the resources to increase your concentration? If your answer is yes to any question, you might have problems with distractions. But no worries, we all face them — even daily! Slack notifications, social media, messages, etc… are time robbers if not managed properly.
+3. 😖 **Distractions**: Do you struggle with managing your attention, energy, and time effectively? Do you sometimes feel overwhelmed and don't have the resources to increase your concentration? If your answer is yes to any question, you might have problems with distractions. But no worries, we all face them — even daily! Slack notifications, social media, messages, etc.… are time robbers if not managed properly.
 
     📝 Quick exercise:
 
@@ -119,7 +119,7 @@ A fundamental and constant task you should carry out is evaluating the performan
 
 * 🛐 **Evangelize your team**: We are not prepared to give or receive feedback, and it is usually something we are not taught in our environment. So you, as a leader,  should train your team to give that feedback in the right way. Likewise, your team must be clear about the evaluation process. Who does it? What is the format? What is the objective pursued when carrying out these 360 evaluations?
 
-* 📊 **Reunite & Refine data**: Take the time to understand and comprehend the data. Evaluate what metrics, behaviors, facts, and values you can extract from the exercise. Does the evaluation correspond to reality? Are there biases that can affect the reading of the results?
+📊 **Reunite and refine** data**: Take the time to understand and comprehend the data. Evaluate what metrics, behaviors, facts, and values you can extract from the exercise. Does the evaluation correspond to reality? Are there biases that can affect the reading of the results?
 
 * 💯 **Formalize the results**: Establish a format to present the data to your collaborators and evaluate it with them. How to transmit the message? Connect conclusions with data points or situations. Share with your direct report the good performance,  where she failed but also how she can grow. Remember that communication is in 2 ways, you and her. Ask questions that will help you understand the results even better, and take the time to listen actively. Challenge her to keep growing and turn feedback into actionable next steps.
 
@@ -138,12 +138,12 @@ Most common mistakes:
 
 * It is not concrete or clear why we were doing that task (Affected motivation).
 * Don't give freedom or autonomy.
-* Don't celebrate milestones and only looked at what must be improved.
+* Don't celebrate milestones and only look at what must be improved.
 * Share critiques in public — at team meetings, and do not wait to say what it's felt at that moment.
 
 When you become a manager, you have to understand how to deliver the message properly and turn feedback into actionable next steps. However, It's not easy to do it when you don't have any proper training, practice, or even a framework you can follow, taking the risk of falling into two very common mistakes:
 
-* ❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignore it. 
+* ❌ Giving feedback so soft and indirect that your collaborator doesn't even recognize that he/she is receiving feedback and ignores it. 
 * ❌ Or otherwise, being so direct to the point that your employee takes a defensive position.
 
 1. Ask for permission 🤔
@@ -180,7 +180,7 @@ Reference: [Lidr](https://www.lidr.co)
 
 * 👉 I did 1:1s without prior preparation, not knowing what to say or how to empower the meeting.
 * 👉 I had a hard time learning the different personalities of my team members.
-* 👉 I got frustrated because I enjoyed coding, but I didn't have much time to do it with all my new functions. —  But, I neither understood that my technical skill should evolve to provide a whole vision of the system to make accurate technical decisions.
+* 👉 I got frustrated because I enjoyed coding, but I didn't have much time to do it with all my new functions. — However, I neither understood that my technical skills should evolve to provide a whole vision of the system to make accurate technical decisions.
 * 👉 Last but not least, all the insecurity I felt of not having clarity on what to do, besides having the impostor syndrome all the time!!!!!
 
 Promote growth and mobility: Workers are increasingly eager to see opportunities for learning, development, and advancement in their workplace. In addition, recent research from Cornell University’s School of Industrial and Labor Relations shows that those who have moved internally within a company not only tend to be high performers but are also more likely to stay with the organization over time. The highest-performing internal hires tend to stay the longest. While it is important to note that while some employees are looking for promotions, research suggests that many are not necessarily interested in additional work and responsibilities. Rather, they are simply seeking new challenges and the chance to explore something different. According to the MIT Sloan Review, lateral career opportunities are 12x more predictive of employee retention than promotions. So, to create a meaningful work experience for your employees, give them opportunities for growth, movement, and the development of new skills.
@@ -256,7 +256,7 @@ We all give and take, **and relationships have to be in balance**. Balance in a 
 
     You are responsible for making decisions, so the system stays alive for as long as possible.
 
-    It's recommended to you make decisions following this order:
+    It's recommended that you make decisions following this order:
 
         Leader < Individual < Team < Company 
 
@@ -272,9 +272,9 @@ We all give and take, **and relationships have to be in balance**. Balance in a 
 
     Every time you get a conflict, take it as an opportunity to learn.
 
-    Once the conflict is partially solved, run follow-ups in your 1:1s sessions to get the main takeaways from both parties and don't forget to take action to prevent this issue from happening again.
+    Once the conflict is partially solved, run follow-ups in your 1:1 sessions to get the main takeaways from both parties and don't forget to take action to prevent this issue from happening again.
 
-Here are 7 recommendations to manage conflicts in an organization:
+Here are 7 recommendations for managing conflicts in an organization:
 
 
 * ✋  Do not immediately launch yourself into a reactive solution, especially when feelings are on the surface and you are going to act from your emotional side instead of your rational side. Give yourself a few minutes or even a few hours.
@@ -326,7 +326,7 @@ When you find something useful or interesting ask yourself:
 * What is so interesting and valuable that it would be worth teaching others?
 * How would you go about explaining this concept to another person?
 
-Take detailed notes, add examples, and go deeper into the topic knowing that they will be essential to share specific stories, studies, examples, and quotes that otherwise it's impossible to remember.
+Take detailed notes, add examples, and go deeper into the topic knowing that they will be essential to share specific stories, studies, examples, and quotes that otherwise are impossible to remember.
 
 <p align="center" width="100%">
     <img width="60%" src="https://user-images.githubusercontent.com/43115782/236964279-19168608-0ce1-456b-88c3-c38df7b09a57.png">
@@ -384,7 +384,7 @@ It is the manager's responsibility to oversee the combined result and delegate t
 
 However, it is important to note that not everything is horizontal.
 
-As a technology leader, It's also needed to take a top-down perspective and consider the long-term impact of the decisions made and the risks taken.
+As a technology leader, it also needed to take a top-down perspective and consider the long-term impact of the decisions made and the risks taken.
 
 To strike the right balance across all areas that affect the team's bottom line, It's recommended to use a simple framework: the 3Ps (People-Product-Processes).
 
@@ -497,7 +497,7 @@ Asking the following questions can be key to understanding the current situation
 * What have you tried so far, and what haven't you tried...?
 * What has stopped you?
 * What has worked for you in the past that could work here?
-Which was the result?
+* What was the result?
 * What has prevented you from taking further action?
 
 **🧩 Options**:
@@ -613,32 +613,32 @@ It means feeling ownership of the business and doing everything possible for its
 * 💼 **Sense of belonging**: Entrepreneurs are responsible for everything that happens in the business and will do whatever it takes to succeed. They risk their income and their own money for a dream. Feeling the owner of a project, and developing that ownership, implies other skills such as:
 
     * **Passion**: You want to solve that problem in the world, and you love the work that goes into making it happen, even if you don't like some of the tasks.
-    * P**roblem Solver**: You are a born problem solver. Entrepreneurship is precisely about that: solving a relevant problem for customers. Think of anyone who requests something as an end customer. Treat them like this and see the difference.
+    * P**roblem Solver**: You are a born problem solver. Entrepreneurship is precisely about: solving a relevant problem for customers. Think of anyone who requests something as an end customer. Treat them like this and see the difference.
     * **Resilience**: You have the will to keep going, even when the going gets tough. You know it's part of the process, you know how to get an energy boost in those moments and you never give up.
 
       
 * 🧭 **Self-direction**: An entrepreneur starts from scratch, from a blank page. You won't find a guide there, there are no processes, tools, documents, clients, or sales, THERE IS NOTHING. Create the path. It starts with a goal and draws up a plan. It has its own internal compass that guides it. In fact, that internal compass takes you off the beaten path and your comfort zone. This ability to self-guide oneself implies other skills such as:
     
-    * **Proactivity**: you don't wait for someone to solve your problems, you know that solutions, like opportunities, won't come to you by magic. You just go out there, face the challenges and find the answers yourself.
-    * **Self-motivation**: you come home motivated. You know why you do what you do, and you shape your environment to make it easier. Reaching the great goal that you have set for yourself helps you stay in the fight when difficult situations come.
-    * **Autonomy**: you can work on your own, with the support of others (yes), but you don't get blocked. Others advise you, but you do not feel dependent. 
+    * **Proactivity**: You don't wait for someone to solve your problems, you know that solutions, like opportunities, won't come to you by magic. You just go out there, face the challenges and find the answers yourself.
+    * **Self-motivation**: You come home motivated. You know why you do what you do, and you shape your environment to make it easier. Reaching the great goal that you have set for yourself helps you stay in the fight when difficult situations come.
+    * **Autonomy**: You can work on your own, with the support of others (yes), but you don't get blocked. Others advise you, but you do not feel dependent. 
 
 
 * 💡 **Innovation**: Once entrepreneurs have charted their path, they must create everything from scratch, everything comes from their head. Not only the product but also the entire structure that a company requires to operate, from the people and skills to HOW they all operate: the culture!
   
     * **Creativity**: You find new ways to solve problems. You are curious, you experiment and try new things without fear of failure. You learn fast, think outside the box, and use a different approach to problems.
-    * **Customer orientation**: the customer is at the center. You value their opinions, their comments and you are close to them to make your decisions. You think outside the box and use a different approach to every problem that comes up.
+    * **Customer orientation**: The customer is at the center. You value their opinions, and their comments and you are close to them to make your decisions. You think outside the box and use a different approach to every problem that comes up.
     * **Faith**: You act with confidence, even when no one believes in you or is not even able to understand your product. You are not afraid of failure or the mistakes you may make along the way, you are fully aware that success will not come immediately.
-    * **Continuous improvement**: everything could be better, of course. You don't settle for yourself. You always look for your best version with ambition. And it is that nothing is written in stone. You are aware of the VUCA environment in which you live and the competitive advantage of knowing how to adapt quickly.
+    * **Continuous improvement**: Everything could be better, of course. You don't settle for yourself. You always look for your best version with ambition. And it is that nothing is written in stone. You are aware of the VUCA environment in which you live and the competitive advantage of knowing how to adapt quickly.
 
 
 * 📣 **Communication**: Entrepreneurs need others to fulfill their dream, whether it is a team that helps them co-create and sell the product, investors that finance the activity, customers that buy... They need highly developed communication skills to adapt to all these very different environments and achieve their goals.
   
     * **Adaptability**: having different profiles, personalities, and objectives. You need to be able to adapt to each environment, from reporting to different stakeholders to offering a motivational speech to your team.
     * **Effective communication, verbal and non-verbal**. Give clear and concise messages. Empathetic, honest, and vulnerable attitude. You know that the important thing is others and you give them the importance they deserve.
-    * **Optimism**: when you strongly believe in your purpose there is nothing to stop you. You think positively, you detect opportunity and value in any learning experience, and experience only adds up, and each step you take brings you closer to success.
+    * **Optimism**: When you strongly believe in your purpose there is nothing to stop you. You think positively, you detect opportunity and value in any learning experience, and experience only adds up, and each step you take brings you closer to success.
     * **Team Player**: You know you can go further and faster with a team. You value the superpower that each person has. And you know that working with others will make your dream come true. In the same way, you delegate with confidence and demand in equal parts, celebrating triumphs with others, accompanying them, and helping them achieve their goals.
-    * **Inspiration**: with your attitude, you set an example and don't just talk empty words. You work harder and are more efficient. You protect your well-being and manage your time effectively. You take time to keep growing. And believe me that all this inspires others to be better. You are a multiplier!
+    * **Inspiration**: With your attitude, you set an example and don't just talk empty words. You work harder and are more efficient. You protect your well-being and manage your time effectively. You take time to keep growing. And believe me, all this inspires others to be better. You are a multiplier!
 
 
 As you can see, leading successful technology teams requires much more than this entrepreneurial mindset, but having this mindset will make all the difference from the first contact and when that is the case, everything emerges at all levels of leadership.
@@ -649,11 +649,17 @@ CTOs are often connected to the business, speak the same language, communicate e
 
 The problem occurs further down the hierarchy. Managers, team leads, and developers very often don't have this mindset.
 
-Perhaps they don't have enough exposure to the business and don't make their decisions with it in mind, or they don't have the communication skills to influence their teams and other peers. They have not even considered that in leadership roles this is what is expected of them, no one clearly explained it to them.
+Perhaps they don't have enough exposure to the business and don't make their decisions with it in mind, or they don't have the communication skills to influence their teams and peers. They have not even considered that in leadership roles this is what is expected of them, no one clearly explained it to them.
 
 Whatever the cause, for me this lack of attitude and business vision is what leads to poor performance of many technology teams.
 
 <br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Do you have the entrepreneurial mindset you need as a leader?**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
