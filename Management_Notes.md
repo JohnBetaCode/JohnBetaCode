@@ -17,6 +17,9 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * The Secret to Effective Mentoring
 * Leading with a Product and Technology Relationship
 * Do you have the entrepreneurial mindset you need as a leader?
+* How to Manage the Brain Drain?
+* Geeting Back from Vacations
+* 7 Tips that Will Transform Your Book Reading Experience Forever
 
 <br />
 
@@ -657,8 +660,199 @@ Whatever the cause, for me this lack of attitude and business vision is what lea
 
 ---
 <!-- ************************************************************************************************************************************ --> 
-# **Do you have the entrepreneurial mindset you need as a leader?**
+# **How to Manage the Brain Drain?**
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+It is inevitable to lose talent. Currently, it is very, very difficult (especially in digital companies) to retain talent beyond 3-4 years.
+
+The important thing is how you prepare the company for when this happens and also how the replacement is managed.
+
+👉 **Prepare quickly for the situation**: Again, an emergency plan, is a top priority, and dedicate all the quality time possible.
+
+👉 **Carry out a top-level hiring process**: Prepare an attractive offer with clear expectations and roles, considering what might be required not only in the present but also in the future.
+
+👉 **Facilitate a smooth transition**: With quality time for each of the new team members.
+
+👉 **Absorb all the know-how and document it**: Essential to ensure that processes, routines, standards, and details stay with the company, to speed up the landing and to guarantee the continuity of operations without disruptions. Also, to bother the departing person as little as possible.
+
+👉 **If possible, have them stay on as an advisor**: A potential replacement would have the advisor at hand and would receive support in areas where they simply shone.
+
+Do not blame the person for wanting to take another path and do not feel bad about it.
+
+The professional goal of the other person should always be put on the table. Evaluate if the organization and both can facilitate the achievement of that goal, and only if it is a YES should you proceed with the cultural fit, technical questions, and other phases of the hiring process.
+
+If the person's goal is to get to Google, do whatever is possible for the necessary time so that Google knocks on their door. If the goal is to become an Engineering Manager, the same applies. The organization should get involved so that they can train, be given responsibilities, work on challenging projects, and with top-level professionals. Maximize their potential so that while they add value to the company, they feel that they are "training" and "preparing" for their next version.
+
+Alvaro Moya from LIDR says: I measure my footprint in the world by the impact I have on other people, and for a long time, I believe this is the way. As a leader, you have to facilitate them being their best version every day, regardless of the direct benefit you get from it.
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Geeting Back from Vacations**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Imagine the ability to vanish for an entire month and return to find the company in even better shape than it was left. This scenario illustrates the contrast in how vacations can be managed.
+
+
+<p align="center" width="100%">
+    <img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43115782/275493038-ec82ce93-fd3b-4b0c-b7e4-bc4de3ba4e05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231016%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231016T114910Z&X-Amz-Expires=300&X-Amz-Signature=973687f6f4b3482e6c4a2275cc4164df5b99e423d8e22093966c66ea96af996d&X-Amz-SignedHeaders=host&actor_id=43115782&key_id=0&repo_id=279704516">
+</p>
+
+Step 1️⃣ Transition into vacation mode occurs a few days in advance, lingering for the first few weeks after returning.
+
+Step 2️⃣ Vacations are seen as opportunities for team members to step up and take over the absent colleague’s responsibilities.
+
+The "Honeymoon Test" is based on two central premises:
+
+
+#### 🌟 Premise #1 - Is it possible to disconnect from work for an entire month while ensuring that everything still functions seamlessly?
+
+A true vacation is characterized by a complete disconnection. If support, validation, approval, or presence in a meeting is required, the honeymoon test is not passed. It indicates that the individual is indispensable and irreplaceable, making them a risk to the organization.
+
+
+#### 🌟 Premise #2 - Can vacations be leveraged as opportunities for team growth?
+
+For many people, a vacation is merely an interval that separates two identical phases of life and work. Upon return, there’s a need to compensate for the days missed. This can create anxiety that negates any relaxation or creativity gained during the break.
+
+Vacations should offer benefits upon return, not just during the break. It’s about recharging for long-term effects, not draining energy immediately upon return.
+
+
+#### Success in the honeymoon test 🌴 signifies vacations as an excellent means for effective and definitive delegation.
+
+Going the EXTRA MILE means integrating elements of “vacation mode” into everyday life. It’s not an anxiously awaited annual period but becomes a part of daily living, offering breaks for reading in a hammock, avoiding TV and social media, and engaging in profound future-oriented conversations.
+
+To ensure a liberating return from vacation, tasks should be properly delegated. This involves ensuring the team has everything necessary to function independently, anticipating possible unforeseen situations, and facilitating resources and support for the team in absence.
+
+Maintaining an "inbox zero" policy ensures a fresh start upon return, emphasizing the importance of communication before leaving and the delegation of email responsibilities during the absence.
+
+The return should be liberating. It's a time for redefining roles, assessing where the most value can be added, and transitioning from being the lead actor to a supporting role, facilitating rather than executing or planning.
+
+Preparation before departure ensures the remaining team members have everything needed to keep the machine running smoothly without needing the absent individual.
+
+Every tip might not be feasible for immediate implementation, but selecting the most suitable ones for individual and team needs can make a significant positive impact.
+
+<br />
+
+So, how to prepare for a return from vacation that feels liberating? Here’s an approach:
+
+
+#### 📝 Delegate Tasks Appropriately
+
+Ensuring that everything is well-organized and in place is essential. It involves checking that the team has all the necessary resources to carry out their work independently. Several key questions should be addressed:
+
+##### What key projects are underway?
+
+Updating the status of ongoing projects and opportunities is crucial, including understanding the context of the stakeholders, the state of conversations, proposals made, critical timings, and upcoming tasks. This clarity ensures that everyone knows the priorities, timelines, and work to be completed.
+
+##### What else could happen?
+
+Anticipating possible scenarios and having an action plan for unforeseen circumstances is vital. It helps prevent the team from reaching out during unexpected situations.
+
+##### Does the team have everything they need?
+
+Sharing all necessary documentation, including contacts, processes/guides, used tools, project documents, repositories, and ensuring they have the required access if not already available is essential.
+
+##### Who else can the team rely on in case of absence?
+
+Identifying individuals who can assist during unexpected (yet non-critical) situations and connecting them with the team helps ensure support is available.
+
+##### Is everything clear?
+
+Ensuring an effective handover to third parties, making introductions, and supporting the process as necessary (e.g., handover meetings, copying on certain emails) is part of ensuring a smooth transition.
+
+This approach ensures a sense of liberation upon returning from vacation, with the confidence that everything has been well-managed and the team is equipped to handle ongoing responsibilities efficiently.
+
+<br />
+
+#### 📩 Zero Inbox
+
+To start with a clean slate after returning from vacation, it’s vital for the team to understand that emails received during the absence are as if they never existed.
+
+Emails should be deleted, starting from zero upon return. Here’s a preparation strategy:
+
+* Inform contacts beforehand that if something requires attention, they should remember to resend it on the day of return.
+* Leave a note in the Out of Office (OoO) message to remind senders.
+* Minimize "cc" messages; if support won’t be provided during the vacation, request not to be copied on emails. With luck, this practice will continue upon return, freeing up both the inbox and mental space.
+
+The primary goal is ensuring that no backlog of tasks awaits upon return and that all responsibilities are smoothly transitioned to the team.
+
+This approach frees up a significant amount of time, enabling focus on growth. However, it requires meticulous planning!
+
+<br />
+
+#### 🔄 Liberating Return
+
+Upon return, the focus is on redefining roles and identifying areas where the most value can be added, akin to embarking on a new season of a favorite Netflix series.
+
+Holding one-on-one meetings with team members is recommended to catch up on what was missed, understand upcoming challenges, and identify how to offer support.
+
+This process transforms the returning individual from a central figure to a supporting role, emphasizing facilitation over execution and planning.
+
+<br />
+
+👉 The essential takeaway is the importance of ensuring, before departure, that those remaining on duty are well-equipped to keep operations running smoothly without needing additional support.
+
+There’s no need for panic if the implementation of these tips seems overdue. There’s always time to choose the most fitting recommendations for the individual and team and apply them when possible.
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **📚 7 Tips that Will Transform Your Book Reading Experience Forever**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Just-In-Time microlearning is a crucial concept for any high-performance professional, whether a manager or not. The ability to learn continuously and rapidly is key to adapting in a fast-evolving world.
+
+For learning to be effective, it must be immediately applicable.
+
+Microlearning isn’t about dedicating just 15 minutes a day; it's about focusing on a very specific area of knowledge. This requires extended periods of time and a suitable environment conducive to reflection, note-taking, consuming content in various formats, and contemplating its application to specific situations.
+
+To extract real value from training and book reading, optimizing learning time is essential. Every reading session should contribute to immediate skill or knowledge enhancement, aligning with professional or personal objectives. This strategy ensures that the acquired knowledge isn’t just theoretical but is readily applicable, enhancing both efficiency and effectiveness in the real world.
+
+<p align="center" width="100%">
+    “A manager has a lot of work; it's their responsibility to manage time and energy where it yields the highest output.”  
+— Andy Grove— 
+</p>
+
+Sounds familiar?
+
+Take someone who doesn’t read a book from beginning to end, for instance.
+
+They utilize the index to navigate to relevant sections, especially in non-fiction works, where sequence is less critical than in a novel. The index structures ideas, serving as a mental map.
+
+This approach aligns reading with upcoming challenges, aiming to enhance skills in areas of imminent necessity. It’s a strategy for short-term preparation.
+
+Landing in a leadership role isn’t a guided or standard process, making individuals prone to mistakes. However, something that can augment leadership, boost team growth, and achieve greater professional success is the incorporation of mentorship and coaching. These tools provide guidance, perspective, and actionable strategies to navigate the complexities of leadership effectively.
+
+#### 🚀 Here are 7 Key Recommendations for Maximizing the Benefits from Your Reading:
+
+#### Read to Address Current Problems
+Reading material should be selected with the intention of solving existing challenges. It facilitates the immediate application of acquired knowledge, maximizing the benefits of reading.
+
+#### Skip the Linear Approach
+Forget about starting on page one and reading straight through to the end. Non-fiction books are not meant to be linear. Utilize the index to navigate to the most relevant sections, and skim until the sought-after answers are found.
+
+#### It’s Okay to Leave it Halfway
+There's no obligation to finish every book started, especially when the goal is to address immediate challenges. Sometimes, the value lies in 10-15 pages across different books. Efficiency is key.
+
+#### Take Notes
+Jot down both relevant quotations and spontaneous thoughts or ideas. Ideally, notes should be made outside the book, and digitally if possible, to facilitate easy revisiting and keyword searching.
+
+#### Utilize "Empty" Moments
+Public transportation journeys or other idle times can be turned into opportunities for growth without sacrificing anything significant. Avoid getting lost in social media scrolling or reading work emails that can’t be immediately addressed. After dinner, consider reading instead of watching TV. Incorporating podcasts while performing daily chores can also be beneficial. Establishing this habit can provide an extra hour or more daily for personal development.
+
+#### Share the Learning
+Engaging in conversations about concepts, ideas, or reflections deepens understanding. It allows the exploration of different perspectives, recommendations of related books, application examples, and overlooked limitations.
+
+#### Stick to Highly Recommended Books
+Always seek book recommendations from trusted friends, mentors, and technology leaders. Time is too precious to waste on poor-quality reads, so ensuring that reading material is well-vetted is crucial for optimizing learning time.
+
+
+<br />
+
+
+These strategies are designed to transform reading into an efficient, problem-solving, and enriching activity, leading to immediate and impactful application in professional and personal life.
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
