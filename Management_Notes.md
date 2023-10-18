@@ -20,6 +20,9 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * How to Manage the Brain Drain?
 * Geeting Back from Vacations
 * 7 Tips that Will Transform Your Book Reading Experience Forever
+* Caution! Your team is returning demotivated
+* Productive Managers in the Age of Artificial Intelligence
+* The Crossroads for Developers: To Stop Coding and Become a Manager?
 
 <br />
 
@@ -538,7 +541,7 @@ Through the use of this model, a manager can provide effective guidance and supp
 
 ---
 <!-- ************************************************************************************************************************************ --> 
-# **Leading with a Product and Technology Relationship **
+# **Leading with a Product and Technology Relationship**
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 The first task, for technology leaders with a more comprehensive vision is required, who create and maintain a culture of product engineering. There's frustration due to liability disagreements, and even stories of technically impressive products that users end up not liking and dying quickly, or feature-rich products that consumed a lot of time and money and delivered no real value to the end user.
@@ -853,6 +856,140 @@ Always seek book recommendations from trusted friends, mentors, and technology l
 
 
 These strategies are designed to transform reading into an efficient, problem-solving, and enriching activity, leading to immediate and impactful application in professional and personal life.
+
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Caution! Your team is returning demotivated**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+#### 😕 What Causes Our Motivation to Decrease?
+
+In most cases, the lack of motivation stems from not enjoying the "how" of doing our work or not having a clear reason behind what we are doing.
+
+Here are two of the most common causes of demotivation:
+
+1. 👉 Lack of clear direction, as we don’t know where to channel our energy (focus). Without direction, or with constantly changing directions, it becomes difficult to progress, leading us to feel our work is futile. This drastically impacts our motivation.
+
+2. 👉 Our physiology is also affected by post-vacation depression. When we feel sad, stressed, or haven’t rested enough, our energy levels drop, making it difficult to function effectively and feel motivated by daily tasks.
+
+#### 😊 How Can We Boost Motivation Now and Throughout the Year?
+
+As a leader, one of your key roles is to motivate team members so they are eager to get to work each day. After all, as has been said before, your primary objective and the reason you are valued is for maximizing your team’s performance.
+
+To achieve this, you need to ensure that each team member takes ownership of their work. This sense of ownership is incredibly motivating and leads to increased effort, resulting in greater achievements. They are motivated by personal fulfillment, not financial reward, and feel they are more than just a cog in a larger, impersonal system, finding purpose in their tasks.
+
+#### 💪 How Can You Ensure This Happens Effectively?
+
+Here are some tips to enhance intrinsic motivation:
+
+* Encourage team members to fully utilize their skills and abilities. Assign tasks that are challenging yet achievable and require the use of various skills.
+
+* Allow them to work on a complete task from start to finish; this is more motivating than working on just a small part of a task like a robot on an assembly line. It also encourages the use of diverse skills.
+
+* Help them understand the significance of the task and its benefits for the team, the overall company, and the customer. This way, they will be able to see the broad impact of their actions.
+
+* If your team members have a level of autonomy, meaning they have broad objectives and are allowed to choose their own path to achieve them, they tend to have higher intrinsic motivation. Discuss this occasionally in 1-1s and define it thoroughly in the performance review, ideally every quarter or at least every semester.
+
+* Provide clear and immediate feedback so they know they are meeting expectations and performing well. Complement this with coaching or mentoring in 1-1 sessions, and document it. You will need to justify progress and areas for improvement in the performance review, ensuring clear and continuous professional development.
+
+#### ⚡[EXTRA] Here’s an additional motivation tip that always works in September⚡
+
+* Schedule a 1-on-1 meeting with each team member.
+
+* Ask them what they love most about their job and what they’d like to do more of.
+
+* Assure them that you will do EVERYTHING POSSIBLE (and mean it) to enable them to do more of that and engage in activities or projects where they can grow, enjoy, and excel.
+
+* However, make it clear that nothing is guaranteed, but you want them to give their best and believe this approach will unleash their full potential. This is not just for better results, but also for enhanced motivation.
+
+* Then, make the effort. You are giving FIRST. You are attending to them as individuals, with their own goals and motivations. You are building trust and loyalty from day one post-vacation.
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Productive Managers in the Age of Artificial Intelligence**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+We live in turbulent times, where economic news is more often disheartening than encouraging, where people live in fear and uncertainty, and where every working-age individual must rapidly learn to avoid falling behind.
+
+The permanent arrival of Artificial Intelligence (AI) is not news to anyone.
+
+However, it is up to us to view it as a threat (risking job loss, for example) or as an opportunity (learning how to use it to enhance our value in the market).
+
+Indeed, AI can become a significant ally in your daily life. It's a powerful tool that enables managers to elevate their performance, boost productivity, and enhance the results contributed by both them and their teams to the company.
+
+Therefore, whether you like it or not, learning how to work effectively with AI is essential for your professional growth.
+
+#### 😟 What Challenges Do You Face in the Age of AI?
+
+AI is automating routine tasks and enhancing decision-making, which can be immensely beneficial. However, it also implies that managers need to adapt to a new environment with new tools and a different allocation of their time:
+
+* 🤖 Automation: AI efficiently performs repetitive tasks, freeing up managers to focus on higher-value, strategic activities that only THEY can undertake.
+
+* 🧐 Decision-Making: AI enhances decision-making by providing accurate data and analysis, as well as quick summaries and responses. Understanding how and when to use this information source is crucial.
+
+* 🌐 Remote Management: With geographically dispersed teams, AI aids in the effective management of projects, documentation, and remote collaboration.
+
+* 📈 Professional Development: As a leader, you should boost the development of your team’s key skills in this new world where effectively using a simple chat can increase a developer’s productivity by 300%.
+
+####  😎 What Role Do You Play?
+
+Despite these challenges, managers still have a significant role. Here are some ways to be a productive manager in the Age of AI:
+
+* 🤝 Collaboration: Encourage your team to maximize the benefits of AI and turn it into an ally. Allow them to experiment and test it in simple use cases (testing, technical documentation, refining user stories, etc.)
+
+* 🔍 Continuous Learning: Stay updated on the latest trends and how they can be applied daily: more efficient meetings, note-taking, tracking 1-1s, etc.
+
+* 📊 Critical Analysis: Use AI to gather data and access relevant information quickly but apply critical analysis to the results. You hold unique insights into business context, quarterly goals, and the value each team member contributes. Even with AI as a “co-pilot,” you remain accountable for decisions. “ChatGPT recommended it” won’t be a valid excuse.
+
+* 🙌 Skill Development: Help your team develop relevant skills like data handling, writing good prompts, business insight, and effective communication. These are key to maximizing AI tools, enhancing group performance, and aligning everyone (humans and computers) with the company’s goals.
+
+Don’t fear AI; embrace it as an ally in your managerial career.
+
+Disruptive technology and radical innovation can be intimidating as they change the rules of the game. It happened with cars, radio, blockchain, and is now happening with generative AI. And it will continue.
+
+Yet, these are just tools for specific use cases, like a hammer or glasses; they help us perform certain tasks better, faster, or cheaper.
+
+Leveraging AI daily will be essential for future success, much like English is today. Being from the tech world, you’re better positioned than most.
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **The Crossroads for Developers: To Stop Coding and Become a Manager?**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+You might be passionate about programming, but as you progress in your career, the opportunity (perhaps in disguise) to assume a leadership and management role presents itself.
+
+What should you do? Do you heed or silence that inner voice urging you to seize the opportunity?
+
+Well, it depends!
+
+One reason to stay as a developer is if programming is your passion - if you're all about solving technical problems and developing solutions. Moving away from programming could distance you from what you genuinely enjoy.
+
+However, if you’re looking to take on new challenges, contribute more value to your organization, have a broader impact (beyond just coding), and grow professionally and financially, even if it means stepping out of your comfort zone, then make your move!
+
+But move with a clear understanding of what the transition to a leadership role entails, including skills, functions, and responsibilities.
+
+Did you know that 53% of tech managers have no clue what awaits them when transitioning into leadership roles? One in two doesn’t even understand the role until they’re in it!
+
+When you make the leap and stop programming, you must confront:
+
+* 1️⃣ **Leaving the Programmer’s Routine**: Stepping into the tech lead role brings new and different functions. Balancing these tasks and slightly distancing yourself from coding to start inspiring your team will be one of your primary challenges.
+
+* 2️⃣ **Time Management**: You’ll deal with meetings, interviews, onboarding, planning, 1:1s, performance reviews, among other new functions. Learning to organize your time will be essential.
+
+* 3️⃣ **Communication Skills**: The #1 skill to develop, even before landing in the role. It’s worth emphasizing that communication isn’t just about talking. It involves empathy, active listening, learning to give feedback, and conflict resolution.
+
+* 4️⃣ **Thinking Ahead**: You’re no longer a developer completing a ticket that goes into production tomorrow. You’re considering the consequences of all your actions and decisions. A tech lead must always have a plan, not just to meet set objectives but also to handle various situations alongside the team.
+
+* 5️⃣ **Lack of Guidance**: Many developers transition to leadership roles due to "opportunity" in the company, or rather, as I call it, "need disguised as opportunity." The issue is that few companies prepare you; they don’t understand that the opportunity you’re taking is a career change, not merely a promotion.
+
+If you decide to embrace the leadership path, remember, it's about balancing the technical with the managerial, and harmonizing the needs of the project with those of your team. Adaptability, continuous learning, and embracing the evolution of your role are the keys to thriving as a productive manager in the age of AI.
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
