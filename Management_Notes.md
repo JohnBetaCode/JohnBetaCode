@@ -34,6 +34,7 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * The 4 Barriers Hindering Your Leap into a Tech Leadership Role
 * The 5 Keys to Effective Leadership
 * ​5 steps to escape the frustration that your technical role generates in you
+* Achieving more with less. High-performance mindset
 
 <br />
 
@@ -1184,6 +1185,20 @@ There's a way out of this rut, and you hold the key to change.
 Feeling stagnant in a technical role is challenging. Recognizing this invites you to think differently and step outside your comfort zone.
 
 I encourage you to take action. Embrace growth, shake off demotivation, and get ready for a future brimming with opportunities as a tech leader.
+
+
+<br />
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **Achieving more with less. High-performance mindset**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+
+
+
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
