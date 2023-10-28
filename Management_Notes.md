@@ -1194,11 +1194,25 @@ I encourage you to take action. Embrace growth, shake off demotivation, and get 
 # **Achieving more with less. High-performance mindset**
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
+### Can we bring the concept of 'high performance' to software teams? 🚀
 
+High performance is the state you achieve by optimizing your time, energy, and attention completely. This enables you to be at your peak physical, mental, and emotional levels. Consequently, your dedication will be stronger, and you will be deeply connected to your purpose, ensuring that you reach your goals and achieve exceptional results.
 
+But how can you achieve this? What are the qualities you must develop to increase your performance as a developer or technology leader?
 
+* ⚪ **Clarity**: It provides you with infinite intention and motivation. You understand who you are and why you do it, know what you desire, and have a clear plan on how to achieve it. This helps you maintain focus and serves as an intrinsic motivator to make it a reality.
 
+* ⚡ **Energy**: Focus your efforts on one thing. Distractions drain your energy. Concentrate on the overarching goal. Optimize your time and be mindful of the four sources from which you obtain and recharge energy: physical, mental, emotional, and spiritual.
 
+* 💪 **Courage**: Allows you to dare to try new things and understand that failure is part of the journey and growth. Courage keeps you consistent and prevents you from giving up. It also empowers you to think creatively, challenge the status quo, and enhance your critical thinking.
+
+* ⏱ **Productivity**: Prioritize effectively and manage your time correctly to accomplish more in less time.
+
+* 🌀 **Influence**: Understand that you don't work alone! Be kind, generous, and aim to contribute fully to your team. Communicate effectively, attracting people to your side to achieve that overarching goal together.
+
+So, how can you apply these principles in your work life?
+
+The answer lies in your hands. Work on developing these qualities and help your team do the same.
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
