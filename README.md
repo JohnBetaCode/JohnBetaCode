@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm John Betancourt - aka [JohnBetaCode][linkedin] 
-Head of Ai and Robotics at Kiwibot (Also aka as the Great Dictator)
+Head of Ai and Robotics at Kiwibot (aka the Great Dictator)
 
 [![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
 [![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/johnbetacode/)
@@ -9,20 +9,20 @@ Head of Ai and Robotics at Kiwibot (Also aka as the Great Dictator)
 
 <img src="https://user-images.githubusercontent.com/43115782/167684386-91cc219e-c499-4f5d-8895-2b292f887563.png" alt="kiwi_banner" width="1200">
 
-Hi human, I love working in my greatness passion ❤️‍🔥: software 👨‍💻 and AI solutions 💡(Vision 👀, Machine learning 🧠, and robotics 🤖). My areas of interest are mobile rovers 🚗, aerial, and underwater robots/vehicles (ROV), control architectures, navigation, and mapping. 
+Hi human, I love working in my great passion ❤️‍🔥: software 👨‍💻 and AI solutions 💡(Vision 👀, Machine learning 🧠, and robotics 🤖). My areas of interest are mobile rovers 🚗, aerial and underwater robots/vehicles (ROV), control architectures, navigation, and mapping. 
 
-Currently, I’m building the robotics infrastructure of the future in the atoms ⚛️ delivering industry at [@Kiwibot][website] 🥝. I also love photography 📷 [@JohnBetaCode](https://www.instagram.com/johnbetacode/) and burgers 🍔.
+I’m currently building the future robotics infrastructure in the atoms ⚛️ delivering industry at [@Kiwibot][website] 🥝. I also love photography 📷 [@JohnBetaCode](https://www.instagram.com/johnbetacode/) and burgers 🍔.
 
 
-- 🔭 I’m currently working with robots 🤖 at [Kiwibot][website]! (Food develivery Robots).
-- 🌱 I'm currently learning everything 🤣, but focused in Leadership, and product/Engineering management (learning how complicate are people 🤯), when I have free time in ML, Ai.
-- 👯 I’m looking to collaborate with other content creators in Ai and ML or things that I like, also I'm always opened to talk, and chat about tech stuff.
-- 🥅 2022 - 2023 Goals: Contribute more to Open Source projects, and create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
+- 🔭 I’m currently working with robots 🤖 at [Kiwibot][website]! (Food delivery Robots).
+- 🌱 I'm currently learning everything 🤣, but focused on Leadership and product/Engineering management (learning how complicated people are 🤯) when I have free time in ML Ai.
+- 👯 I want to collaborate with other content creators in Ai and ML or things I like. Also, I'm always open to talking and chatting about tech stuff.
+- 🥅 2022 - 2023 Goals: Contribute more to Open Source projects, create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
 - ⚡ Fun fact: I love pop music 🎵 ([here one of my favorites](https://www.youtube.com/watch?v=p4QqMKe3rwY&list=RDMM8RZeHO7gBJk&index=2)), photography 📷, drawing ✏️, and playing guitar 🎸(I'm not good), some people call me uncle John 👴, and I also love teaching 👨‍🏫.
 
 ## My role:
 
-Work with the leadership team to set clear priorities and goals for IT management and production, balancing the long-term and immediate needs. Manage strategic vendor and technology partner relationships. Manage IT resource allocation, goal/KPI setting, and performance metrics. Define the company’s overall technology strategy to support business objectives. Make infrastructure decisions, ensuring technical excellence, versatility, safety and soundness, resiliency and scalability in the architecting and engineering of product solutions, as well as managing all technical delivery. Ensure tight collaboration across departments to drive strategic initiatives, including understanding of the alignment between technology strategy and various technology road maps. Create strategic plans and set timelines for evaluation, development, and deployment of all technical, robotics, and AI services.
+Work with the leadership team to set clear priorities and goals for IT management and production, balancing the long-term and immediate needs. Manage strategic vendor and technology partner relationships. Manage IT resource allocation, goal/KPI setting, and performance metrics. Define the company’s overall technology strategy to support business objectives. Make infrastructure decisions, ensuring technical excellence, versatility, safety and soundness, resiliency, and scalability in the architecting and engineering of product solutions and managing all technical delivery. Ensure tight collaboration across departments to drive strategic initiatives, including understanding the alignment between technology strategy and various technology road maps. Create strategic plans and set timelines for evaluating, developing, and deploying all technical, robotics, and AI services.
 
 <br />
 
@@ -123,7 +123,7 @@ As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBetaCode&layout=compact&theme=onedark" />
 </p>
 
-Note: Many of my work is not reflected here due to almost all my work is in private repositories in [Kiwibot ](https://github.com/kiwicampus).
+Note: Much of my work is not reflected here because almost all my work is in private repositories in [Kiwibot ](https://github.com/kiwicampus).
 
 <br />
 <br />
