@@ -35,6 +35,7 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * The 5 Keys to Effective Leadership
 * ​5 steps to escape the frustration that your technical role generates in you
 * Achieving more with less. High-performance mindset
+* Efficiency: How to Achieve More with Less?
 
 <br />
 
@@ -709,11 +710,6 @@ Alvaro Moya from LIDR says: I measure my footprint in the world by the impact I 
 
 Imagine the ability to vanish for an entire month and return to find the company in even better shape than it was left. This scenario illustrates the contrast in how vacations can be managed.
 
-
-<p align="center" width="100%">
-    <img width="70%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43115782/275493038-ec82ce93-fd3b-4b0c-b7e4-bc4de3ba4e05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231016%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231016T114910Z&X-Amz-Expires=300&X-Amz-Signature=973687f6f4b3482e6c4a2275cc4164df5b99e423d8e22093966c66ea96af996d&X-Amz-SignedHeaders=host&actor_id=43115782&key_id=0&repo_id=279704516">
-</p>
-
 Step 1️⃣ Transition into vacation mode occurs a few days in advance, lingering for the first few weeks after returning.
 
 Step 2️⃣ Vacations are seen as opportunities for team members to step up and take over the absent colleague’s responsibilities.
@@ -1003,6 +999,21 @@ When you make the leap and stop programming, you must confront:
 
 If you decide to embrace the leadership path, remember, it's about balancing the technical with the managerial, and harmonizing the needs of the project with those of your team. Adaptability, continuous learning, and embracing the evolution of your role are the keys to thriving as a productive manager in the age of AI.
 
+From the previous perspective, there are five key questions that will help determine if one is truly prepared to transition into a leadership role or if it is the right choice for one's career.
+
+Consider these questions:
+
+❓ **Comfort with postponing one's to-do list?** Leadership is not about executing tasks but about attending to people. This means moving from being an individual contributor to managing teams, and therefore, letting go of certain tasks (such as programming).
+
+❓ **Ability to listen?** Is there comfort in listening to others' problems? How about empathy? Active listening involves fully concentrating on what the other person is saying and understanding their thoughts, ideas, and emotions.
+
+❓ **Communication with effectiveness and assertiveness?** A significant portion of time will be spent in meetings and interacting with teams, meaning that much of the job will involve effective communication. Communication is key everywhere: in mentoring processes, one-on-one meetings, when delegating tasks, sharing a new project, or even resolving conflicts.
+
+❓ **Confidence in giving and receiving feedback?** Mastering feedback is a major challenge for any leader, mainly because different personalities are involved in each interaction. Developing this skill will advantage in having insightful conversations with team members to evaluate how to improve outcomes.
+
+❓ **Initiative or waiting for others' approval?** As a manager, one must learn to identify business opportunities and be willing to take risks, both to lead the team and to steer the company in the right direction. This will often require taking the initiative, even if it means making difficult decisions and stepping out of one's comfort zone.
+
+
 <br />
 
 ---
@@ -1213,6 +1224,65 @@ But how can you achieve this? What are the qualities you must develop to increas
 So, how can you apply these principles in your work life?
 
 The answer lies in your hands. Work on developing these qualities and help your team do the same.
+
+<br />
+
+
+---
+<!-- ************************************************************************************************************************************ --> 
+# **⚡ Efficiency: How to Achieve More with Less?**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+The pressure to optimize resources, from infrastructure costs to personnel expenses, is pushing companies to their limits, to the point where concepts like efficiency, productivity, and performance become confused.
+
+While...
+
+👉 Efficiency focuses on optimizing processes to achieve outcomes, economizing on resources;  
+👉 Productivity aims to maximize production and outcomes with the available resources, assessing the relationship between the quantity and quality of production.  
+👉  And performance? It directly affects the performance of people, the effectiveness of teams or processes according to the criteria set by each company.  
+
+The key question is: Where and how can we save on engineering without compromising quality, innovation, and outcomes?
+
+It's a complex question. And a difficult answer.
+
+The issue is that companies opt for the "easy" route:
+
+* Cuts in infrastructure and tools
+* Staff reduction
+* Freezing wages
+* Savings on employee perks (like training)
+* Reduction of team-building activities
+
+Costs are reduced and sometimes even impacts the size of the teams, but the workload usually does not decrease proportionally.
+
+And, it has fatal consequences.
+
+* Increase distrust and lose visibility by reducing the time dedicated to personal relationships
+* Reduce engagement and worsen collaboration  
+* Diminish the commitment each collaborator has with the company  
+* The opportunity cost of talent leakage, taking the organization's know-how with them. And often, this loss is greater than savings.
+
+It's know that the business world is short-term, something that is accentuated in tech startups with investors behind them. And it's difficult for it to change; as an early-stage angel investor.
+
+However, from the organization's side, in the long term, these measures are totally counterproductive. It's hard to measure the opportunity cost of someone leaving or (worse) staying demotivated or without training. But it's a VERY real cost!
+
+So, what should be considered? thinking about questions like...
+
+👉 How can new tools and innovations be used like AI to stay competitive?  
+👉 Where can smart adjustments be applied to gain more efficiency without sacrificing the quality of the final product?  
+👉 How can the technology teams act as catalysts for change to gain efficiency and automation in other departments?  
+👉 What impact do layoffs have on the people who remain in the company?  
+👉 If making cutting decisions now, what it's being sacrificed in the long term in terms of innovation, growth, and company reputation?  
+👉 Where's the line drawn between operational efficiency and talent retention?  
+👉 What are the critical areas where technology investment can generate greater long-term efficiency returns?  
+👉 How can we accurately measure and quantify the success of the efficiency initiatives we implement in the technology teams?  
+
+<br />
+
+
+---
+<!-- ************************************************************************************************************************************ --> 
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
