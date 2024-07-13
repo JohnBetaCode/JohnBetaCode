@@ -1302,7 +1302,7 @@ One way AI promotes collaboration is through generating instant suggestions and 
 
 
 <p align="center" width="100%">
-    <img width="35%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43115782/324195420-3bd2af47-385c-4ba7-a235-47de87b5cc18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240420%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240420T174341Z&X-Amz-Expires=300&X-Amz-Signature=6ccf32dbee244d80c2c9c49ddc8847051d05e746c1b9efdab608c7f1b3662b46&X-Amz-SignedHeaders=host&actor_id=43115782&key_id=0&repo_id=279704516">
+    <img width="35%" src="https://github.com/user-attachments/assets/9087bd3b-9677-4cd1-ada3-4bbca5bdb042">
 </p>
 
 
