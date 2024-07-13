@@ -37,6 +37,9 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * Achieving more with less. High-performance mindset
 * Efficiency: How to Achieve More with Less?
 * AI-Augmented Developer Teams in Enterprises
+* Navigating Career Paths: Developer or Leader in the Age of AI
+* The 5 Rookie Leadership Mistakes That Can Cost You Your Job (and How to Avoid Them)
+* The Golden Triangle of Effective Leadership
 
 <br />
 
@@ -1329,17 +1332,87 @@ In conclusion, it is crucial to thoroughly understand the evolving role of devel
 
 ---
 
+<!-- ************************************************************************************************************************************ --> 
+# **Navigating Career Paths: Developer or Leader in the Age of AI**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+With the ongoing AI revolution and the vast amount of information circulating online, many developers might be questioning their career paths. There appear to be two divergent routes:
+
+1. Continue working as a developer but aim to be in the top tier, becoming an AI-augmented developer.
+2. Transition to a leadership role in technology.
+
+There is a third path, which is to remain as is, but this option is not advisable as it lacks future prospects.
+
+Firstly, becoming a top-tier developer enhanced by AI offers an even greater technical mastery. Leveraging advanced tools like Cursor or Copilot can optimize and accelerate the software development process.
+
+Alternatively, moving up to a managerial role entails stepping away from direct coding to take on responsibilities in leadership, team management, and strategic decision-making.
+
+This dilemma becomes more intense when considering the daily challenges. From dealing with tight deadlines and unrealistic expectations to the constant pressure of staying updated with the latest technologies and market trends, being a successful developer requires a delicate balance between productivity, quality, and mental well-being. Moreover, the significant integration of AI has added another layer of complexity to this issue.
+
+While AI provides opportunities to enhance efficiency and accuracy in software development, it also raises questions about the future role of developers as we know it and how it will evolve with advancing technology.
+
+To address this dilemma effectively:
+
+* **Self-Evaluation**: Reflect on personal interests, strengths, and short-term and long-term career goals. Is there more motivation in honing technical skills or in assuming a leadership and team management role?
+* **Market Research**: Investigate current labor market trends in the tech field. What are companies demanding? What growth opportunities exist for both developers and managers?
+* **Conversations with Colleagues**: Engage with other developers and managers to gain diverse perspectives and experiences. What has worked for them in terms of career development? What advice can they offer?
+* **Skill Development**: Consider ways to develop the necessary skills for both career paths. What training courses or certifications can enhance both technical and leadership competencies?
+* **Mentorship**: Seek mentors in the field who can provide personalized guidance on tackling this dilemma. Do they have experience in both development and management? What advice do they have?
+
+By addressing this dilemma from multiple angles and considering all available options, it becomes possible to make an informed decision that aligns with one's professional goals as a developer.
 
 
+<br />
 
 
+---
+
+<!-- ************************************************************************************************************************************ --> 
+# **🥵 The 5 Rookie Leadership Mistakes That Can Cost You Your Job (and How to Avoid Them)**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
+It is evident that many years of trial and error could have been avoided if someone had warned about the common rookie mistakes most professionals make when transitioning to a leadership role. Here are some of those mistakes (there are more):
+
+* **Lack of Clarity about the Role and Expectations**: A common mistake is not having a clear understanding of what your role as a leader entails and failing to communicate your expectations to your team. It's crucial to establish clear expectations from the start to avoid misunderstandings and confusion.
+
+* **Doing Everything Yourself**: Trying to do everything yourself can lead to an overwhelming workload and hinder the development of your team. It's essential to learn to trust your collaborators and delegate tasks effectively.
+
+* **Not Seeking Feedback**: Failing to regularly seek feedback prevents you from identifying areas for improvement and limits your professional growth. Learn to accept constructive criticism and use that information to continuously improve.
+
+* **Resistance to Change**: As a leader, it is important to be open to change and innovation. Resistance to change stifles growth. Therefore, it is vital to be flexible and willing to adapt to new ideas and approaches.
+
+* **Not Developing Your Skills**: Never underestimate the importance of continuously developing your leadership skills. Participate in training programs, seek mentoring opportunities, and practice self-learning to strengthen and keep your skills updated.
 
 
+<br />
 
 
+---
 
+
+<!-- ************************************************************************************************************************************ --> 
+# **🔺 The Golden Triangle of Effective Leadership**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+We are facing a new reality: constant and rapid innovations in the sector, geographically dispersed teams that now work with artificial intelligence daily, and increasingly demanding organizations that expect more from us in less time. As technology leaders, there is only one thing to do: anticipate, adapt, and lead our teams effectively.
+
+There are no secrets and no magic formulas—just three elements that, when perfectly combined, lead to effective leadership in the tech world. This is the golden triangle of the new manager of hybrid teams:
+
+<p align="center" width="100%">
+    <img width="35%" src="https://github.com/user-attachments/assets/1cf26b6d-ab74-4aef-acea-3fe41112a20f">
+</p>
+
+
+* **Technical Vision**: Imagine having a 360-degree panoramic view that encompasses all dimensions of a project: the people involved, the product in development, and the processes that make it possible. This is the power of technical vision. An effective tech leader not only understands each of these aspects but can also communicate them clearly and effectively, setting a clear direction for the team.
+
+* **Soft Skills**: While technology is at the core of our work, we cannot underestimate the value of soft skills. Communication, teamwork, problem-solving, and time management are just a few of the skills in this set. A leader who masters these skills not only inspires and motivates their team but also fosters a culture of collaboration and creativity, driving the project's success.
+
+* **AI Tools**: In a world inevitably driven by artificial intelligence, highly productive tech leaders make the most of available AI tools. These tools help optimize processes and automate repetitive tasks, facilitate the analysis of large volumes of data, and enable more informed decision-making.
+
+<br />
+
+---
 
 
 
