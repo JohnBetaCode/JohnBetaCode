@@ -1302,7 +1302,7 @@ One way AI promotes collaboration is through generating instant suggestions and 
 
 
 <p align="center" width="100%">
-    <img width="35%" src="https://github.com/user-attachments/assets/9087bd3b-9677-4cd1-ada3-4bbca5bdb042">
+    <img width="60%" src="https://github.com/user-attachments/assets/9087bd3b-9677-4cd1-ada3-4bbca5bdb042">
 </p>
 
 
@@ -1400,7 +1400,7 @@ We are facing a new reality: constant and rapid innovations in the sector, geogr
 There are no secrets and no magic formulas—just three elements that, when perfectly combined, lead to effective leadership in the tech world. This is the golden triangle of the new manager of hybrid teams:
 
 <p align="center" width="100%">
-    <img width="35%" src="https://github.com/user-attachments/assets/1cf26b6d-ab74-4aef-acea-3fe41112a20f">
+    <img width="60%" src="https://github.com/user-attachments/assets/1cf26b6d-ab74-4aef-acea-3fe41112a20f">
 </p>
 
 
