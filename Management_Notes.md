@@ -40,6 +40,9 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * Navigating Career Paths: Developer or Leader in the Age of AI
 * The 5 Rookie Leadership Mistakes That Can Cost You Your Job (and How to Avoid Them)
 * The Golden Triangle of Effective Leadership
+* Technology Leadership Skills Framework
+* How to Write Better Notices for Software Development
+* Metrics for Measuring Performance and Well-being in Development Teams
 
 <br />
 
@@ -1409,6 +1412,156 @@ There are no secrets and no magic formulas—just three elements that, when perf
 * **Soft Skills**: While technology is at the core of our work, we cannot underestimate the value of soft skills. Communication, teamwork, problem-solving, and time management are just a few of the skills in this set. A leader who masters these skills not only inspires and motivates their team but also fosters a culture of collaboration and creativity, driving the project's success.
 
 * **AI Tools**: In a world inevitably driven by artificial intelligence, highly productive tech leaders make the most of available AI tools. These tools help optimize processes and automate repetitive tasks, facilitate the analysis of large volumes of data, and enable more informed decision-making.
+
+<br />
+
+---
+
+<!-- ************************************************************************************************************************************ --> 
+# **🎯 Technology Leadership Skills Framework**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Consider two leaders facing a critical situation in their organization: a delayed project and a stressed team.
+
+**Leader 1**:
+* Focuses solely on technical solutions.
+* Does not take the time to listen to the team or understand their concerns, creating a tense and demotivated work environment.
+* Lacks strategic vision and business skills, leading to rushed decisions that do not align with the organization’s long-term goals.
+* As a result, the team feels disconnected and the project quality suffers.
+
+**Leader 2**:
+
+* Communicates openly and effectively with the team, showing empathy and motivation.
+* Involves the team in decision-making, fostering a collaborative work environment.
+* Uses strategic vision and business understanding to make informed decisions that benefit both immediate and long-term goals.
+* Creates a positive work atmosphere, enhancing productivity and ensuring project success.
+
+The difference between these two leaders lies in their skills. Acknowledging that as a leader, it is crucial to develop a set of skills to lead high-performance teams effectively, efficiently, and sustainably is essential. These skills are encapsulated in the Technology Leadership Skills Framework.
+
+The Technology Leadership Skills Framework
+
+The Technology Leadership Skills Framework is a structured guide that defines the essential competencies and skills technological leaders need to develop to lead their teams effectively. This framework not only helps leaders identify areas for improvement but also provides a clear roadmap for their professional and personal development.
+
+The framework consists of three fundamental pillars:
+
+**🧔 People Skills**
+
+People skills are the foundation of effective leadership, including:
+
+* Effective Communication: The ability to clearly convey ideas and expectations, actively listen to the team, and foster an open communication environment.
+* Empathy and Motivation: Understanding the needs and motivations of team members and using that understanding to inspire and motivate.
+* Conflict Resolution: The ability to mediate disputes and find solutions that benefit all stakeholders.
+* Talent Development: Identifying the strengths and improvement areas of each team member and providing opportunities for professional development.
+
+**💼 Business Skills**
+
+Business skills are essential for aligning team goals with organizational objectives and ensuring long-term success, including:
+
+* Strategic Vision: The ability to see the big picture and plan long-term, including understanding market trends, anticipating changes, and adapting the team’s strategy.
+* Project Management: Planning, executing, and completing projects effectively, ensuring deadlines and budgets are met.
+* Informed Decision-Making: Evaluating data and options to make decisions that benefit both the team and the organization.
+* Innovation and Adaptability: Fostering an environment of experimentation and being willing to take calculated risks to drive progress.
+
+**💻 Technical Skills**
+
+While a leader does not need to be the best programmer on the team, they should have a solid understanding of the technologies and methodologies used, including:
+
+* Essential Technical Knowledge: Understanding key technologies and development methodologies used by the team.
+* Technical Problem-Solving: The ability to guide the team in resolving complex technical issues.
+* Continuous Learning: Staying updated with the latest technological trends and advancements to guide the team effectively.
+* Implementation of Best Practices: Ensuring the team follows best development practices and that the code is clean, efficient, and maintainable.
+
+Developing these skills requires a proactive approach and continuous dedication to learning and self-improvement, including ongoing training, mentorship, seeking feedback, and reflecting on daily actions.
+Conclusion
+
+The Technology Leadership Skills Framework is not just a theoretical guide but a practical tool for growth as a leader. By developing these skills, leaders can enhance their ability to lead their teams and contribute to the success and innovation of their organization 🚀
+
+Leadership is a continuous journey. Stay open to learning and development, and witness how your team and you overcome significant challenges together.
+
+
+<br />
+
+---
+
+
+<!-- ************************************************************************************************************************************ --> 
+# **How to Write Better Notices for Software Development**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+The quality of the response is closely related to the quality of the input. The prompt is the way to communicate with the assistant, and effective communication will yield better results. Therefore, learning how to give quality instructions is crucial.
+
+**👨🏼‍💻 What is Prompt Engineering?**
+
+Prompt Engineering is the discipline focused on designing and formulating instructions (prompts) to interact effectively with LLMs. This technique involves not only formulating questions or commands clearly and precisely but also understanding how the structure and content of these prompts influence the quality of the AI-generated responses. Context enriches communication and is key to refining the accuracy and relevance of the responses generated by these assistants. Concrete examples improve precision by providing a specific frame of reference, minimizing ambiguity, and clarifying expectations.
+
+**👨🏼‍💻 Types of Prompts**
+
+There are notable differences in results when examples are introduced versus when they are not.
+
+* **Zero-shot prompting**: The basic technique where the model responds to an instruction without having seen previous examples, relying on its general knowledge and understanding. This is typically used when dealing with unknown topics or when collecting specific examples is challenging.
+
+* **One-shot prompting**: This strategy involves including a single example to the model just before making a request, aiming to guide its response towards a particular context or format.
+
+* **Few-shot prompting**: In this case, multiple examples are provided to the model to refine its accuracy and effectiveness in responding to more detailed and specific tasks. Additional examples guide the model to adjust its response according to a pattern.
+
+**👨🏼‍💻 Characteristics of a Good Prompt**
+
+**Instruction**: The task the model needs to carry out.
+
+**Logical Structure**: Prompts should follow a logical sequence that facilitates understanding and processing the request. An example sequence includes role, context, instruction, tone/style, and expected output.
+
+**Clarity and Precision**: A good prompt should be clear and direct, avoiding ambiguities that could lead to incorrect or irrelevant responses.
+
+**Appropriate Context**: When working with code assistants in IDEs, the open file is usually taken as context by default. Providing the entire codebase can improve the result and adaptation to programming style, architecture, naming conventions, or suggest the exact variable names according to the data model.
+
+**Output Format**: Specify the format in which the response is desired, typically code in the appropriate language.
+
+**Tone, Style, and Length**: For software development, it's important to determine the depth of the work required.
+
+**Role**: Assigning an expert identity in a specific discipline or knowledge area adds authenticity and depth to the response, including details derived from specialized knowledge, such as applying clean code practices or design patterns to a backend programming task. However, the role is less relevant in code assistants since they are pre-trained as developers. Specifying backend, frontend, QA, DevOps, etc., doesn't make a significant difference. Providing the right context regarding used technologies or adding code snippets is more important.
+
+
+<br />
+
+---
+
+
+<!-- ************************************************************************************************************************************ --> 
+# **📈 Metrics for Measuring Performance and Well-being in Development Teams**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Achieving a balance between performance and well-being is crucial yet challenging. However, it is essential to build high-performing teams and maintain a healthy, motivating work environment.
+
+Here are some key metrics for measuring both the performance and well-being of development teams:
+
+**🎯 Team Performance**
+
+* **Velocity**: Velocity is a common metric in agile methodologies that indicates the amount of work completed in a sprint. It helps in understanding the team's capacity and in planning future sprints more accurately.
+
+* **On-time Delivery**: This measures the number of projects or tasks delivered on time. A high on-time delivery rate suggests that the team is effectively managing deadlines and commitments.
+
+* **Code Quality**: Utilize tools like SonarQube to measure code quality, considering indicators such as the number of bugs or vulnerabilities.
+
+* **Deployment Frequency**: This measures how frequently the team releases new software versions. A high deployment frequency indicates a smooth workflow and continuous delivery capability.
+
+* **Bug Resolution Rate:** How quickly does the team resolve reported bugs? This is an indicator of the team's ability to maintain software stability and respond promptly to issues.
+
+**😊 Team Well-being**
+
+* **Team Satisfaction**: Conduct periodic surveys to assess team satisfaction. Questions about work-life balance, workload, and work environment provide a clear view of the team's well-being.
+
+* **Staff Turnover**: Measure the turnover rate of your team members. High turnover can indicate issues in the work environment or team management.
+
+* **Overtime Hours**: Track the number of overtime hours worked by each member. A high volume of overtime points to work overload and a potential risk for burnout.
+
+* **Participation in Team Activities**: Encourage team-building activities. Team cohesion and engagement are essential for a healthy work environment.
+
+* **360° Feedback**: Implement a 360° feedback system where team members can receive and provide feedback to colleagues. This system helps identify areas for improvement and fosters a culture of open communication.
+
+Too many metrics? Perhaps. It's important to review and discuss which metrics are most relevant and how to measure them, exploring recent frameworks like DevEx, SPACE, and Dora, along with tools to automate the process.
+
+These metrics will help justify the team's performance and are crucial for making informed decisions as leaders.
+
 
 <br />
 
