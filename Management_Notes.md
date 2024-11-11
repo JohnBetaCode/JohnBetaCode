@@ -43,6 +43,9 @@ Feel free to chat with me, discuss any topic, and share opinions.
 * Technology Leadership Skills Framework
 * How to Write Better Notices for Software Development
 * Metrics for Measuring Performance and Well-being in Development Teams
+* AI Engineer: The Profile Transforming the Industry
+* Making Effective Decisions: How to Identify and Act on Reversible and Irreversible Choices
+* Transitioning from Developer to Leader: A Career Change, Not Just a Promotion
 
 <br />
 
@@ -99,7 +102,7 @@ How do you write a SMART goal? Start writing a specific goal with as much detail
 
 <br />
 
-3. 😖 **Distractions**: Do you struggle with managing your attention, energy, and time effectively? Do you sometimes feel overwhelmed and don't have the resources to increase your concentration? If your answer is yes to any question, you might have problems with distractions. But no worries, we all face them — even daily! Slack notifications, social media, messages, etc.… are time robbers if not managed properly.
+3. 😖 **Distractions**: Do you struggle with managing your attention, energy, and time effectively? Do you sometimes feel overwhelmed and don't have the resources to increase your concentration? If your answer is yes to any question, you might have problems with distractions. But no worries, they all face them — even daily! Slack notifications, social media, messages, etc.… are time robbers if not managed properly.
 
     📝 Quick exercise:
 
@@ -143,7 +146,7 @@ A fundamental and constant task you should carry out is evaluating the performan
 
 * ✏️ **Prepare the foundations**: To define the foundations, it is very important to start with the career ladder, setting those expectations and clarity that are held within each role on the engineering ladder. Define what performance means for the company, and ask yourself what metrics, behaviors, OKRs, competencies, and even cultural values you want to evaluate.
 
-* 🛐 **Evangelize your team**: We are not prepared to give or receive feedback, and it is usually something we are not taught in our environment. So you, as a leader,  should train your team to give that feedback in the right way. Likewise, your team must be clear about the evaluation process. Who does it? What is the format? What is the objective pursued when carrying out these 360 evaluations?
+* 🛐 **Evangelize your team**: They are not prepared to give or receive feedback, and it is usually something They are not taught in our environment. So you, as a leader,  should train your team to give that feedback in the right way. Likewise, your team must be clear about the evaluation process. Who does it? What is the format? What is the objective pursued when carrying out these 360 evaluations?
 
 📊 **Reunite and refine** data**: Take the time to understand and comprehend the data. Evaluate what metrics, behaviors, facts, and values you can extract from the exercise. Does the evaluation correspond to reality? Are there biases that can affect the reading of the results?
 
@@ -162,7 +165,7 @@ Reference: [Lidr](https://www.lidr.co)
 
 Most common mistakes:
 
-* It is not concrete or clear why we were doing that task (Affected motivation).
+* It is not concrete or clear why They were doing that task (Affected motivation).
 * Don't give freedom or autonomy.
 * Don't celebrate milestones and only look at what must be improved.
 * Share critiques in public — at team meetings, and do not wait to say what it's felt at that moment.
@@ -1409,7 +1412,7 @@ There are no secrets and no magic formulas—just three elements that, when perf
 
 * **Technical Vision**: Imagine having a 360-degree panoramic view that encompasses all dimensions of a project: the people involved, the product in development, and the processes that make it possible. This is the power of technical vision. An effective tech leader not only understands each of these aspects but can also communicate them clearly and effectively, setting a clear direction for the team.
 
-* **Soft Skills**: While technology is at the core of our work, we cannot underestimate the value of soft skills. Communication, teamwork, problem-solving, and time management are just a few of the skills in this set. A leader who masters these skills not only inspires and motivates their team but also fosters a culture of collaboration and creativity, driving the project's success.
+* **Soft Skills**: While technology is at the core of our work, They cannot underestimate the value of soft skills. Communication, teamwork, problem-solving, and time management are just a few of the skills in this set. A leader who masters these skills not only inspires and motivates their team but also fosters a culture of collaboration and creativity, driving the project's success.
 
 * **AI Tools**: In a world inevitably driven by artificial intelligence, highly productive tech leaders make the most of available AI tools. These tools help optimize processes and automate repetitive tasks, facilitate the analysis of large volumes of data, and enable more informed decision-making.
 
@@ -1567,7 +1570,107 @@ These metrics will help justify the team's performance and are crucial for makin
 
 ---
 
+<!-- ************************************************************************************************************************************ --> 
+# **🤖 AI Engineer: The Profile Transforming the Industry**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 
+
+An AI Engineer/Manager goes beyond programming by maximizing productivity through delegating repetitive tasks to AI assistants that work quickly, accurately, and around the clock.
+
+This allows a focus on high-value tasks, both technical and strategic:
+
+* 👉 **Lateral Integration**: Skills in security, quality control, and deployment, where AI serves as an assistant in each area.
+* 👉 **Vertical Integration**: Competencies in strategy, product management, and leading AI teams (yes, even AI teams require leadership).
+* 👉 AI Engineers excel in **prompt engineering**, managing the communication and oversight of complex AI systems that assist with technical tasks — like generating quality code — and managerial ones — such as documenting processes and conducting comprehensive reviews.
+* 👉 **Collaboration with bots is a skill in itself**: reviewing, adjusting, and optimizing AI output demands knowledge and technical agility.
+
+### *What does an AI Engineer do?*
+
+* 👉 **Leverages AI assistants for productivity and quality**: They automate everything from code lines to documentation and testing, enhancing final work quality and making the process more efficient.
+* 👉 **Integrates AI into products**: They work with language model APIs (LLMs) like OpenAI, create interactive interfaces (chat or voice), and develop multi-agent systems that improve product functionality and usability. These engineers don’t just integrate AI; they understand and tailor it to the specific needs of the product and organization.
+* 👉 **Full-stack Product Engineering**: Responsible from start to finish, these professionals lead the development of complete features, ensuring security, quality, deployment, and the best experience for the end user. Their approach is holistic and proactive, accelerating delivery with autonomy.
+* 👉 **Bot Team Collaboration**: In their team, humans are not alone; they collaborate with a "layer of bots" that makes work faster and more efficient. Through mastery of prompt engineering and critical review, they ensure that AI meets the project’s quality standards, ethics, and objectives.
+
+<br />
+
+---
+
+<!-- ************************************************************************************************************************************ --> 
+# **Making Effective Decisions: How to Identify and Act on Reversible and Irreversible Choices**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Jeff Bezos popularized a concept in his 2015 shareholder letter, distinguishing between “one-way” and “two-way” decisions.
+
+### **🔑 What does this mean?**
+
+Bezos explained that one-way decisions are those that, once made, cannot be undone. These high-impact, irreversible choices must be approached carefully.
+
+Conversely, two-way decisions allow for adjustments if things don’t go as planned. These are moments where quick action is encouraged, knowing there’s room to course-correct if necessary.
+
+Here’s how to apply this concept in projects and distinguish between these decision types to make faster, more effective choices with less stress.
+
+### 👇 Practical examples to identify each decision type:
+
+#### **🔒 One-Way Decisions (Irreversible)**
+
+* Selecting a single provider for all company technology infrastructure. Changing providers after the system is in place can be costly and disruptive.
+* Hiring a key team member. This person will shape the team's culture and strategy, and undoing the decision can be complex if it doesn’t work out.
+* Choosing a primary programming language for a critical platform, like building an application in an unfamiliar language for the team. If it’s not suitable, switching may take months and severely impact the project.
+
+#### **🔄 Two-Way Decisions (Reversible)**
+
+* Testing a new internal communication tool. If it doesn’t fit, you can switch to another with minimal disruption.
+* Adopting a new agile methodology, such as SCRUM. If it doesn’t suit the team, you can always adjust or change to another methodology without major issues.
+* Launching a new feature in beta for a small user group. If the response isn’t as expected, you can modify or remove it without affecting the overall experience.
+
+Now that you know the difference between one-way and two-way decisions, how can you quickly identify which is which in your daily work?
+
+### **👉 Tips for effective decision-making:**
+
+* 1️⃣ **Assess risk and impact**: Before deciding, identify whether it’s reversible and what the impact would be if you needed to revert it.
+* 2️⃣ **Consult your team**: For one-way decisions, make sure you have team support since implementation will affect everyone.
+* 3️⃣ **Act quickly on reversible decisions**: If it’s a two-way decision, take action quickly and experiment without fear of mistakes. Flexibility is your advantage here.
+
+
+<br />
+
+---
+
+<!-- ************************************************************************************************************************************ --> 
+# **Transitioning from Developer to Leader: A Career Change, Not Just a Promotion**
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+In reality, moving from a developer to a leader is a career change, not merely a promotion.
+
+In fact, studies show that 60% of leaders report not receiving formal training before taking on their role.
+
+Suddenly, you find yourself leading a team that relies on you, managing projects with multiple deadlines, meeting expectations, and reaching targets.
+
+But here’s the problem: most people step into this role without knowing how to lead effectively.
+
+Some of the most common challenges faced by "accidental managers" include:
+
+* **Lack of Role Clarity**: Not knowing exactly what’s expected of you as a leader.
+* **Lack of Key Skills**: Delegation, conflict management, team motivation... these are critical areas that they often don’t master right away.
+* **Imposter Syndrome**: Feeling like you’re not up to the role and that someone might soon realize you’re unprepared.
+
+### 🤔 So, what can you do?
+
+First, acknowledge it. As technical leaders, they need more than technical skills to lead successfully. They need to develop competencies in communication, learn to give and receive feedback, and know how to inspire our team.
+
+Here are some key points that would have been helpful to know when I first felt lost in this role:
+
+* 1️⃣ Learn to Delegate: You can’t do it all. Trust your team and let them take on key responsibilities.
+* 2️⃣ Set Clear Expectations: You and your team should share a common vision from the beginning to prevent long-term frustrations.
+* 3️⃣ Provide Continuous Feedback: Don’t wait for annual reviews. Regular feedback helps the team improve in real-time.
+* 4️⃣ Build Your Support Network: Leadership can be isolating, but surrounding yourself with mentors and other leaders will help you move forward with more confidence.
+* 5️⃣ Don’t Be Afraid to Ask for Help: You don’t need to have all the answers. A good leader knows when to seek support and keep learning.
+
+Falling into the role by accident is not an insurmountable obstacle, but it’s a sign that you need to strengthen your leadership skills. You’re already on the right path by wanting to improve, and that’s the first step toward success.
+
+<br />
+
+---
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- 
