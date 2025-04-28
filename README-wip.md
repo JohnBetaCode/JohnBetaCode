@@ -19,8 +19,8 @@ A few fun facts about me:
 
 <table>
   <tr>
-    <td width="120" valign="top">
-      <img src="https://github.com/user-attachments/assets/502f4249-7cfa-4725-86b5-988902fc6b4e" width="100" style="border-radius: 50%;" alt="Beta's photo"/>
+    <td width="200" valign="top">
+      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" width="100" style="border-radius: 50%;" alt="Beta's photo"/>
     </td>
     <td valign="top">
 
@@ -47,6 +47,10 @@ I thrive at the intersection of hardware, software, and operations, constantly n
 Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems to their highest potential. My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what’s possible.
 
 I Love to inovate and elevate the future of robotics with great team. 
+
+
+
+#### What's my role about? 
 
 #### What is my work's goals?
 
