@@ -52,7 +52,7 @@ Whether collaborating with multidisciplinary teams to address sensor issues or d
 
   </td>
   <td>
-    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" width="800" alt="My team at Kiwibot's Ai&Robotics Department">
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" width="1000" alt="My team at Kiwibot's Ai&Robotics Department">
   </td>
   </tr>
 </table>
