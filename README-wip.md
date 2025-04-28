@@ -46,7 +46,14 @@ I thrive at the intersection of hardware, software, and operations, constantly n
 
 Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems to their highest potential. My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what’s possible.
 
+<div align="center">
+
+![Beta's Avatar](https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec)
+
+</div>
+
 I Love to inovate and elevate the future of robotics with great team. 
+
 
 
 
