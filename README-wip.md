@@ -42,25 +42,28 @@ A few fun facts about me:
 
 Currently living the Kiwibot chapter in the role of **Head of Ai&Robotics Department** at robot.com previously aka. Kiwibot
 
+
+
 <table>
   <tr>
-    <td valign="top">
-
+    <td>
 
 I thrive at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I’m all about transforming challenges into solutions.
 
 Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems to their highest potential. My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what’s possible.
 
-    </td>
-    <td valign="top" align="right" width="180">
-      <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" width="160" alt="Descripción de la imagen" style="border-radius: 12px; margin-left: 16px;"/>
-    </td>
+  </td>
+  <td>
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" width="140" alt="My team at Kiwibot's Ai&Robotics Department">
+  </td>
   </tr>
 </table>
 
+kjbhkhjb
+
 <div align="center">
 
-![Beta's Avatar](https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec)
+![Kiwibot's Products](https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec)
 
 </div>
 
