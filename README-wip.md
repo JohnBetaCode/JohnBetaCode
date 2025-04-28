@@ -20,7 +20,7 @@ A few fun facts about me:
 <table>
   <tr>
     <td width="200" valign="top">
-      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" width="100" style="border-radius: 50%;" alt="Beta's photo"/>
+      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" width="200" style="border-radius: 50%;" alt="Beta's photo"/>
     </td>
     <td valign="top">
 
