@@ -42,8 +42,6 @@ A few fun facts about me:
 
 Currently living the Kiwibot chapter in the role of **Head of Ai&Robotics Department** at robot.com previously aka. Kiwibot
 
-
-
 <table>
   <tr>
     <td>
@@ -58,8 +56,6 @@ Whether collaborating with multidisciplinary teams to address sensor issues or d
   </td>
   </tr>
 </table>
-
-kjbhkhjb
 
 <div align="center">
 
