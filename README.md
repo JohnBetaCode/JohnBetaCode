@@ -11,7 +11,7 @@
 </div>
 
 ---
-### Who's This Guy? 
+### **Who's This Guy?**
 
 Hey there, human! 👋 I'm John, but everyone at work calls me Beta.
 
@@ -35,13 +35,13 @@ A few fun facts about me:
   </tr>
 </table>
 
-#### What are my life goals? 🎯
+#### **What are my life goals? 🎯**
 
 * Become a goose farmer before 2040. 🦢🌾
 * Make and unicorn startup/idea have suffering/fun. 🦄💡
 
 ---
-### What's is doing Beta? 
+### **What's is doing Beta?** 
 
 Currently living the technical lead chapter in the role of **Head of Ai&Robotics Department** at robot.com previously aka. Kiwibot
 
@@ -70,7 +70,7 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
 I Love to inovate and elevate the future of robotics with great team. 
 
-#### What is my work's goals?
+#### **What is my work's goals?**
 
 Make the best autnomous driving system for rover, and have fun and learn measured by:  
 
@@ -80,11 +80,11 @@ Make the best autnomous driving system for rover, and have fun and learn measure
 * relationships and train the next gen model for autnomous driving. 
 * Keep my team updated with the last trends in the robotics industry.
 
-#### What are my Skills
+#### **What are my Skills**
 
 I've divided my skills into two verticals since 2020, when my role transitioned into a technical manager position. This was a complete shift in my career, though each aspect has been fundamental to the other, and I face unique challenges in both domains.
 
-##### The Manager 
+##### **The Manager** 
 
 * 🎯 Strategic team and priority management aligned with company objectives
 * 📊 Development of departmental strategies and methodologies to achieve goals (OKRs, KPIs) that align with business objectives
@@ -98,7 +98,7 @@ Here's my [Managment style and framework](Management_Notes.md) and [How to work 
 
 </div>
 
-##### The Programmer
+##### **The Programmer**
 
 Let's be real - I'm not going to claim expertise in every framework under the sun. I don't believe in that mythical "unicorn" developer who masters everything like the Avatar. Instead, I'll be transparent about my core competencies and the tools I work with regularly.
 
