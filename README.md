@@ -9,8 +9,7 @@
 
 </div>
 
-<div align="center">
-
+---
 ### Who's This Guy? 
 
 Hey there, human! 👋 I'm John, but everyone at work calls me Beta.
@@ -39,8 +38,6 @@ A few fun facts about me:
 
 * Become a goose farmer before 2040. 🦢🌾
 * Make and unicorn startup/idea have suffering/fun. 🦄💡
-
-</div>
 
 ---
 ### What's is doing Beta? 
