@@ -69,14 +69,9 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
 I Love to inovate and elevate the future of robotics with great team. 
 
-
-
-
-#### What's my role about? 
-
 #### What is my work's goals?
 
-Have fun and learn measured by:  
+Make the best autnomous driving system for rover, and have fun and learn measured by:  
 
 * Achive 100% autonomy rate.
 * zero interventions or one each 1.000km
@@ -84,12 +79,102 @@ Have fun and learn measured by:
 * relationships and train the next gen model for autnomous driving. 
 * Keep my team updated with the last trends in the robotics industry.
 
+#### What are my Skills
+
+I've divided my skills into two verticals since 2020, when my role transitioned into a technical manager position. This was a complete shift in my career, though each aspect has been fundamental to the other, and I face unique challenges in both domains.
+
+##### The Manager 
+
+* Strategic team and priority management aligned with company objectives
+* Development of departmental strategies and methodologies to achieve goals (OKRs, KPIs) that align with business objectives
+* AI-driven optimization of applications and processes through innovative methodologies
+* Continuous team growth through ongoing learning and active participation in the robotics community
+* Leadership in fostering innovation and maintaining high-performance standards
+
+Here's my [MManagment style and framework](Management_Notes.md) and [How to work with me](https://github.com/JohnBetaCode/JohnBetaCode/blob/master/How_to_work_with_JohnBetaCode.md).
+
+##### The Programmer
+
+Let's be real - I'm not going to claim expertise in every framework under the sun. I don't believe in that mythical "unicorn" developer who masters everything like the Avatar. Instead, I'll be transparent about my core competencies and the tools I work with regularly.
+
+* Languages: C++ (Intermediate - I've shed tears but built robust applications), Python (Extensive experience and strong command)
+* IDEs: VSCode, Cursor, and any LLM agent essential for rapid prototyping, unit testing, documentation - the essentials since OpenAI revolutionized our world
+* Data: Core database queries for building reports, dashboards, and metrics. The platform? They're all similar after a few days of learning. Examples: Tableau, Grafana, Google Studio, Looker (Not my favorite)
+* Robotics Tools: ROS2, ROS, Gazebo, Vriz, and the classic MATLAB (Still relevant?)
+* Libraries: YOLO, OpenCV (I know it inside out), NVIDIA Platforms: Orin, TX2, Xavier
+* Containerization & DevOps: Docker, container orchestration, and deployment strategies for scalable robotics applications
+* Embedded Systems: Hands-on experience with microcontrollers, real-time systems, and hardware-software integration
+* AI & ML: Experience with neural networks, computer vision, and sensor fusion for autonomous systems
+* Cloud & Infrastructure: GCP services for robotics applications, edge computing, and distributed systems
+* General: Scalable software architectures, application deployment processes, CI/CD automation, unit testing, and all the essential modern development practices
+
+As they say, seeing is believing. Just visit kiwibot.com or robot.com to see the results of my team's and colleagues' work - and by extension, mine. I take pride in leading a part of this journey and building, alongside amazing people, a robotics platform that collectively travels more than 5 times around the Earth each year.
+
+##### The Leader: Learn through victories, and also failures. 
+
+Beyond technical and management skills, I've developed a unique set of leadership capabilities that drive innovation and team success:
+
+* Strategic Vision: Translating complex technical challenges into actionable business strategies
+* Cross-functional Collaboration: Bridging the gap between engineering, operations, and business teams
+* Innovation Management: Fostering a culture of continuous improvement and cutting-edge development
+* Technical Mentorship: Growing the next generation of robotics engineers and AI specialists
+* Stakeholder Management: Effectively communicating technical concepts to non-technical audiences
+* Risk Management: Balancing innovation with operational safety and reliability
+* Resource Optimization: Maximizing team productivity while maintaining high-quality standards
+* Crisis Management: Leading teams through technical challenges and operational disruptions
+* Technical Decision Making: Making informed choices between competing technical solutions
+* Team Scaling: Building and growing high-performing technical teams (Hire is hard as FUCK!)
+* Industry Evangelism: Representing the company's technical vision in the robotics community
 
 ---
-### The Story
+### What else I have done? 
 
-COntare esta historia de arriba para abajo, es decir, de lo mas reciente a los mas viejo. 
+Here's my journey through almost a decade of innovation, leadership, and technical excellence across diverse projects and industries. 
 
+#### Kiwibot (2018 - Present)
+Where my passion for robotics truly took flight. From early-stage development to leading the AI & Robotics department, I've been instrumental in transforming delivery robotics from concept to reality. 
+
+#### RedKraken
+A pivotal chapter where I honed my skills in software architecture and team leadership, working on cutting-edge solutions that bridged the gap between technology and real-world applications.
+
+#### SaaS Companies
+Where I learned the art of building scalable, user-centric solutions that solve real problems. This experience shaped my approach to creating robust, maintainable systems that stand the test of time.
+
+#### Academic Research
+My foundation in robotics and AI was built here, working on projects that pushed the boundaries of what's possible in autonomous systems and machine learning.
+
+#### Academic Training
+Sharing knowledge and mentoring the next generation of tech innovators has been one of my most rewarding experiences, helping shape the future of robotics and AI education.
+
+#### Academic Training
+Sharing knowledge and mentoring the next generation of tech innovators has been one of my most rewarding experiences, helping shape the future of robotics and AI education.
+
+---
+### Achievements & Recognition 🏆
+
+* Led the development and deployment of autonomous delivery robots that have collectively traveled over 200,000 kilometers
+* Successfully scaled the AI & Robotics team from 5 to 25+ members while maintaining high performance standards
+* Implemented AI-driven optimization systems that reduced operational costs by 30%
+* Recognized as a thought leader in autonomous delivery systems, contributing to industry standards and best practices
+* Developed innovative solutions that resulted in multiple patents and technical publications
+
+---
+### Speaking & Community Engagement 🎤
+
+* Regular speaker at robotics and AI conferences, sharing insights on autonomous systems and team leadership
+* Active contributor to open-source robotics projects and communities
+* Mentor for robotics startups and academic research projects
+* Panelist at industry events discussing the future of autonomous delivery and robotics
+* Technical reviewer for robotics and AI publications
+
+---
+### Current Focus & Future Vision 🔮
+
+* Exploring the integration of advanced AI models with robotics for enhanced decision-making
+* Developing scalable solutions for autonomous fleet management
+* Researching novel approaches to human-robot interaction in public spaces
+* Building robust testing frameworks for autonomous systems
+* Creating educational content to bridge the gap between academia and industry in robotics
 
 ---
 ### Estoy bucando algo mas? 
