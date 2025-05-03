@@ -3,17 +3,19 @@
 # John A. Betancourt G. (BetaCode)
 
 ![Beta's Avatar](https://github.com/user-attachments/assets/090f3b5f-0781-4927-a3f6-036753bbe309)
+*(Living the dream to work in those tales which inspire me to work in what I do)*
 
 #Robotics #TechInnovation #ProblemSolving #AutonomousSystems #Operations #AI #TechLeadership #InnovationInAction
 
 </div>
 
----
+<div align="center">
+
 ### Who's This Guy? 
 
-Hey there, human! 👋 I’m John, but everyone at work calls me Beta.
+Hey there, human! 👋 I'm John, but everyone at work calls me Beta.
 
-I believe it’s just as important to know who Beta is beyond the tech he builds—because, at the end of the day, it’s people who are behind the world’s greatest and most innovative creations. 🤖✨
+I believe it's just as important to know who Beta is beyond the tech he builds—because, at the end of the day, it's people who are behind the world's greatest and most innovative creations. 🤖✨
 
 A few fun facts about me:
 
@@ -24,10 +26,10 @@ A few fun facts about me:
     </td>
     <td valign="top">
 
-* I’m a hardcore fan of science fiction and dystopian stories—yes, I’ve probably read that book you’re thinking of. I’ve devoured almost every Asimov novel and will defend them with sword and shield. 📚🛡️
-* I love soundtracks from video games and movies way more than mainstream music. Maybe that’s why I never learned to dance. 🎶🎮🎬
-* I’m an adventure junkie! I’ve been lucky enough to visit over 30 countries, snapping amazing photos along the way. I wouldn’t call myself a photographer, but I love wandering with my camera and taking the time to get the perfect shot. 🌍📸
-* I wake up every day at 4AM and, like a true early bird, I’m asleep by 8PM. My calendar is my lifeline—I have to write everything down or I’ll forget (too much on my mind, or maybe just a bad memory). ⏰📝
+* I'm a hardcore fan of science fiction and dystopian stories—yes, I've probably read that book you're thinking of. I've devoured almost every Asimov novel and will defend them with sword and shield. 📚🛡️
+* I love soundtracks from video games and movies way more than mainstream music. Maybe that's why I never learned to dance. 🎶🎮🎬
+* I'm an adventure junkie! I've been lucky enough to visit over 30 countries, snapping amazing photos along the way. I wouldn't call myself a photographer, but I love wandering with my camera and taking the time to get the perfect shot. 🌍📸
+* I wake up every day at 4AM and, like a true early bird, I'm asleep by 8PM. My calendar is my lifeline—I have to write everything down or I'll forget (too much on my mind, or maybe just a bad memory). ⏰📝
 
     </td>
   </tr>
@@ -38,6 +40,8 @@ A few fun facts about me:
 * Become a goose farmer before 2040. 🦢🌾
 * Make and unicorn startup/idea have suffering/fun. 🦄💡
 
+</div>
+
 ---
 ### What's is doing Beta? 
 
@@ -47,11 +51,11 @@ Currently living the technical lead chapter in the role of **Head of Ai&Robotics
   <tr>
     <td>
 
-At robot.com I thrive at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I’m all about transforming challenges into solutions.
+At robot.com I thrive at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I'm all about transforming challenges into solutions.
 
 Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems and people to their highest potential. 
 
-My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what’s possible.
+My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what's possible.
 
   </td>
   <td>
