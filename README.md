@@ -92,7 +92,11 @@ I've divided my skills into two verticals since 2020, when my role transitioned 
 * 📚 Continuous team growth through ongoing learning and active participation in the robotics community
 * 🚀 Leadership in fostering innovation and maintaining high-performance standards
 
-Here's my [MManagment style and framework](Management_Notes.md) and [How to work with me](https://github.com/JohnBetaCode/JohnBetaCode/blob/master/How_to_work_with_JohnBetaCode.md).
+<div align="center">
+
+Here's my [Managment style and framework](Management_Notes.md) and [How to work with me](https://github.com/JohnBetaCode/JohnBetaCode/blob/master/How_to_work_with_JohnBetaCode.md).
+
+</div>
 
 ##### The Programmer
 
