@@ -86,11 +86,11 @@ I've divided my skills into two verticals since 2020, when my role transitioned 
 
 ##### The Manager 
 
-* Strategic team and priority management aligned with company objectives
-* Development of departmental strategies and methodologies to achieve goals (OKRs, KPIs) that align with business objectives
-* AI-driven optimization of applications and processes through innovative methodologies
-* Continuous team growth through ongoing learning and active participation in the robotics community
-* Leadership in fostering innovation and maintaining high-performance standards
+* 🎯 Strategic team and priority management aligned with company objectives
+* 📊 Development of departmental strategies and methodologies to achieve goals (OKRs, KPIs) that align with business objectives
+* 🤖 AI-driven optimization of applications and processes through innovative methodologies
+* 📚 Continuous team growth through ongoing learning and active participation in the robotics community
+* 🚀 Leadership in fostering innovation and maintaining high-performance standards
 
 Here's my [MManagment style and framework](Management_Notes.md) and [How to work with me](https://github.com/JohnBetaCode/JohnBetaCode/blob/master/How_to_work_with_JohnBetaCode.md).
 
@@ -98,16 +98,16 @@ Here's my [MManagment style and framework](Management_Notes.md) and [How to work
 
 Let's be real - I'm not going to claim expertise in every framework under the sun. I don't believe in that mythical "unicorn" developer who masters everything like the Avatar. Instead, I'll be transparent about my core competencies and the tools I work with regularly.
 
-* Languages: C++ (Intermediate - I've shed tears but built robust applications), Python (Extensive experience and strong command)
-* IDEs: VSCode, Cursor, and any LLM agent essential for rapid prototyping, unit testing, documentation - the essentials since OpenAI revolutionized our world
-* Data: Core database queries for building reports, dashboards, and metrics. The platform? They're all similar after a few days of learning. Examples: Tableau, Grafana, Google Studio, Looker (Not my favorite)
-* Robotics Tools: ROS2, ROS, Gazebo, Vriz, and the classic MATLAB (Still relevant?)
-* Libraries: YOLO, OpenCV (I know it inside out), NVIDIA Platforms: Orin, TX2, Xavier
-* Containerization & DevOps: Docker, container orchestration, and deployment strategies for scalable robotics applications
-* Embedded Systems: Hands-on experience with microcontrollers, real-time systems, and hardware-software integration
-* AI & ML: Experience with neural networks, computer vision, and sensor fusion for autonomous systems
-* Cloud & Infrastructure: GCP services for robotics applications, edge computing, and distributed systems
-* General: Scalable software architectures, application deployment processes, CI/CD automation, unit testing, and all the essential modern development practices
+* 💻 Languages: C++ (Intermediate - I've shed tears but built robust applications), Python (Extensive experience and strong command).
+* 🔧 IDEs: VSCode, Cursor, and any LLM agent essential for rapid prototyping, unit testing, documentation - the essentials since OpenAI revolutionized our world.
+* 📈 Data: Core database queries for building reports, dashboards, and metrics. The platform? They're all similar after a few days of learning. Examples: Tableau, Grafana, Google Studio, Looker (Not my favorite).
+* 🤖 Robotics Tools: ROS2, ROS, Gazebo, Vriz, and the classic MATLAB (Still relevant?).
+* 📚 Libraries: YOLO, OpenCV (I know it inside out), NVIDIA Platforms: Orin, TX2, Xavier.
+* 🐳 Containerization & DevOps: Docker, container orchestration, and deployment strategies for scalable robotics applications.
+* 🔌 Embedded Systems: Hands-on experience with microcontrollers, real-time systems, and hardware-software integration.
+* 🧠 AI & ML: Experience with neural networks, computer vision, and sensor fusion for autonomous systems.
+* ☁️ Cloud & Infrastructure: GCP services for robotics applications, edge computing, and distributed systems.
+* 🏗️ General: Scalable software architectures, application deployment processes, CI/CD automation, unit testing, and all the essential modern development practices.
 
 As they say, seeing is believing. Just visit kiwibot.com or robot.com to see the results of my team's and colleagues' work - and by extension, mine. I take pride in leading a part of this journey and building, alongside amazing people, a robotics platform that collectively travels more than 5 times around the Earth each year.
 
