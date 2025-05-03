@@ -36,19 +36,22 @@ A few fun facts about me:
 #### What are my life goals? 🎯
 
 * Become a goose farmer before 2040. 🦢🌾
+* Make and unicorn startup/idea have suffering/fun. 🦄💡
 
 ---
 ### What's is doing Beta? 
 
-Currently living the Kiwibot chapter in the role of **Head of Ai&Robotics Department** at robot.com previously aka. Kiwibot
+Currently living the technical lead chapter in the role of **Head of Ai&Robotics Department** at robot.com previously aka. Kiwibot
 
 <table>
   <tr>
     <td>
 
-I thrive at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I’m all about transforming challenges into solutions.
+At robot.com I thrive at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I’m all about transforming challenges into solutions.
 
-Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems to their highest potential. My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what’s possible.
+Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems and people to their highest potential. 
+
+My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what’s possible.
 
   </td>
   <td>
