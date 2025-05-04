@@ -140,7 +140,7 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 Where my passion for robotics truly took flight. From early-stage development to leading the AI & Robotics department, I've been instrumental in transforming delivery robotics from concept to reality. 
 
 <div align="center">
-![kiwi](https://github.com/user-attachments/assets/8d51eb10-6ed2-4551-9f66-25c6069addfc)
+<img src="https://github.com/user-attachments/assets/8d51eb10-6ed2-4551-9f66-25c6069addfc" width="180" style="border-radius: 50%;" alt="Beta at Kiwibot"/>
 </div>
 
 <div align="center">
