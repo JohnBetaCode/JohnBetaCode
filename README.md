@@ -151,7 +151,7 @@ Where my passion for robotics truly took flight. From early-stage development to
 A pivotal chapter where I honed my skills in software architecture and team leadership, working on cutting-edge solutions that bridged the gap between technology and real-world applications.
 
 #### SaaS Companies
-Where I learned the art of building scalable, user-centric solutions that solve real problems. This experience shaped my approach to creating robust, maintainable systems that stand the test of time.
+Where I learned the art of building scalable, user-centric solutions that solve real problems, this experience shaped my approach to creating robust, maintainable systems that stand the test of time.
 
 #### Academic Research
 My foundation in robotics and AI was built here, working on projects that pushed the boundaries of what's possible in autonomous systems and machine learning.
@@ -160,7 +160,7 @@ My foundation in robotics and AI was built here, working on projects that pushed
 Sharing knowledge and mentoring the next generation of tech innovators has been one of my most rewarding experiences, helping shape the future of robotics and AI education.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e8f029bd-643a-47cd-b8f9-275a5344dbb0" style="border-radius: 50%;" alt="Beta in the University"/>
+  <img src="https://github.com/user-attachments/assets/e8f029bd-643a-47cd-b8f9-275a5344dbb0" width="500"  style="border-radius: 50%;" alt="Beta in the University"/>
 </div>
 
 ---
