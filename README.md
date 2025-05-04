@@ -72,7 +72,7 @@ I love to innovate and elevate the future of robotics with a great team.
 
 #### **What is my work's goals?**
 
-Make the best autonomous driving system for rover, and have fun and learn measured by:  
+Make the best autonomous driving system for a rover, have fun and learn, measured by:  
 
 * Achieve 100% autonomy rate.
 * zero interventions or one every 1.000km
@@ -140,11 +140,11 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 Where my passion for robotics truly took flight. From early-stage development to leading the AI & Robotics department, I've been instrumental in transforming delivery robotics from concept to reality. 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8d51eb10-6ed2-4551-9f66-25c6069addfc" width="180" style="border-radius: 50%;" alt="Beta at Kiwibot"/>
+  <img src="https://github.com/user-attachments/assets/8d51eb10-6ed2-4551-9f66-25c6069addfc" style="border-radius: 50%;" alt="Beta at Kiwibot"/>
 </div>
 
 <div align="center">
-![kiwi-2](https://github.com/user-attachments/assets/463542eb-d1ed-4e4a-8965-43035e838d1f)
+  <img src="https://github.com/user-attachments/assets/463542eb-d1ed-4e4a-8965-43035e838d1f" style="border-radius: 50%;" alt="Kiwibot Captures"/>
 </div>
 
 #### RedKraken
@@ -160,7 +160,7 @@ My foundation in robotics and AI was built here, working on projects that pushed
 Sharing knowledge and mentoring the next generation of tech innovators has been one of my most rewarding experiences, helping shape the future of robotics and AI education.
 
 <div align="center">
-![university](https://github.com/user-attachments/assets/e8f029bd-643a-47cd-b8f9-275a5344dbb0)
+  <img src="https://github.com/user-attachments/assets/e8f029bd-643a-47cd-b8f9-275a5344dbb0" style="border-radius: 50%;" alt="Beta in the University"/>
 </div>
 
 ---
