@@ -15,7 +15,7 @@
 
 Hey there, human! 👋 I'm John, but everyone at work calls me Beta.
 
-I believe it's just as important to know who Beta is beyond the tech he builds—because, at the end of the day, it's people who are behind the world's greatest and most innovative creations. 🤖✨
+I believe it's just as important to know who Beta is beyond the tech he builds, because, at the end of the day, it's people who are behind the world's greatest and most innovative creations. 🤖✨
 
 A few fun facts about me:
 
@@ -29,7 +29,7 @@ A few fun facts about me:
 * I'm a hardcore fan of science fiction and dystopian stories—yes, I've probably read that book you're thinking of. I've devoured almost every Asimov novel and will defend them with sword and shield. 📚🛡️
 * I love soundtracks from video games and movies way more than mainstream music. Maybe that's why I never learned to dance. 🎶🎮🎬
 * I'm an adventure junkie! I've been lucky enough to visit over 30 countries, snapping amazing photos along the way. I wouldn't call myself a photographer, but I love wandering with my camera and taking the time to get the perfect shot. 🌍📸
-* I wake up every day at 4AM and, like a true early bird, I'm asleep by 8PM. My calendar is my lifeline—I have to write everything down or I'll forget (too much on my mind, or maybe just a bad memory). ⏰📝
+* I wake up every day at 4 AM and, like a true early bird, I'm asleep by 8 PM. My calendar is my lifeline—I have to write everything down or I'll forget (too much on my mind, or maybe just a bad memory). ⏰📝
 
     </td>
   </tr>
@@ -38,10 +38,10 @@ A few fun facts about me:
 #### **What are my life goals? 🎯**
 
 * Become a goose farmer before 2040. 🦢🌾
-* Make and unicorn startup/idea have suffering/fun. 🦄💡
+* Make a unicorn startup/idea have suffering/fun. 🦄💡
 
 ---
-### **What's is doing Beta?** 
+### **What is Beta doing?** 
 
 Currently living the technical lead chapter in the role of **Head of Ai&Robotics Department** at robot.com previously aka. Kiwibot
 
@@ -68,21 +68,21 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
 </div>
 
-I Love to inovate and elevate the future of robotics with great team. 
+I love to innovate and elevate the future of robotics with a great team. 
 
 #### **What is my work's goals?**
 
-Make the best autnomous driving system for rover, and have fun and learn measured by:  
+Make the best autonomous driving system for rover, and have fun and learn measured by:  
 
-* Achive 100% autonomy rate.
-* zero interventions or one each 1.000km
-* zero accidents or one each 10.000km
-* relationships and train the next gen model for autnomous driving. 
-* Keep my team updated with the last trends in the robotics industry.
+* Achieve 100% autonomy rate.
+* zero interventions or one every 1.000km
+* zero accidents or one every 10.000km
+* relationships and train the next gen model for autonomous driving. 
+* Keep my team updated with the latest trends in the robotics industry.
 
-#### **What are my Skills**
+#### **What are my Skills?**
 
-I've divided my skills into two verticals since 2020, when my role transitioned into a technical manager position. This was a complete shift in my career, though each aspect has been fundamental to the other, and I face unique challenges in both domains.
+I've divided my skills into two verticals since 2020, when my role transitioned into a technical manager position. This was a complete shift in my career, though each aspect has been fundamental to the other, I face unique challenges in both domains.
 
 ##### **The Manager** 
 
