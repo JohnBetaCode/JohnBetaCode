@@ -139,13 +139,102 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 #### Kiwibot (2018 - Present)
 
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+  </tr>
+  <tr>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+  </tr>
+</table>
+
+</div>
+
 #### RedKraken (2023 - Present)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+  </tr>
+  <tr>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+  </tr>
+</table>
+
+</div>
+
 
 #### SaaS Companies (2016 - 2018)
 
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+  </tr>
+  <tr>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+  </tr>
+</table>
+
+</div>
+
+
 #### Academic Research (Before 2018)
 
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+  </tr>
+  <tr>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+  </tr>
+</table>
+
+</div>
+
+
 #### Academic Training
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+  </tr>
+  <tr>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 ### Am I Looking for Something More? 
