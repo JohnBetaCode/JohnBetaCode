@@ -1,7 +1,6 @@
 <div align="center">
 
 # John A. Betancourt G. (BetaCode)
-⚠️⚠️⚠️ **WIP** ⚠️⚠️⚠️  
 
 ![Beta's Avatar](https://github.com/user-attachments/assets/090f3b5f-0781-4927-a3f6-036753bbe309)
 *(Living the dream to work in those tales which inspire me to work in what I do)*
@@ -143,9 +142,9 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+    <td><img src="![Screenshot 2024-11-09 104747](https://github.com/user-attachments/assets/5e03cc5c-7bff-4ce9-b553-5fb6cdfd3e9b)" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="![1](https://github.com/user-attachments/assets/85294043-0015-4a06-b889-60ba763ccc9b)" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="" width="300" alt="Kiwibot Image 3"></td>
   </tr>
   <tr>
     <td>XXXXX</td>
