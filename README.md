@@ -38,7 +38,8 @@ A few fun facts about me:
 #### **What are my life goals? 🎯**
 
 * Become a goose farmer before 2040. 🦢🌾
-* Make and unicorn startup/idea have suffering/fun. 🦄💡
+* Make and unicorn startup/idea having suffering/fun. 🦄💡
+*  Build a Family 👨‍👩‍👧‍👦 💕 :3  
 
 ---
 ### **What's is doing Beta?** 
@@ -70,21 +71,21 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
 I Love to inovate and elevate the future of robotics with great team. 
 
-#### **What is my work's goals?**
+#### **What are my work's goals?**
 
-Make the best autnomous driving system for rover, and have fun and learn measured by:  
+Make the best autonomous driving system for our beloved Kiwibots, have fun and learn measured by:  
 
-* Achive 100% autonomy rate.
-* zero interventions or one each 1.000km
-* zero accidents or one each 10.000km
-* relationships and train the next gen model for autnomous driving. 
-* Keep my team updated with the last trends in the robotics industry.
+* Achieve 100% autonomy rate across all locations and environments 🎯
+* Maximize safety and reliability with <0.1% intervention rate per 1,000km 🛡️
+* Zero critical incidents through advanced sensor fusion and predictive modeling 🚀
+* Build relationships and train next-gen models for autonomous driving 🤖
+* Keep my team updated with the latest trends in robotics and AI 🧠
 
 #### **What are my Skills**
 
 I've divided my skills into two verticals since 2020, when my role transitioned into a technical manager position. This was a complete shift in my career, though each aspect has been fundamental to the other, and I face unique challenges in both domains.
 
-##### **The Manager** 
+#### **The Manager** 
 
 * 🎯 Strategic team and priority management aligned with company objectives
 * 📊 Development of departmental strategies and methodologies to achieve goals (OKRs, KPIs) that align with business objectives
@@ -98,7 +99,7 @@ Here's my [Managment style and framework](Management_Notes.md) and [How to work 
 
 </div>
 
-##### **The Programmer**
+#### **The Programmer**
 
 Let's be real - I'm not going to claim expertise in every framework under the sun. I don't believe in that mythical "unicorn" developer who masters everything like the Avatar. Instead, I'll be transparent about my core competencies and the tools I work with regularly.
 
@@ -115,7 +116,7 @@ Let's be real - I'm not going to claim expertise in every framework under the su
 
 As they say, seeing is believing. Just visit kiwibot.com or robot.com to see the results of my team's and colleagues' work - and by extension, mine. I take pride in leading a part of this journey and building, alongside amazing people, a robotics platform that collectively travels more than 5 times around the Earth each year.
 
-##### The Leader: Learn through victories, and also failures. 
+#### **The Leader: Learn through victories, and also failures** 
 
 Beyond technical and management skills, I've developed a unique set of leadership capabilities that drive innovation and team success:
 
@@ -137,29 +138,32 @@ Beyond technical and management skills, I've developed a unique set of leadershi
 Here's my journey through almost a decade of innovation, leadership, and technical excellence across diverse projects and industries. 
 
 #### Kiwibot (2018 - Present)
-Where my passion for robotics truly took flight. From early-stage development to leading the AI & Robotics department, I've been instrumental in transforming delivery robotics from concept to reality. 
 
-#### RedKraken
-A pivotal chapter where I honed my skills in software architecture and team leadership, working on cutting-edge solutions that bridged the gap between technology and real-world applications.
+#### RedKraken (2023 - Present)
 
-#### SaaS Companies
-Where I learned the art of building scalable, user-centric solutions that solve real problems. This experience shaped my approach to creating robust, maintainable systems that stand the test of time.
+#### SaaS Companies (2016 - 2018)
 
-#### Academic Research
-My foundation in robotics and AI was built here, working on projects that pushed the boundaries of what's possible in autonomous systems and machine learning.
+#### Academic Research (Before 2018)
 
 #### Academic Training
-Sharing knowledge and mentoring the next generation of tech innovators has been one of my most rewarding experiences, helping shape the future of robotics and AI education.
-
-#### Academic Training
-Sharing knowledge and mentoring the next generation of tech innovators has been one of my most rewarding experiences, helping shape the future of robotics and AI education.
 
 ---
-### Estoy bucando algo mas? 
+### Am I Looking for Something More? 
 
-Que ame lo que hago, con lo que los hago y donde lo hago no quiere decir que no este en bsuqueda siempre de mejores cambios y oportunidades. No estoy cerrado a la progreso, pues como la vid amisma estancarse en un solo lugar es morir en la cadena evolutiva, asi que esiempre estare dispuesto a escuchar y explorar oportunidades, iniciativas y negocios en: 
+While I love what I do, who I work with, and where I work, I'm always open to new opportunities and growth. Like evolution itself, staying in one place means stagnation. I'm constantly seeking to explore and engage with new opportunities, initiatives, and ventures in:
 
-* RObotica en general.
-* Autnoamtizacion industrial. 
-* Software as a service. 
-* Academia. 
+* Robotics & Autonomous Systems 🤖
+* Industrial Automation & Smart Manufacturing 🏭
+* Software as a Service (SaaS) Solutions 💻
+* Academic Research & Education 🎓
+* AI & Machine Learning Innovation 🧠
+* Technical Leadership & Team Building 👥
+* Defense & Military Technology Projects 🛡️
+* Conference Speaking & Technical Workshops 🎤
+* Innovative Startup Partnerships & Ventures 💫
+
+### Contact Me
+
+* [LinkedIn](https://www.linkedin.com/in/johnbetacode/) 👔
+* [Email](mailto:john.betancourt93@gmail.com) 📧
+* [GitHub](https://github.com/JohnBetaCode) 💻
