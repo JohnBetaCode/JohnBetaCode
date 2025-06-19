@@ -64,12 +64,15 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
 <div align="center">
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/7ee839c8-5fcb-42ea-acb3-45879556c517" height="300" alt="Kiwibot Animation"></td>
-    <td><img src="https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec" height="300" alt="Kiwibot's Products"></td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/7ee839c8-5fcb-42ea-acb3-45879556c517" style="height: 300px; width: auto; max-width: 100%;" alt="Kiwibot Animation">
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec" style="height: 300px; width: auto; max-width: 100%;" alt="Kiwibot's Products">
+    </td>
   </tr>
-
 </table>
 
 </div>
