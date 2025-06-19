@@ -150,9 +150,20 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d97b7bfc-fabe-4e1f-a9d3-813a8f1a4e61" height="300" style="width: auto;" alt="Kiwi-Animation Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/e449a5f0-1523-4247-8b16-a096b631f055" height="300" style="width: auto;" alt="Kiwi-Animation Image 3"></td>
-    <td><img src="https://github.com/user-attachments/assets/7ee839c8-5fcb-42ea-acb3-45879556c517" height="300" style="width: auto;" alt="Kiwi-Animation Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/d97b7bfc-fabe-4e1f-a9d3-813a8f1a4e61" height="250" style="width: auto;" alt="Kiwi-Animation Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/e449a5f0-1523-4247-8b16-a096b631f055" height="250" style="width: auto;" alt="Kiwi-Animation Image 3"></td>
+  </tr>
+  <tr>
+    <td>XXXXX</td>
+    <td>XXXXX</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/dd05368b-b7d4-42cc-a3db-9f17a7d5f7f0" height="250" style="width: auto;" alt="Kiwibot Image 4"></td>
+    <td><img src="https://github.com/user-attachments/assets/f720fd8a-98bf-44eb-a713-ee9a928910aa" height="250" style="width: auto;" alt="Kiwibot Image 5"></td>
+    <td><img src="https://github.com/user-attachments/assets/8e040dd8-7f2f-4659-aaf6-ddeb1c3f60ff" height="250" style="width: auto;" alt="Kiwibot Image 6"></td>
   </tr>
   <tr>
     <td>XXXXX</td>
@@ -163,22 +174,9 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dd05368b-b7d4-42cc-a3db-9f17a7d5f7f0" height="300" style="width: auto;" alt="Kiwibot Image 4"></td>
-    <td><img src="https://github.com/user-attachments/assets/f720fd8a-98bf-44eb-a713-ee9a928910aa" height="300" style="width: auto;" alt="Kiwibot Image 5"></td>
-    <td><img src="https://github.com/user-attachments/assets/8e040dd8-7f2f-4659-aaf6-ddeb1c3f60ff" height="300" style="width: auto;" alt="Kiwibot Image 6"></td>
-  </tr>
-  <tr>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/35925753-9809-4c4f-ad12-85d94e721508" height="300" style="width: auto;" alt="Kiwibot Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/dc86ddab-ae48-4424-ad1f-85a8c2ba0e26" height="300" style="width: auto;" alt="Kiwibot Image 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/19cc15ea-0303-44e6-a5e8-a8c83575626e" height="300" style="width: auto;" alt="Kiwibot Image 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/35925753-9809-4c4f-ad12-85d94e721508" height="250" style="width: auto;" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/dc86ddab-ae48-4424-ad1f-85a8c2ba0e26" height="250" style="width: auto;" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/19cc15ea-0303-44e6-a5e8-a8c83575626e" height="250" style="width: auto;" alt="Kiwibot Image 3"></td>
   </tr>
   <tr>
     <td>XXXXX</td>
@@ -214,8 +212,8 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/4aca6c9f-d833-4d5e-a98c-8ddcdacb0b22" height="300" style="width: auto;" alt="Heimdall Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/1cf0e13b-14c0-42d7-afd2-fa9f15d8fc80" height="300" style="width: auto;" alt="Heimdall Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/4aca6c9f-d833-4d5e-a98c-8ddcdacb0b22" height="250" style="width: auto;" alt="Heimdall Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/1cf0e13b-14c0-42d7-afd2-fa9f15d8fc80" height="250" style="width: auto;" alt="Heimdall Image 2"></td>
   </tr>
   <tr>
     <td>XXXXX</td>
@@ -225,8 +223,8 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dac8efa5-f27e-4ac1-9592-8811b6660e5c" height="300" style="width: auto;" alt="SysKraken Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/81c72669-b01b-47d1-8b71-27a3dd70d2cd" height="300" style="width: auto;" alt="SysKraken Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/dac8efa5-f27e-4ac1-9592-8811b6660e5c" height="250" style="width: auto;" alt="SysKraken Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/81c72669-b01b-47d1-8b71-27a3dd70d2cd" height="250" style="width: auto;" alt="SysKraken Image 2"></td>
   </tr>
   <tr>
     <td>XXXXX</td>
