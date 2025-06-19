@@ -8,7 +8,7 @@
 #Robotics #TechInnovation #ProblemSolving #AutonomousSystems #Operations #AI #TechLeadership #InnovationInAction
 
 </div>
-
+https://github.com/kiwicampus/Kronos-Project/pull/4631
 ---
 ### **Who's This Guy?**
 
@@ -138,13 +138,43 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 #### Kiwibot (2018 - Present)
 
+![CDA-1](https://github.com/user-attachments/assets/26de3426-d59c-4a9b-8d6a-7e4291403bb3)
+
+![CovidProj-1](https://github.com/user-attachments/assets/ddff15cb-613a-47e4-967e-864bbe4bf6f9)
+
+![Heimdall-1](https://github.com/user-attachments/assets/4aca6c9f-d833-4d5e-a98c-8ddcdacb0b22)
+![Heimdall-2](https://github.com/user-attachments/assets/1cf0e13b-14c0-42d7-afd2-fa9f15d8fc80)
+
+![Kiwi-1-1](https://github.com/user-attachments/assets/35925753-9809-4c4f-ad12-85d94e721508)
+![Kiwi-1-2](https://github.com/user-attachments/assets/dc86ddab-ae48-4424-ad1f-85a8c2ba0e26)
+![Kiwi-1-3](https://github.com/user-attachments/assets/19cc15ea-0303-44e6-a5e8-a8c83575626e)
+
+
+![Kiwi-2-1](https://github.com/user-attachments/assets/dd05368b-b7d4-42cc-a3db-9f17a7d5f7f0)
+![Kiwi-2-2](https://github.com/user-attachments/assets/f720fd8a-98bf-44eb-a713-ee9a928910aa)
+![Kiwi-2-3](https://github.com/user-attachments/assets/8e040dd8-7f2f-4659-aaf6-ddeb1c3f60ff)
+
+![Kiwi-Animation-3](https://github.com/user-attachments/assets/e449a5f0-1523-4247-8b16-a096b631f055)
+![Kiwi-Animation-2](https://github.com/user-attachments/assets/d97b7bfc-fabe-4e1f-a9d3-813a8f1a4e61)
+![Kiwi-Animation-1](https://github.com/user-attachments/assets/7ee839c8-5fcb-42ea-acb3-45879556c517)
+
+
+![SightekTool-1](https://github.com/user-attachments/assets/bcf61712-fafd-4d9d-bea7-dc7d5dd0fe91)
+
+![SysKraken-1](https://github.com/user-attachments/assets/dac8efa5-f27e-4ac1-9592-8811b6660e5c)
+![SysKraken-2](https://github.com/user-attachments/assets/81c72669-b01b-47d1-8b71-27a3dd70d2cd)
+
+![UAV-1](https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544)
+
+
+
 <div align="center">
 
 <table>
   <tr>
-    <td><img src="![Screenshot 2024-11-09 104747](https://github.com/user-attachments/assets/5e03cc5c-7bff-4ce9-b553-5fb6cdfd3e9b)" width="300" alt="Kiwibot Image 1"></td>
-    <td><img src="![1](https://github.com/user-attachments/assets/85294043-0015-4a06-b889-60ba763ccc9b)" width="300" alt="Kiwibot Image 2"></td>
-    <td><img src="" width="300" alt="Kiwibot Image 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
   </tr>
   <tr>
     <td>XXXXX</td>
