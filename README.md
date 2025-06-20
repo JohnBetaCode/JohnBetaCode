@@ -22,7 +22,7 @@ A few fun facts about me:
 <table>
   <tr>
     <td width="180" valign="top">
-      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" height=250 width="1800" alt="Beta's photo"/>
+      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" width="180" alt="Beta's photo"/>
     </td>
     <td valign="top">
 
@@ -58,7 +58,7 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
   </td>
   <td>
-    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="200" width="auto" alt="My team at Kiwibot's Ai&Robotics Department">
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="200" width="1200" alt="My team at Kiwibot's Ai&Robotics Department">
 
   </td>
   </tr>
