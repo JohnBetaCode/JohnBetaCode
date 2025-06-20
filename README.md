@@ -22,7 +22,7 @@ A few fun facts about me:
 <table>
   <tr>
     <td width="180" valign="top">
-      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" width="180" alt="Beta's photo"/>
+      <img src="https://github.com/user-attachments/assets/e41ef20b-3746-4d2c-aa51-50cc00f39139" height=250 width="1000" alt="Beta's photo"/>
     </td>
     <td valign="top">
 
@@ -188,15 +188,6 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 </div>
 
-<!-- ----------------------------------------------------------------------------------- -->
-
-
-<!-- 
-
-![UAV-1](https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544) 
-
--->
-
 
 <!-- ----------------------------------------------------------------------------------- -->
 #### RedKraken (2023 - Present)
@@ -228,8 +219,6 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 </div>
 
 
-
-
 <!-- ----------------------------------------------------------------------------------- -->
 #### SaaS Companies (2016 - 2018)
 
@@ -237,11 +226,12 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ddff15cb-613a-47e4-967e-864bbe4bf6f9" height="200" style="width: auto;" alt="CovidProj-1"></td>
-    <td><img src="https://github.com/user-attachments/assets/26de3426-d59c-4a9b-8d6a-7e4291403bb3" height="200" style="width: auto;" alt="CDA-1"></td>
-    <td><img src="https://github.com/user-attachments/assets/bcf61712-fafd-4d9d-bea7-dc7d5dd0fe91" height="200" style="width: auto;" alt="SightekTool-1"></td>
+    <td><img src="https://github.com/user-attachments/assets/ddff15cb-613a-47e4-967e-864bbe4bf6f9" height="170" style="width: auto;" alt="CovidProj-1"></td>
+    <td><img src="https://github.com/user-attachments/assets/26de3426-d59c-4a9b-8d6a-7e4291403bb3" height="170" style="width: auto;" alt="CDA-1"></td>
+    <td><img src="https://github.com/user-attachments/assets/bcf61712-fafd-4d9d-bea7-dc7d5dd0fe91" height="170" style="width: auto;" alt="SightekTool-1"></td>
   </tr>
   <tr>
+    <td>XXXXX</td>
     <td>XXXXX</td>
     <td>XXXXX</td>
   </tr>
@@ -250,12 +240,14 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 </div> 
 
 <!-- ----------------------------------------------------------------------------------- -->
-#### Academic Research (Before 2018)
+#### Academic Research and Training (Before 2018)
 
 <!-- <div align="center">
 
 <table>
   <tr>
+  ![UAV-1](https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544) 
+
     <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
     <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
     <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
@@ -269,25 +261,6 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 </div> -->
 
-<!-- ----------------------------------------------------------------------------------- -->
-#### Academic Training
-
-<!-- <div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
-  </tr>
-  <tr>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
-  </tr>
-</table>
-
-</div> -->
 
 <!-- ----------------------------------------------------------------------------------- -->
 
