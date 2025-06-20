@@ -58,7 +58,7 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
   </td>
   <td>
-    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="200" width="800" alt="My team at Kiwibot's Ai&Robotics Department">
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="400" width="1200" alt="My team at Kiwibot's Ai&Robotics Department">
 
   </td>
   </tr>
