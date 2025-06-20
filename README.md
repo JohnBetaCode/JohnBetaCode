@@ -8,8 +8,9 @@
 #Robotics #TechInnovation #ProblemSolving #AutonomousSystems #Operations #AI #TechLeadership #InnovationInAction
 
 </div>
-https://github.com/kiwicampus/Kronos-Project/pull/4631
+
 ---
+
 ### **Who's This Guy?**
 
 Hey there, human! 👋 I'm John, but everyone at work calls me Beta.
