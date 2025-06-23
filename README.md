@@ -183,7 +183,8 @@ Technical leader in robotics and AI with deep expertise in autonomous navigation
   </tr>
   <tr>
     <td>Robust Urban Autonomy Through Semantic Understanding and Map-Based Localization</td>
-    <td>Geofencing Through Semantic Mapping for Autonomous Path Restriction</td>
+    <td>Visual-Semantic Perception Aligned with OSM for Urban Geofencing and Navigation </td>
+    <td> Geofencing Through Semantic Mapping for Autonomous Path Restriction </td>
   </tr>
 </table>
 
