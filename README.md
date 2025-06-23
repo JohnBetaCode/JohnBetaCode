@@ -147,6 +147,8 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 #### Kiwibot (2018 - Present)
 
 <!-- ----------------------------------------------------------------------------------- -->
+
+Technical leader in robotics and AI with deep expertise in autonomous navigation, perception, and real-time systems. As Head of AI & Robotics at Kiwibot, I’ve led the development and scaling of the full autonomy stack—sensor fusion, semantic perception (CNNs, Mask R-CNN), ROS2-based planning and control—powering urban delivery robots toward Level 4 autonomy. I manage multidisciplinary engineering teams, drive robust deployment pipelines (C++/Python, ROS), and align technical innovation with business goals to deliver scalable, safe, and efficient robotic systems in real-world environments.
 <div align="center">
 
 <table>
@@ -155,8 +157,8 @@ Here's my journey through almost a decade of innovation, leadership, and technic
     <td><img src="https://github.com/user-attachments/assets/e449a5f0-1523-4247-8b16-a096b631f055" height="250" style="width: auto;" alt="Kiwi-Animation Image 3"></td>
   </tr>
   <tr>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
+    <td>Kiwibot’s AI-Driven Autonomy Stack in Action</td>
+    <td>Scalable Autonomy: Live Supervision of a Robot Delivery Fleet"</td>
   </tr>
 </table>
 
@@ -167,9 +169,9 @@ Here's my journey through almost a decade of innovation, leadership, and technic
     <td><img src="https://github.com/user-attachments/assets/8e040dd8-7f2f-4659-aaf6-ddeb1c3f60ff" height="150" style="width: auto;" alt="Kiwibot Image 6"></td>
   </tr>
   <tr>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
+    <td>Semantic-Grade LiDAR Scans for Environment Understanding & Navigation</td>
+    <td>Precision Mapping in Complex Environments: 3D LiDAR SLAM in Action</td>
+    <td>3D LiDAR Navigation: Dense Mapping, Semantics & Path Execution</td>
   </tr>
 </table>
 
@@ -180,9 +182,8 @@ Here's my journey through almost a decade of innovation, leadership, and technic
     <td><img src="https://github.com/user-attachments/assets/19cc15ea-0303-44e6-a5e8-a8c83575626e" height="150" style="width: auto;" alt="Kiwibot Image 3"></td>
   </tr>
   <tr>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
-    <td>XXXXX</td>
+    <td>Robust Urban Autonomy Through Semantic Understanding and Map-Based Localization</td>
+    <td>Geofencing Through Semantic Mapping for Autonomous Path Restriction</td>
   </tr>
 </table>
 
