@@ -215,7 +215,7 @@ Fast forward to today, and here I am as the Technical Leader in robotics and AI,
     <td><img src="https://github.com/user-attachments/assets/1cf0e13b-14c0-42d7-afd2-fa9f15d8fc80" height="250" style="width: auto;" alt="Heimdall Image 2"></td>
   </tr>
   <tr>
-    <td>Real-time vehicle counting in Medellin, Colombia, leveraging smart cameras to measure billboard audience and advertising impact."</td>
+    <td>Real-time vehicle counting in Medellin, Colombia, leveraging smart cameras to measure billboard audience and advertising impact</td>
   </tr>
 </table>
 
@@ -225,7 +225,7 @@ Fast forward to today, and here I am as the Technical Leader in robotics and AI,
     <td><img src="https://github.com/user-attachments/assets/81c72669-b01b-47d1-8b71-27a3dd70d2cd" height="250" style="width: auto;" alt="SysKraken Image 2"></td>
   </tr>
   <tr>
-    <td>Kraken system para inspeccion vertical de parametros de calidad del agua</td>
+    <td>Kraken system for vertical inspection of water quality parameters</td>
     <td>Kraken system deployed in the field, Colombia, Tota Lagoon</td>
   </tr>
 </table>
@@ -240,9 +240,7 @@ We've all been there - that moment when you're staring at the ceiling thinking "
 
 There, I had the opportunity to work on training YOLO models for optical character recognition - yes, you read that right! Back then, it wasn't nearly as straightforward as it is now, and the models weren't exactly precise. We wanted to design a system for vehicle diagnostic centers to measure how long the entire vehicle evaluation process took, which required identifying license plates (ALPR) and then character-by-character analysis to trigger a video capture system. I had an absolute blast with this project - from capturing and labeling thousands of images, to training models, to playing around with primitive OpenCV, Dlib, and FFmpeg. Later, I learned that this same system we deployed was used as a service by the traffic department to issue traffic tickets to vehicles that didn't comply with their restriction day. Helping build something to catch traffic violators definitely satisfied a bit of my inner troublemaker! 😈
 
-ACA FLATA TEMRINAR !!!!!!!!!!!!!!!!!!
-
-And of course, there was my entrepreneurial phase! That spirit is still alive, and I know I'll pick it up again someday. It wasn't exactly during these dates, but I tried working with a partner at the time on agricultural projects and university vending machines. But like every story that touches on these themes, my partner left me hanging at one point with several projects ready to launch and money already disbursed from people who trusted us. Some projects that actually saw the light of day included a system for inspecting surgical screws and plates, where we had to categorize and qualify everything from color to characteristics and defects of these components.
+And of course, there was my entrepreneurial phase! That spirit is still alive, and I know I'll pick it up again someday. It wasn't exactly during these dates, but I tried working with a partner at the time on agricultural projects and university vending machines. But like every story that touches on these themes, my partner left me hanging at one point with several projects ready to launch and money already disbursed from people who trusted us. Some projects that actually saw the light of day included a system for inspecting surgical screws and plates, where we had to categorize and qualify everything from color to characteristics and defects of these components. Other projects also came to life, though they're not quite as cool or relevant to showcase and describe here - some of those repositories are still up on my profile if you want to take a look.
 
 <div align="center">
 
@@ -253,7 +251,7 @@ And of course, there was my entrepreneurial phase! That spirit is still alive, a
     <td><img src="https://github.com/user-attachments/assets/bcf61712-fafd-4d9d-bea7-dc7d5dd0fe91" height="170" style="width: auto;" alt="SightekTool-1"></td>
   </tr>
   <tr>
-    <td>Social distancing checker system for malls and security cameras</td>
+    <td>Social distancing checker system for malls and security cameras (Created during COVID season when I was bored)</td>
     <td>ALPR/OCR for Vehicle Diagnostic Centers</td>
     <td>Inspection tools for surgical screws and plates</td>
   </tr>
@@ -272,6 +270,9 @@ For my undergraduate thesis, I dove deep into computer vision. Back then, there 
 
 After finishing my undergraduate work and having taken several coterminal or master's level courses in advance, I decided to continue with my master's studies. However, due to personal and economic circumstances at the time, I couldn't complete the final stage. This still weighs on me a bit, but nowadays, given what I do, I question: who the hell cares about another degree? I think experience and knowing how to actually do things matters far more. Anyway, during my university period, I enjoyed it immensely. More than learning what I use today, it was the formation that taught me a methodological process, the rigor and discipline to approach engineering challenges, and it left me with several of my best friends, acquaintances, and advisors that I count on today.
 
+
+**ACA FLATA INCLUIR IMAGENES !!!!!!!!!!!!!!!!!!**
+
 <!-- <div align="center">
 
 <table>
@@ -286,6 +287,7 @@ https://www.youtube.com/watch?v=hHoZIN9vzXo
   </tr>
   <tr>
     <td>XXXXX</td>
+
     <td>XXXXX</td>
     <td>XXXXX</td>
   </tr>
