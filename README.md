@@ -2,6 +2,8 @@
 
 # John A. Betancourt G. (aka. BetaCode)
 
+## A Brief Professional Background Overview
+
 ![Beta's Avatar](https://github.com/user-attachments/assets/090f3b5f-0781-4927-a3f6-036753bbe309)
 *(Living the dream to work in those tales which inspire me to work in what I do)*
 
@@ -37,10 +39,11 @@ A few fun facts about me:
 
 #### **What are my life goals? 🎯**
 
-* Help making robot.com an Unicorn -> IPO -> Sell/keep shares/stock -> be rich. 
-* Become a goose farmer before by 2040 (But continue working/teaching). 🦢🌾
-* Make and unicorn startup/idea having suffering/fun again. 🦄💡
-* Build a Family 👨‍👩‍👧‍👦 💕 :3  
+* Help making robot.com an Unicorn -> IPO -> Sell/keep shares/stock -> be rich - WIP
+* Become a goose farmer before by 2040 (But continue working/teaching) 🦢🌾 - WIP
+* Make and unicorn startup/idea having suffering/fun again. 🦄💡 - WIP
+* Become professor until the end of my Days. - No_Started 
+* Build a Family 👨‍👩‍👧‍👦 💕 :3 - Planing
 
 ---
 ### **What's is doing Beta?** 
@@ -203,8 +206,14 @@ Fast forward to today, and here I am as the Technical Leader in robotics and AI,
 </div>
 
 
+I'm deeply grateful to Kiwibot and its corporate team for providing me with incredible opportunities, teaching me valuable lessons through both successes and challenges, and allowing me to travel the world while working alongside amazing people with whom we've built part of today's technology and are planning tomorrow's innovations. 
+
 <!-- ----------------------------------------------------------------------------------- -->
-#### RedKraken (2023 - Present)
+#### RedKraken (2022 - Present)
+
+My entrepreneurial spirit has never faded, and as someone who's naturally curious and ambitious in the best sense of the word, my business partner and I are constantly seeking to address real needs and solve genuine problems that exist across industries, both large and small. We've worked with companies from LATAM to the EU on various projects that I can't fully disclose due to NDAs, but I'll share some highlights.
+
+One of my favorite projects is a vehicle and pedestrian counting system. You might think, "meh, big deal!"—and you'd be right at first glance. But consider this: scaling that system to handle over 50 cameras, ingesting real-time data into a database, and using it to dynamically price billboard advertising based on real-time audience reach for partners and contractors. Suddenly it's not so "meh" anymore, right? This is exactly what we built at RedKraken—a solid business currently running, generating revenue, and poised to scale to more partners and tackle different types of challenges in the future. 
 
 
 
@@ -218,6 +227,14 @@ Fast forward to today, and here I am as the Technical Leader in robotics and AI,
     <td>Real-time vehicle counting in Medellin, Colombia, leveraging smart cameras to measure billboard audience and advertising impact</td>
   </tr>
 </table>
+
+</div>
+
+Our pride and joy, the special project that still hangs on the walls of our studios today, is the Kraken system. This was the prototype that my partner and I started with—we had an absolute blast building everything from hardware and mechanics to software. We celebrated when we successfully extracted water profiles (temperature, acidity, and other parameters) from nearly 50 meters deep with precise measurements, comparing them to much more expensive stations and equipment. The novelty of this system was precisely its low cost and ability to connect to the cloud and transmit data in real-time.
+
+Unfortunately, the system lacked financial support—getting funding in our beautiful country is incredibly challenging. And sadly, in the area where we implemented this, our own system confirmed that the water was somewhat contaminated due to high fish farming activity, hotels, and tourism. Who's going to be interested in jeopardizing what drives commerce, even if it means leaving their children without clean water in the future? That's for the reader to judge.
+
+<div align="center">
 
 <table>
   <tr>
