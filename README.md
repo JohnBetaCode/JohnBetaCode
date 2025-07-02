@@ -288,29 +288,22 @@ For my undergraduate thesis, I dove deep into computer vision. Back then, there 
 After finishing my undergraduate work and having taken several coterminal or master's level courses in advance, I decided to continue with my master's studies. However, due to personal and economic circumstances at the time, I couldn't complete the final stage. This still weighs on me a bit, but nowadays, given what I do, I question: who the hell cares about another degree? I think experience and knowing how to actually do things matters far more. Anyway, during my university period, I enjoyed it immensely. More than learning what I use today, it was the formation that taught me a methodological process, the rigor and discipline to approach engineering challenges, and it left me with several of my best friends, acquaintances, and advisors that I count on today.
 
 
-**ACA FLATA INCLUIR IMAGENES !!!!!!!!!!!!!!!!!!**
-
-<!-- <div align="center">
+  <div align="center">
 
 <table>
   <tr>
-  ![UAV-1](https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544) 
-https://www.youtube.com/watch?v=hHoZIN9vzXo
-
-
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/XXXXX" width="300" alt="Kiwibot Image 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544" height="200" style="width: auto;" alt="UAV-1"></td>
+    <td><a href="https://www.youtube.com/watch?v=hHoZIN9vzXo" target="_blank"><img src="https://img.youtube.com/vi/hHoZIN9vzXo/maxresdefault.jpg" height="200" style="width: auto;" alt="YouTube Video"></a></td>
+    <td><img src="https://github.com/user-attachments/assets/ce0f7d57-90db-43c1-8949-09ca5ad929a5" height="200" style="width: auto;" alt="Diploma"></td>
   </tr>
   <tr>
-    <td>XXXXX</td>
-
-    <td>XXXXX</td>
-    <td>XXXXX</td>
+    <td>UAV System for Aquaculture Net Inspection</td>
+    <td>🇺🇸 VEX USA competition</td>
+    <td>Getting my Electronics Engineer Diploma (End of chapter)</td>
   </tr>
 </table>
 
-</div> -->
+</div>
 
 
 <!-- ----------------------------------------------------------------------------------- -->
