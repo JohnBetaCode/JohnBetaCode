@@ -212,10 +212,10 @@ I'm deeply grateful to Kiwibot and its corporate team for providing me with incr
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/7d4e8eb2-cc26-464f-bbb4-3a00f69d4d1c" height="120" style="width: auto;" alt="Kiwibot Dubai RTA Agreement"></td>
-    <td><img src="https://github.com/user-attachments/assets/df54f932-6ed2-4f42-94c6-62fc3ce3515e" height="120" style="width: auto;" alt="ROSCon Japan Team"></td>
-    <td><img src="https://github.com/user-attachments/assets/e2f9e4e9-3ef3-40ab-9b3d-3e7b04ecb43e" height="120" style="width: auto;" alt="Boston Robotics Summit"></td>
-    <td><img src="https://github.com/user-attachments/assets/2b19731e-1f79-4fcf-98c6-f52f3eef8ce9" height="120" style="width: auto;" alt="China Robotics Visit"></td>
+    <td><img src="https://github.com/user-attachments/assets/7d4e8eb2-cc26-464f-bbb4-3a00f69d4d1c" height="130" style="width: auto;" alt="Kiwibot Dubai RTA Agreement"></td>
+    <td><img src="https://github.com/user-attachments/assets/2b19731e-1f79-4fcf-98c6-f52f3eef8ce9" height="130" style="width: auto;" alt="ROSCon Japan Team"></td>
+    <td><img src="https://github.com/user-attachments/assets/e2f9e4e9-3ef3-40ab-9b3d-3e7b04ecb43e" height="130" style="width: auto;" alt="China Robotics Visit"></td>
+    <td><img src="https://github.com/user-attachments/assets/df54f932-6ed2-4f42-94c6-62fc3ce3515e" height="130" style="width: auto;" alt="Boston Robotics Summit"></td>
   </tr>
   <tr>
     <td>🇦🇪 2021 - Kiwibot in Dubai RTA signing agreement with Careem to scale delivery robots (with Sebastian Thrun)</td>
