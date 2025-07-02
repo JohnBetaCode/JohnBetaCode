@@ -62,7 +62,8 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
   </td>
   <td>
-    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125"  style="height: 170px; width: auto; max-width: 1000px;" alt="My team at Kiwibot's Ai&Robotics Department">
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="150" width="1700" alt="My team at Kiwibot's Ai&Robotics Department">
+
   </td>
   </tr>
 </table>
@@ -211,14 +212,16 @@ I'm deeply grateful to Kiwibot and its corporate team for providing me with incr
 
 <table>
   <tr>
-    <td><img src="xxxx" height="250" style="width: auto;" alt=""></td>
-    <td><img src="xxxx" height="250" style="width: auto;" alt=""></td>
-    <td><img src="xxxx" height="250" style="width: auto;" alt=""></td>
+    <td><img src="https://github.com/user-attachments/assets/7d4e8eb2-cc26-464f-bbb4-3a00f69d4d1c" height="200" style="width: auto;" alt="Kiwibot Dubai RTA Agreement"></td>
+    <td><img src="https://github.com/user-attachments/assets/df54f932-6ed2-4f42-94c6-62fc3ce3515e" height="200" style="width: auto;" alt="ROSCon Japan Team"></td>
+    <td><img src="https://github.com/user-attachments/assets/e2f9e4e9-3ef3-40ab-9b3d-3e7b04ecb43e" height="200" style="width: auto;" alt="Boston Robotics Summit"></td>
+    <td><img src="https://github.com/user-attachments/assets/2b19731e-1f79-4fcf-98c6-f52f3eef8ce9" height="200" style="width: auto;" alt="China Robotics Visit"></td>
   </tr>
   <tr>
-    <td>xxxx</td>
-    <td>xxxx</td>
-    <td>xxxx</td>
+    <td>🇦🇪 2021 - Kiwibot in Dubai RTA signing agreement with Careem to scale delivery robots (with Sebastian Thrun)</td>
+    <td>🇯🇵 2022 - ROSCon Japan with our team and InOrbit Founder</td>
+    <td>🇺🇸 2023 - Boston Robotics Summit and Expo (with Marc Raibert)</td>
+    <td>🇨🇳 2024 - Visiting providers in China to build our next generation of robots</td>
   </tr>
 </table>
 
