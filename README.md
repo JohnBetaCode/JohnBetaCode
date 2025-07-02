@@ -62,8 +62,7 @@ My role is a balance of technical expertise, strategic thinking, and hands-on pr
 
   </td>
   <td>
-    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="200" width="1700" alt="My team at Kiwibot's Ai&Robotics Department">
-
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125"  style="height: 170px; width: auto; max-width: 1000px;" alt="My team at Kiwibot's Ai&Robotics Department">
   </td>
   </tr>
 </table>
@@ -208,6 +207,24 @@ Fast forward to today, and here I am as the Technical Leader in robotics and AI,
 
 I'm deeply grateful to Kiwibot and its corporate team for providing me with incredible opportunities, teaching me valuable lessons through both successes and challenges, and allowing me to travel the world while working alongside amazing people with whom we've built part of today's technology and are planning tomorrow's innovations. 
 
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="xxxx" height="250" style="width: auto;" alt=""></td>
+    <td><img src="xxxx" height="250" style="width: auto;" alt=""></td>
+    <td><img src="xxxx" height="250" style="width: auto;" alt=""></td>
+  </tr>
+  <tr>
+    <td>xxxx</td>
+    <td>xxxx</td>
+    <td>xxxx</td>
+  </tr>
+</table>
+
+</div>
+
+
 <!-- ----------------------------------------------------------------------------------- -->
 #### RedKraken (2022 - Present)
 
@@ -283,7 +300,7 @@ Let me be honest - I wasn't exactly a prodigy in university! I was organized and
 
 At my university (PUJ-Colombia), I found my tribe in the Robotics group, where we competed in various categories and competitions, both national and international, on the VEX platform. After taking numerous robotics courses and working on various projects like a differential drive cart and a drawing arm, I developed a deep love for creating in robotics that naturally drew me to this group. I still vividly remember the electric excitement of almost winning an international competition when we went head-to-head against what today might be the talent leading robotics in various sectors. Those were the days!
 
-For my undergraduate thesis, I dove deep into computer vision. Back then, there were no programming agents, no ChatGPT, and precious little guidance on these topics, so I had to devour mountains of literature to build an aquaculture net inspection system. The program ran on a UAV (Underwater Vehicle) as part of a thesis that one of my advisors directed for his postdoctoral work, focused on inspecting water quality parameters in aquatic bodies. This work would later continue at Kraken under his permission - full circle moment!
+For my undergraduate thesis, I dove deep into computer vision. Back then, there were no programming agents, no ChatGPT, and precious little guidance on these topics, so I had to devour mountains of literature to build an aquaculture net inspection system. The program ran on a UAV (Underwater Vehicle) as part of a thesis that one of my advisors directed for his postdoctoral work, focused on inspecting water quality parameters in aquatic bodies. This work would later continue at Kraken under his permission - full circle moment! I was honored to receive a title of excellence and merit for being one of the best works in the faculty.
 
 After finishing my undergraduate work and having taken several coterminal or master's level courses in advance, I decided to continue with my master's studies. However, due to personal and economic circumstances at the time, I couldn't complete the final stage. This still weighs on me a bit, but nowadays, given what I do, I question: who the hell cares about another degree? I think experience and knowing how to actually do things matters far more. Anyway, during my university period, I enjoyed it immensely. More than learning what I use today, it was the formation that taught me a methodological process, the rigor and discipline to approach engineering challenges, and it left me with several of my best friends, acquaintances, and advisors that I count on today.
 
