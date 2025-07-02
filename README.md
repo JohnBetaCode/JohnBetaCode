@@ -298,8 +298,8 @@ After finishing my undergraduate work and having taken several coterminal or mas
   </tr>
   <tr>
     <td>UAV System for Aquaculture Net Inspection</td>
-    <td>🇺🇸 VEX USA competition</td>
-    <td>Getting my Electronics Engineer Diploma (End of chapter)</td>
+    <td>🇺🇸 VEX-U USA competition 2016 </td>
+    <td>Getting my Electronics Engineer Diploma 2016 (End of chapter)</td>
   </tr>
 </table>
 
