@@ -17,12 +17,13 @@
 
 **Senior Member of Technical Staff @ robot.com (formerly Kiwibot)** · Former Head of AI & Robotics · ~10 years in robotics & computer vision · Based in Colombia 🇨🇴
 
-I provide hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception, and ROS2-based planning & control driving robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I've moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I also advise external teams and am starting new projects in the defense sector.
+I provide hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception, and ROS2-based planning & control that drive robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I've moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I also advise external teams and am starting new projects in the defense sector.
 
 * 🤖 **Core stack:** ROS2/ROS, C++ & Python, OpenCV, YOLO, NVIDIA Jetson (Orin/Xavier/TX2), Docker, GCP
 * 🚀 **Scale:** Robots in my org's fleet collectively travel the equivalent of 5+ times around the Earth every year
 * 🧭 **Domains:** Autonomous navigation · perception · sensor fusion · real-time systems · teleoperation
 * 👥 **Leadership:** Built and scaled the AI & Robotics department; bridge engineering, operations, and business
+* 🎓 **Also:** IEEE-published · co-inventor on 2 U.S. patent applications · speaker at AI Summit LATAM, Actuate & ROSWorld
 * 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/johnbetacode/) · [Email](mailto:john.betancourt93@gmail.com) · [GitHub](https://github.com/JohnBetaCode)
 
 > The full story (career, side ventures, and the human behind it) is below 👇
@@ -260,7 +261,7 @@ One of my favorite projects is a vehicle and pedestrian counting system. You mig
     <td><img src="https://github.com/user-attachments/assets/1cf0e13b-14c0-42d7-afd2-fa9f15d8fc80" height="250" style="width: auto;" alt="Heimdall Image 2"></td>
   </tr>
   <tr>
-    <td>Real-time vehicle counting in Medellin, Colombia, leveraging smart cameras to measure billboard audience and advertising impact</td>
+    <td>Real-time vehicle counting in Medellín, Colombia, leveraging smart cameras to measure billboard audience and advertising impact</td>
   </tr>
 </table>
 
@@ -319,7 +320,7 @@ Let me be honest - I wasn't exactly a prodigy in university! I was organized and
 
 At my university (PUJ-Colombia), I found my tribe in the Robotics group, where we competed in various categories and competitions, both national and international, on the VEX platform. After taking numerous robotics courses and working on various projects like a differential drive cart and a drawing arm, I developed a deep love for creating in robotics that naturally drew me to this group. I still vividly remember the electric excitement of almost winning an international competition when we went head-to-head against what today might be the talent leading robotics in various sectors. Those were the days!
 
-For my undergraduate thesis, I dove deep into computer vision. Back then, there were no programming agents, no ChatGPT, and precious little guidance on these topics, so I had to devour mountains of literature to build an aquaculture net inspection system. The program ran on a UUV (Unmanned Underwater Vehicle) as part of a thesis that one of my advisors directed for his postdoctoral work, focused on inspecting water quality parameters in aquatic bodies. This work would later continue at Kraken under his permission - full circle moment! I was honored to receive a title of excellence and merit for being one of the best works in the faculty.
+For my undergraduate thesis, I dove deep into computer vision. Back then, there were no programming agents, no ChatGPT, and precious little guidance on these topics, so I had to devour mountains of literature to build an aquaculture net inspection system. The program ran on an ROV (Remotely Operated Vehicle) as part of a thesis that one of my advisors directed for his postdoctoral work, focused on inspecting water quality parameters in aquatic bodies. This work would later continue at Kraken under his permission - full circle moment! I was honored to receive a title of excellence and merit for being one of the best works in the faculty.
 
 After finishing my undergraduate work and having taken several coterminal or master's level courses in advance, I decided to continue with my master's studies. However, due to personal and economic circumstances at the time, I couldn't complete the final stage. This still weighs on me a bit, but nowadays, given what I do, I question: who the hell cares about another degree? I think experience and knowing how to actually do things matters far more. Anyway, during my university period, I enjoyed it immensely. More than learning what I use today, it was the formation that taught me a methodological process, the rigor and discipline to approach engineering challenges, and it left me with several of my best friends, acquaintances, and advisors that I count on today.
 
@@ -328,12 +329,12 @@ After finishing my undergraduate work and having taken several coterminal or mas
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544" height="200" style="width: auto;" alt="UAV-1"></td>
+    <td><img src="https://github.com/user-attachments/assets/f3fa6c5a-f74a-4652-826e-0f8417e0f544" height="200" style="width: auto;" alt="ROV-1"></td>
     <td><a href="https://www.youtube.com/watch?v=hHoZIN9vzXo" target="_blank"><img src="https://img.youtube.com/vi/hHoZIN9vzXo/maxresdefault.jpg" height="200" style="width: auto;" alt="YouTube Video"></a></td>
     <td><img src="https://github.com/user-attachments/assets/ce0f7d57-90db-43c1-8949-09ca5ad929a5" height="200" style="width: auto;" alt="Diploma"></td>
   </tr>
   <tr>
-    <td>UAV System for Aquaculture Net Inspection</td>
+    <td>ROV System for Aquaculture Net Inspection</td>
     <td>🇺🇸 VEX-U USA competition 2016 </td>
     <td>Getting my Electronics Engineer Diploma 2016 (End of chapter)</td>
   </tr>
@@ -359,11 +360,12 @@ My work isn't only shipped code — some of it is peer-reviewed, presented on st
 * **[Speaker](https://www.linkedin.com/posts/johnbetacode_me-emociona-ser-speaker-en-el-ai-summit-latam-activity-7435249673545601024-JQHU)** — *How robot.com brings multiple AI technology and business verticals from concept to real-world implementation*, **AI Summit LATAM 2026** (Bogotá, Colombia).
 * **[Panelist](https://www.linkedin.com/posts/johnbetacode_i-would-like-to-express-my-deepest-gratitude-activity-7377497277545996289-3DeJ)** — end-to-end foundation models, physical AI, and autonomous driving, **Actuate 2025** (by Foxglove).
 * **Speaker** — *Kiwibot: ROS2 in the Atoms-Delivery Industry*, **ROSWorld 2020**.
-* Represented the company at **ROSCon 2022** (Kyoto, Japan) and **CES 2022** (Las Vegas, USA).
-* Participated in **ROSCon Japan 2022** with the robotics team and InOrbit leadership.
-* Joined the **Boston Robotics Summit & Expo 2023** to connect with robotics experts, investors, and research leaders.
-* Supported the **2021 Dubai RTA / Careem robotics deployment milestone** as part of Kiwibot’s global autonomy expansion.
-* Visited robotics partners in **China 2024** to support next-generation vehicle development and supplier integration.
+* **Attendee / company representative** — **ROSCon Japan 2022** (Kyoto, with the robotics team and InOrbit leadership), **CES 2022** (Las Vegas), and the **Boston Robotics Summit & Expo 2023**.
+
+#### 🌍 Industry presence & milestones
+
+* **2021** — Supported Kiwibot's **Dubai RTA / Careem** agreement to scale delivery robots, part of our global autonomy expansion.
+* **2024** — Visited robotics suppliers in **China** to support next-generation vehicle development and supplier integration.
 
 #### 🎓 Teaching
 
