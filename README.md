@@ -17,7 +17,7 @@
 
 **Senior Member of Technical Staff @ robot.com (formerly Kiwibot)** · Former Head of AI & Robotics · ~10 years in robotics & computer vision · Based in Colombia 🇨🇴
 
-I provide hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception (CNNs, Mask R-CNN), and ROS2-based planning & control driving robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I've moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I also advise external teams and am starting new projects in the defense sector.
+I provide hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception, and ROS2-based planning & control driving robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I've moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I also advise external teams and am starting new projects in the defense sector.
 
 * 🤖 **Core stack:** ROS2/ROS, C++ & Python, OpenCV, YOLO, NVIDIA Jetson (Orin/Xavier/TX2), Docker, GCP
 * 🚀 **Scale:** Robots in my org's fleet collectively travel the equivalent of 5+ times around the Earth every year
@@ -178,7 +178,7 @@ The real turning point came when I managed to bridge the gap between operations 
 
 Years flew by, team members came and went, and through a combination of accumulated experience, built relationships, and being the most senior member, I found myself with an unexpected opportunity: leadership. By 2020, I was facing a completely new challenge that I thought I understood but quickly realized was a whole different beast. I had the vision, but this was a complete career pivot with challenges and solutions that, while not purely technical, would become inseparable from my technical work going forward.
 
-Fast forward to today, and I'm deep in robotics and AI with hard-won expertise in autonomous navigation, perception, and real-time systems. As Head of AI & Robotics at Kiwibot, I led the development and scaling of our complete autonomy stack—sensor fusion, semantic perception (CNNs, Mask R-CNN), ROS2-based planning and control—powering urban delivery robots toward Level 4 autonomy, managing multidisciplinary engineering teams and aligning technical innovation with business goals. More recently I've stepped back into a senior technical track as a Member of Technical Staff: leading the most critical autonomy projects hands-on, advising across other initiatives, and driving robust deployment pipelines (C++/Python, ROS) for scalable, safe, and efficient robots in the real world.
+Fast forward to today, and I'm deep in robotics and AI with hard-won expertise in autonomous navigation, perception, and real-time systems. As Head of AI & Robotics at Kiwibot, I led the development and scaling of our complete autonomy stack—sensor fusion, semantic perception, ROS2-based planning and control—powering urban delivery robots toward Level 4 autonomy, managing multidisciplinary engineering teams and aligning technical innovation with business goals. More recently I've stepped back into a senior technical track as a Member of Technical Staff: leading the most critical autonomy projects hands-on, advising across other initiatives, and driving robust deployment pipelines (C++/Python, ROS) for scalable, safe, and efficient robots in the real world. I made this move because it lets me work directly on the product, learn faster, maximize the value of my technical expertise, and also free up personal time for side projects and other priorities.
 
 <div align="center">
 
@@ -360,6 +360,10 @@ My work isn't only shipped code — some of it is peer-reviewed, presented on st
 * **[Panelist](https://www.linkedin.com/posts/johnbetacode_i-would-like-to-express-my-deepest-gratitude-activity-7377497277545996289-3DeJ)** — end-to-end foundation models, physical AI, and autonomous driving, **Actuate 2025** (by Foxglove).
 * **Speaker** — *Kiwibot: ROS2 in the Atoms-Delivery Industry*, **ROSWorld 2020**.
 * Represented the company at **ROSCon 2022** (Kyoto, Japan) and **CES 2022** (Las Vegas, USA).
+* Participated in **ROSCon Japan 2022** with the robotics team and InOrbit leadership.
+* Joined the **Boston Robotics Summit & Expo 2023** to connect with robotics experts, investors, and research leaders.
+* Supported the **2021 Dubai RTA / Careem robotics deployment milestone** as part of Kiwibot’s global autonomy expansion.
+* Visited robotics partners in **China 2024** to support next-generation vehicle development and supplier integration.
 
 #### 🎓 Teaching
 
