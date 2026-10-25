@@ -15,12 +15,12 @@
 
 ### **TL;DR**
 
-**Senior Member of Technical Staff @ robot.com (formerly Kiwibot)** · Former Head of AI & Robotics · ~10 years in robotics & computer vision · Based in Colombia 🇨🇴
+**Sr. Tech Lead (new role — more info soon)** · Former Senior Member of Technical Staff & Head of AI & Robotics @ robot.com (formerly Kiwibot, until Dec 2026) · ~10 years in robotics & computer vision · Based in Colombia 🇨🇴
 
-I provide hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception, and ROS2-based planning & control that drive robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I've moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I also advise external teams and am starting new projects in the defense sector.
+Most recently I provided hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception, and ROS2-based planning & control that drove delivery robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I worked with robot.com until December 2026, and I'm now in a new role as Sr. Tech Lead—more details soon.
 
 * 🤖 **Core stack:** ROS2/ROS, C++ & Python, OpenCV, YOLO, NVIDIA Jetson (Orin/Xavier/TX2), Docker, GCP
-* 🚀 **Scale:** Robots in my org's fleet collectively travel the equivalent of 5+ times around the Earth every year
+* 🚀 **Scale:** The robot fleet I helped build collectively travels the equivalent of 5+ times around the Earth every year
 * 🧭 **Domains:** Autonomous navigation · perception · sensor fusion · real-time systems · teleoperation
 * 👥 **Leadership:** Built and scaled the AI & Robotics department; bridge engineering, operations, and business
 * 🎓 **Also:** IEEE-published · co-inventor on 2 U.S. patent applications · speaker at AI Summit LATAM, Actuate & ROSWorld
@@ -60,48 +60,20 @@ A few fun facts about me:
 * Become a goose farmer by 2040 (while still working/teaching) 🦢🌾 - WIP
 * Build another unicorn startup/idea — back to the suffering and the fun. 🦄💡 - WIP
 * Become a professor until the end of my days. - Not Started
-* Build a Family 👨‍👩‍👧‍👦 💕 - Planning
+* Build a Family 👨‍👩‍👧‍👦 💕 - WIP 
 
 ---
 ### **What is Beta doing?** 
 
-Currently a **Senior Member of Technical Staff** at robot.com (previously Kiwibot), after serving as **Head of the AI & Robotics Department**. Today I lead a set of critical projects at the technical level, advise on others across the company, and bring the same hands-on focus to external advisory work and new ventures in the defense sector.
+I'm currently a **Sr. Tech Lead** at **XXXXXXX**, a new chapter I started right after closing almost nine years at robot.com (previously Kiwibot). More details about the company, the team, and what we're building are coming soon. 🚀
 
-<table>
-  <tr>
-    <td>
-
-At robot.com I thrive at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I'm all about transforming challenges into solutions.
-
-Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus remains on elevating systems and people to their highest potential. 
-
-My role is a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what's possible.
-
-  </td>
-  <td>
-    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="800" alt="My team at Kiwibot's Ai&Robotics Department">
-
-  </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/7ee839c8-5fcb-42ea-acb3-45879556c517" style="height: 170px; width: auto; max-width: 1000px;" alt="Kiwibot Animation"></td>
-    <td><img src="https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec" style="height: 170px; width: auto; max-width: 1000px;" alt="Kiwibot's Products"></td>
-  </tr>
-
-</table>
-
-</div>
+In the meantime, I keep the same hands-on focus I've always had: technical leadership on hard problems, bridging engineering with operations and business, and taking systems from research to robust real-world deployment—alongside external advisory work and side ventures.
 
 I love to innovate and elevate the future of robotics with a great team. 
 
 #### **What are my work's goals?**
 
-Build the best autonomous driving system I can for our beloved Kiwibots, have fun, and keep learning — measured by:
+Build the best autonomous systems I can, have fun, and keep learning — measured by:
 
 * Push the autonomy rate as high as each environment allows 🎯
 * Maximize safety and reliability — drive interventions down to a fraction of a percent of kilometers driven 🛡️
@@ -142,7 +114,7 @@ Here's my [Management style and framework](Management_Notes.md) and [How to work
 
 </div>
 
-As they say, seeing is believing. Just visit kiwibot.com or robot.com to see the results of my team's and colleagues' work - and by extension, mine. I take pride in having helped lead part of this journey and in building, alongside amazing people, a robotics platform that ships real autonomy in the real world.
+As they say, seeing is believing. Just visit kiwibot.com or robot.com to see the results of my former team's and colleagues' work - and by extension, mine. I take pride in having helped lead part of this journey and in building, alongside amazing people, a robotics platform that ships real autonomy in the real world.
 
 #### **The Leader: Learn through victories, and also failures** 
 
@@ -167,7 +139,13 @@ Here's my journey through almost a decade of innovation, leadership, and technic
 
 *It's better reading backwards to follow the natural chronological order of my journey.*
 
-#### Kiwibot → robot.com (2018 - Present)
+#### Sr. Tech Lead @ XXXXXXX (2026 - Present)
+
+A new chapter is underway. More information soon. 🚀
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+#### Kiwibot → robot.com (2018 - Dec 2026)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -179,7 +157,37 @@ The real turning point came when I managed to bridge the gap between operations 
 
 Years flew by, team members came and went, and through a combination of accumulated experience, built relationships, and being the most senior member, I found myself with an unexpected opportunity: leadership. By 2020, I was facing a completely new challenge that I thought I understood but quickly realized was a whole different beast. I had the vision, but this was a complete career pivot with challenges and solutions that, while not purely technical, would become inseparable from my technical work going forward.
 
-Fast forward to today, and I'm deep in robotics and AI with hard-won expertise in autonomous navigation, perception, and real-time systems. As Head of AI & Robotics at Kiwibot, I led the development and scaling of our complete autonomy stack—sensor fusion, semantic perception, ROS2-based planning and control—powering urban delivery robots toward Level 4 autonomy, managing multidisciplinary engineering teams and aligning technical innovation with business goals. More recently I've stepped back into a senior technical track as a Member of Technical Staff: leading the most critical autonomy projects hands-on, advising across other initiatives, and driving robust deployment pipelines (C++/Python, ROS) for scalable, safe, and efficient robots in the real world. I made this move because it lets me work directly on the product, learn faster, maximize the value of my technical expertise, and also free up personal time for side projects and other priorities.
+Fast forward to today, and I'm deep in robotics and AI with hard-won expertise in autonomous navigation, perception, and real-time systems. As Head of AI & Robotics at Kiwibot, I led the development and scaling of our complete autonomy stack—sensor fusion, semantic perception, ROS2-based planning and control—powering urban delivery robots toward Level 4 autonomy, managing multidisciplinary engineering teams and aligning technical innovation with business goals. Later I stepped back into a senior technical track as a Member of Technical Staff: leading the most critical autonomy projects hands-on, advising across other initiatives, and driving robust deployment pipelines (C++/Python, ROS) for scalable, safe, and efficient robots in the real world. I made that move because it let me work directly on the product, learn faster, maximize the value of my technical expertise, and also free up personal time for side projects and other priorities. In December 2026, after eight years, I closed that chapter to start a new one as Sr. Tech Lead.
+
+<table>
+  <tr>
+    <td>
+
+At robot.com I thrived at the intersection of hardware, software, and operations, constantly navigating the complexities of autonomous systems, robotics integration, and real-time performance optimization. From ensuring seamless deployments to fine-tuning teleoperation and navigation systems, I was all about transforming challenges into solutions.
+
+Whether collaborating with multidisciplinary teams to address sensor issues or diving into data analytics to improve OKRs, my focus has always been on elevating systems and people to their highest potential. 
+
+My role was a balance of technical expertise, strategic thinking, and hands-on problem solving, all aimed at pushing the boundaries of what's possible.
+
+  </td>
+  <td>
+    <img src="https://github.com/user-attachments/assets/4156283d-b4de-48e7-b932-3f6d05b82125" height="800" alt="My team at Kiwibot's Ai&Robotics Department">
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7ee839c8-5fcb-42ea-acb3-45879556c517" style="height: 170px; width: auto; max-width: 1000px;" alt="Kiwibot Animation"></td>
+    <td><img src="https://github.com/user-attachments/assets/148f408b-9371-4be3-ad38-dce44d96beec" style="height: 170px; width: auto; max-width: 1000px;" alt="Kiwibot's Products"></td>
+  </tr>
+
+</table>
+
+</div>
 
 <div align="center">
 
@@ -391,7 +399,7 @@ Beyond shipped systems, part of my work is documented in formal patent filings. 
 ---
 ### Am I Looking for Something More? 
 
-While I love what I do, who I work with, and where I work, I'm always open to new opportunities and growth. Like evolution itself, staying in one place means stagnation. I'm constantly seeking to explore and engage with new opportunities, initiatives, and ventures in:
+While I love what I do and the people I've worked with, I'm always open to new opportunities and growth. Like evolution itself, staying in one place means stagnation. I'm constantly seeking to explore and engage with new opportunities, initiatives, and ventures in:
 
 * Robotics & Autonomous Systems 🤖
 * Industrial Automation & Smart Manufacturing 🏭
@@ -399,7 +407,6 @@ While I love what I do, who I work with, and where I work, I'm always open to ne
 * Academic Research & Education 🎓
 * AI & Machine Learning Innovation 🧠
 * Technical Leadership & Team Building 👥
-* Defense & Military Technology Projects 🛡️
 * Conference Speaking & Technical Workshops 🎤
 * Innovative Startup Partnerships & Ventures 💫
 
