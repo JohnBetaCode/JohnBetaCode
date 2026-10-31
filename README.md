@@ -7,7 +7,7 @@
 ![Beta's Avatar](https://github.com/user-attachments/assets/090f3b5f-0781-4927-a3f6-036753bbe309)
 *(Living the dream to work in those tales which inspire me to work in what I do)*
 
-#Robotics #TechInnovation #ProblemSolving #AutonomousSystems #Operations #AI #TechLeadership #InnovationInAction
+#Robotics #TechInnovation #ProblemSolving #AutonomousSystems #HRI #AI #VibeCoding #TechLeadership
 
 </div>
 
@@ -17,11 +17,13 @@
 
 **Sr. Tech Lead (new role — more info soon)** · Former Senior Member of Technical Staff & Head of AI & Robotics @ robot.com (formerly Kiwibot, until Dec 2026) · ~10 years in robotics & computer vision · Based in Colombia 🇨🇴
 
-Most recently I provided hands-on technical leadership on critical autonomy projects—sensor fusion, semantic perception, and ROS2-based planning & control that drove delivery robots toward Level 4 autonomy—while advising across other internal initiatives. After leading and scaling the AI & Robotics department, I moved back to a senior technical track to focus on the hardest problems and the path from research to robust C++/Python deployment. I worked with robot.com until December 2026, and I'm now in a new role as Sr. Tech Lead—more details soon.
+At robot.com I built and scaled the AI & Robotics department, then moved back to a senior technical track to lead the most critical projects hands-on: sensor fusion, semantic perception and ROS2 planning & control for delivery robots heading toward Level 4 autonomy—and, most recently, robot-human interaction for R-Dog. I'm now starting a new chapter as Sr. Tech Lead.
+
+🧑‍💻 **Plot twist:** these days I'm proudly a vibe coder. AI agents (Claude Code, Cursor) are my force multiplier: I bring the judgment and a decade of scars, they bring the speed. R-Dog's interaction stack and my latest side projects ([Once Upon a Time](https://github.com/JohnBetaCode/Once_Upon_a_Time), [Everyday Video Maker v2](https://github.com/JohnBetaCode/Everyday-VideCoded)) were built that way.
 
 * 🤖 **Core stack:** ROS2/ROS, C++ & Python, OpenCV, YOLO, NVIDIA Jetson (Orin/Xavier/TX2), Docker, GCP
 * 🚀 **Scale:** The robot fleet I helped build collectively travels the equivalent of 5+ times around the Earth every year
-* 🧭 **Domains:** Autonomous navigation · perception · sensor fusion · real-time systems · teleoperation
+* 🧭 **Domains:** Autonomous navigation · perception · sensor fusion · real-time systems · teleoperation · robot-human interaction
 * 👥 **Leadership:** Built and scaled the AI & Robotics department; bridge engineering, operations, and business
 * 🎓 **Also:** IEEE-published · co-inventor on 2 U.S. patent applications · speaker at AI Summit LATAM, Actuate & ROSWorld
 * 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/johnbetacode/) · [Email](mailto:john.betancourt93@gmail.com) · [GitHub](https://github.com/JohnBetaCode)
@@ -67,46 +69,30 @@ A few fun facts about me:
 
 I'm currently a **Sr. Tech Lead** at **XXXXXXX**, a new chapter I started right after closing almost nine years at robot.com (previously Kiwibot). More details about the company, the team, and what we're building are coming soon. 🚀
 
-In the meantime, I keep the same hands-on focus I've always had: technical leadership on hard problems, bridging engineering with operations and business, and taking systems from research to robust real-world deployment—alongside external advisory work and side ventures.
-
-I love to innovate and elevate the future of robotics with a great team. 
-
-#### **What are my work's goals?**
-
-Build the best autonomous systems I can, have fun, and keep learning — measured by:
-
-* Push the autonomy rate as high as each environment allows 🎯
-* Maximize safety and reliability — drive interventions down to a fraction of a percent of kilometers driven 🛡️
-* Zero critical incidents through advanced sensor fusion and predictive modeling 🚀
-* Build relationships and train next-gen models for autonomous driving 🤖
-* Stay (and help others stay) current with the latest trends in robotics and AI 🧠
+Same hands-on focus as always: technical leadership on hard problems, bridging engineering with operations and business, and taking systems from research to real-world deployment—now with AI agents in my everyday toolbox—alongside external advisory work and side ventures.
 
 #### **What are my Skills**
 
-I think about my skills across three lenses — the engineer, the manager, and the leader. Since 2020 my role expanded into management, and more recently I've moved back to a hands-on technical track; each of these has been fundamental to the others, and I face distinct challenges in all of them.
+Three lenses: the engineer, the manager, and the leader. Since 2020 I've moved between management and hands-on technical work, and each has shaped the others.
 
 #### **The Programmer**
 
-Let's be real - I'm not going to claim expertise in every framework under the sun. I don't believe in that mythical "unicorn" developer who masters everything like the Avatar. Instead, I'll be transparent about my core competencies and the tools I work with regularly.
+Let's be real - I'm not going to claim expertise in every framework under the sun. That mythical "unicorn" developer who masters everything like the Avatar doesn't exist. Here's what I actually work with:
 
-* 💻 Languages: C++ (Intermediate - I've shed tears but built robust applications), Python (Extensive experience and strong command).
-* 🔧 IDEs: VSCode, Cursor, and any LLM agent essential for rapid prototyping, unit testing, documentation - the essentials since LLMs revolutionized our world.
-* 📈 Data: Core database queries for building reports, dashboards, and metrics. The platform? They're all similar after a few days of learning. Examples: Tableau, Grafana, Google Studio, Looker (Not my favorite).
-* 🤖 Robotics Tools: ROS2, ROS, Gazebo, RViz, and the classic MATLAB (Still relevant?).
-* 📚 Libraries: YOLO, OpenCV (I know it inside out), NVIDIA Platforms: Orin, TX2, Xavier.
-* 🐳 Containerization & DevOps: Docker, container orchestration, and deployment strategies for scalable robotics applications.
-* 🔌 Embedded Systems: Hands-on experience with microcontrollers, real-time systems, and hardware-software integration.
-* 🧠 AI & ML: Experience with neural networks, computer vision, and sensor fusion for autonomous systems.
-* ☁️ Cloud & Infrastructure: GCP services for robotics applications, edge computing, and distributed systems.
-* 🏗️ General: Scalable software architectures, application deployment processes, CI/CD automation, unit testing, and all the essential modern development practices.
+* 💻 Languages: C++ (Intermediate - I've shed tears but built robust applications), Python (strong command).
+* 🧑‍💻 AI-assisted dev: Claude Code, Cursor and LLM agents are my daily driver—prototyping, testing, docs, and entire vibe-coded repos. They amplify what I know; they don't replace knowing it.
+* 🤖 Robotics: ROS2, ROS, Gazebo, RViz, and the classic MATLAB (Still relevant?).
+* 🧠 AI & Vision: YOLO, OpenCV (I know it inside out), neural networks, sensor fusion · NVIDIA Orin, Xavier, TX2.
+* 🐳 Infra: Docker, CI/CD, GCP, edge computing, and scalable deployment for robot fleets.
+* 🔌 Embedded: Microcontrollers, real-time systems, and hardware-software integration.
+* 📈 Data: Queries, dashboards and metrics in Tableau, Grafana, Google Studio, Looker (Not my favorite). They're all similar after a few days.
 
 #### **The Manager** 
 
-* 🎯 Strategic team and priority management aligned with company objectives
-* 📊 Development of departmental strategies and methodologies to achieve goals (OKRs, KPIs) that align with business objectives
-* 🤖 AI-driven optimization of applications and processes through innovative methodologies
-* 📚 Continuous team growth through ongoing learning and active participation in the robotics community
-* 🚀 Leadership in fostering innovation and maintaining high-performance standards
+* 🎯 Team and priority management aligned with company objectives
+* 📊 Department strategies, OKRs and KPIs tied to business goals
+* 🤖 AI-driven optimization of applications and processes
+* 📚 Continuous team growth and active participation in the robotics community
 
 <div align="center">
 
@@ -114,23 +100,15 @@ Here's my [Management style and framework](Management_Notes.md) and [How to work
 
 </div>
 
-As they say, seeing is believing. Just visit kiwibot.com or robot.com to see the results of my former team's and colleagues' work - and by extension, mine. I take pride in having helped lead part of this journey and in building, alongside amazing people, a robotics platform that ships real autonomy in the real world.
+As they say, seeing is believing: visit robot.com to see the work of my former team and colleagues - and by extension, mine.
 
 #### **The Leader: Learn through victories, and also failures** 
 
-Beyond technical and management skills, I've developed a unique set of leadership capabilities that drive innovation and team success:
-
-* Strategic Vision: Translating complex technical challenges into actionable business strategies
-* Cross-functional Collaboration: Bridging the gap between engineering, operations, and business teams
-* Innovation Management: Fostering a culture of continuous improvement and cutting-edge development
-* Technical Mentorship: Growing the next generation of robotics engineers and AI specialists
-* Stakeholder Management: Effectively communicating technical concepts to non-technical audiences
-* Risk Management: Balancing innovation with operational safety and reliability
-* Resource Optimization: Maximizing team productivity while maintaining high-quality standards
-* Crisis Management: Leading teams through technical challenges and operational disruptions
-* Technical Decision Making: Making informed choices between competing technical solutions
-* Team Scaling: Building and growing high-performing technical teams (hiring great people is brutally hard)
-* Industry Evangelism: Representing the company's technical vision in the robotics community
+* Strategic vision: turning complex technical challenges into business strategy
+* Bridging engineering, operations and business, and explaining tech to non-technical audiences
+* Balancing innovation with safety and reliability, and leading teams through crises
+* Mentoring and scaling high-performing teams (hiring great people is brutally hard)
+* Representing the company's technical vision in the robotics community
 
 ---
 ### What else I have done? 
@@ -149,16 +127,6 @@ A new chapter is underway. More information soon. 🚀
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-The call came on a random Tuesday afternoon, completely out of the blue. "Hey John, what are you up to? Come work with us, but it's not an engineering position - it's to be a delivery guy, and maybe something technical will come up. Come and give it a try." My friend's voice carried that infectious enthusiasm that made saying no impossible. And just like that, from one moment to the next, I found myself two days later in a strange country, surrounded by strange people, working on what would become the most defining chapter of my professional life.
-
-When I joined Kiwibot, I started as an operations coordinator - yes, you read that right, nothing technical at all! My days consisted of schlepping robots to locations, deploying them, picking them up, and playing diplomat between kitchens and clients. It was equal parts exhilarating and exhausting because I was juggling this new adventure while maintaining my technical consulting work with other clients during early mornings and late nights. I still don't know how I managed to keep all the balls in the air - I survived on minimal sleep and lost a concerning amount of weight! But after three months of this chaotic dance, I gradually phased out my other commitments until Kiwibot became my sole focus.
-
-The real turning point came when I managed to bridge the gap between operations and engineering. There was some initial friction, but I saw technical challenges that I knew I could solve, and I convinced the engineering team to give me a shot. That's how I transitioned from robot wrangler to actual engineer at Kiwibot, diving into environment classification, sidewalk analysis, and programming solutions that went far beyond basic computer vision.
-
-Years flew by, team members came and went, and through a combination of accumulated experience, built relationships, and being the most senior member, I found myself with an unexpected opportunity: leadership. By 2020, I was facing a completely new challenge that I thought I understood but quickly realized was a whole different beast. I had the vision, but this was a complete career pivot with challenges and solutions that, while not purely technical, would become inseparable from my technical work going forward.
-
-Fast forward to today, and I'm deep in robotics and AI with hard-won expertise in autonomous navigation, perception, and real-time systems. As Head of AI & Robotics at Kiwibot, I led the development and scaling of our complete autonomy stack—sensor fusion, semantic perception, ROS2-based planning and control—powering urban delivery robots toward Level 4 autonomy, managing multidisciplinary engineering teams and aligning technical innovation with business goals. Later I stepped back into a senior technical track as a Member of Technical Staff: leading the most critical autonomy projects hands-on, advising across other initiatives, and driving robust deployment pipelines (C++/Python, ROS) for scalable, safe, and efficient robots in the real world. I made that move because it let me work directly on the product, learn faster, maximize the value of my technical expertise, and also free up personal time for side projects and other priorities. In December 2026, after eight years, I closed that chapter to start a new one as Sr. Tech Lead.
-
 <table>
   <tr>
     <td>
@@ -176,6 +144,21 @@ My role was a balance of technical expertise, strategic thinking, and hands-on p
   </td>
   </tr>
 </table>
+
+The call came on a random Tuesday afternoon: "Hey John, come work with us - it's not an engineering position, it's to be a delivery guy, but maybe something technical will come up." Saying no was impossible. Two days later I was in a strange country, surrounded by strange people, starting the most defining chapter of my professional life.
+
+I started as an operations coordinator - yes, nothing technical at all! Schlepping robots around, deploying them, picking them up, and playing diplomat between kitchens and clients, while still consulting for other clients in early mornings and late nights. I survived on minimal sleep and lost a concerning amount of weight, but after three months Kiwibot became my sole focus.
+
+The turning point came when I bridged operations and engineering. I saw technical problems I knew I could solve, convinced the engineering team to give me a shot, and went from robot wrangler to actual engineer: environment classification, sidewalk analysis, and much more than basic computer vision. By 2020, through experience, relationships, and being the most senior member, I landed in leadership - a challenge I thought I understood but turned out to be a whole different beast.
+
+As Head of AI & Robotics I led the development and scaling of our autonomy stack - sensor fusion, semantic perception, ROS2 planning and control - pushing urban delivery robots toward Level 4 autonomy while managing multidisciplinary teams. Later I stepped back into a senior technical track as Member of Technical Staff to work directly on the product, lead the most critical projects hands-on, and free up time for side projects. In December 2026, after almost nine years, I closed that chapter to start a new one as Sr. Tech Lead.
+
+**My goals there:** build the best autonomous systems I could, have fun, and keep learning — measured by:
+
+* Push the autonomy rate as high as each environment allowed 🎯
+* Drive interventions down to a fraction of a percent of kilometers driven 🛡️
+* Zero critical incidents through sensor fusion and predictive modeling 🚀
+* Train next-gen models for autonomous driving and keep the team current with robotics & AI 🧠
 
 <div align="center">
 
@@ -230,6 +213,25 @@ My role was a balance of technical expertise, strategic thinking, and hands-on p
 
 </div>
 
+##### 🐕 Robot-Human Interaction: R-Dog (2026)
+
+My last big project at robot.com wasn't about driving - it was about making people smile. R-Dog is our delivery robot dog: a DeepRobotics LYNX M20 Pro (four legs, each ending in a wheel) that we turned into a character. Pat it on the head and it talks back in English or Spanish, with its own personality, an animated LED face that listens, thinks and even reacts to compliments (or insults), and spoken orders like "open your door" or "sit down".
+
+I was hands-on across the software stack, especially the interaction layer: **R-Voice** (wake word, conversation state machine, cloud voice gateway) and **R-Soul** (a reactive state machine + behavior trees that turn events into faces, sounds, light and motion). And yes, the whole repo is vibe-coded: AI agents at full speed, engineering judgment at the wheel.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ad74db1c-08d2-4d54-92e3-d76835ab9016" height="200" style="width: auto;" alt="R-Dog interacting with people"></td>
+    <td><img src="https://github.com/user-attachments/assets/d2f2d9d0-5514-497e-8c5d-cf48c9678043" height="200" style="width: auto;" alt="R-Dog in action"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">R-Dog: robot.com's delivery robot dog, built to interact with humans</td>
+  </tr>
+</table>
+
+</div>
 
 I'm deeply grateful to Kiwibot and its corporate team for providing me with incredible opportunities, teaching me valuable lessons through both successes and challenges, and allowing me to travel the world while working alongside amazing people with whom we've built part of today's technology and are planning tomorrow's innovations. 
 
@@ -256,10 +258,9 @@ I'm deeply grateful to Kiwibot and its corporate team for providing me with incr
 <!-- ----------------------------------------------------------------------------------- -->
 #### RedKraken (2022 - Present)
 
-My entrepreneurial spirit has never faded, and as someone who's naturally curious and ambitious in the best sense of the word, my business partner and I are constantly seeking to address real needs and solve genuine problems that exist across industries, both large and small. We've worked with companies from LATAM to the EU on various projects that I can't fully disclose due to NDAs, but I'll share some highlights.
+My entrepreneurial spirit never faded. With my business partner we look for real problems to solve, big or small, and we've worked with companies from LATAM to the EU (many under NDA). A few highlights:
 
-One of my favorite projects is a vehicle and pedestrian counting system. You might think, "meh, big deal!"—and you'd be right at first glance. But consider this: scaling that system to handle over 50 cameras, ingesting real-time data into a database, and using it to dynamically price billboard advertising based on real-time audience reach for partners and contractors. Suddenly it's not so "meh" anymore, right? This is exactly what we built at RedKraken—a solid business currently running, generating revenue, and poised to scale to more partners and tackle different types of challenges in the future. 
-
+A vehicle and pedestrian counting system. "Meh, big deal!" - until you scale it to 50+ cameras, ingest real-time data, and use it to dynamically price billboard advertising based on real audience reach. Not so "meh" anymore, right? It's running today, generating revenue, and ready to scale.
 
 
 <div align="center">
@@ -275,9 +276,9 @@ One of my favorite projects is a vehicle and pedestrian counting system. You mig
 
 </div>
 
-Our pride and joy, the special project that still hangs on the walls of our studios today, is the Kraken system. This was the prototype that my partner and I started with—we had an absolute blast building everything from hardware and mechanics to software. We celebrated when we successfully extracted water profiles (temperature, acidity, and other parameters) from nearly 50 meters deep with precise measurements, comparing them to much more expensive stations and equipment. The novelty of this system was precisely its low cost and ability to connect to the cloud and transmit data in real-time.
+Our pride and joy, still hanging on our studio walls, is the Kraken system: the prototype my partner and I started with, built end to end - hardware, mechanics and software. We celebrated pulling water profiles (temperature, acidity and more) from almost 50 meters deep, with measurements comparable to far more expensive stations, at a fraction of the cost and streamed to the cloud in real time.
 
-Unfortunately, the system lacked financial support—getting funding in our beautiful country is incredibly challenging. And tellingly, in the area where we deployed it, our own measurements flagged the water as contaminated, consistent with intensive fish farming and tourism in the basin—a reminder of why low-cost, real-time environmental monitoring matters.
+It never got funding - hard to come by in our beautiful country. Tellingly, our own measurements flagged the water as contaminated, consistent with intensive fish farming and tourism in the basin - a reminder of why low-cost, real-time environmental monitoring matters.
 
 <div align="center">
 
@@ -298,11 +299,11 @@ Unfortunately, the system lacked financial support—getting funding in our beau
 <!-- ----------------------------------------------------------------------------------- -->
 #### SaaS Companies (2016 - 2018)
 
-We've all been there - that moment when you're staring at the ceiling thinking "what now?" I found myself in that exact position, with no financial support and a growing pile of bills that seemed to multiply overnight. In desperation, I turned to a professor who had become a friend, someone who had evaluated my thesis work. I asked him about any projects or opportunities that would challenge me to create, program, and solve problems using what I knew how to do (computer vision, mostly). Thanks to him, I landed a gig at a company offering software-as-a-service, and I hit it off perfectly with their CTO at the time. I ended up freelancing several projects that today a student could probably knock out in a few hours with some AI agent or GPT - but back then, this was cutting-edge stuff!
+We've all stared at the ceiling thinking "what now?" I was there: no financial support and a pile of bills multiplying overnight. I asked a professor-turned-friend (he had evaluated my thesis) for any project that would let me create and solve problems with computer vision. Thanks to him I landed freelance work with a SaaS company and clicked instantly with its CTO. Projects a student could knock out today in a few hours with an AI agent - but back then, cutting-edge stuff!
 
-There, I had the opportunity to work on training YOLO models for optical character recognition - yes, you read that right! Back then, it wasn't nearly as straightforward as it is now, and the models weren't exactly precise. We wanted to design a system for vehicle diagnostic centers to measure how long the entire vehicle evaluation process took, which required identifying license plates (ALPR) and then character-by-character analysis to trigger a video capture system. I had an absolute blast with this project - from capturing and labeling thousands of images, to training models, to playing around with primitive OpenCV, Dlib, and FFmpeg. Later, I learned that this same system we deployed was used as a service by the traffic department to issue traffic tickets to vehicles that didn't comply with their restriction day. Helping build something to catch traffic violators definitely satisfied a bit of my inner troublemaker! 😈
+I trained YOLO models for license plate recognition (ALPR) and character-by-character OCR - far from straightforward back then - to measure how long vehicle diagnostic centers took per inspection. Thousands of labeled images, model training, and primitive OpenCV, Dlib and FFmpeg. Later I learned the traffic department used that same system to ticket vehicles driving on their restriction day. Helping catch traffic violators definitely satisfied my inner troublemaker! 😈
 
-And of course, there was my entrepreneurial phase! That spirit is still alive, and I know I'll pick it up again someday. It wasn't exactly during these dates, but I tried working with a partner at the time on agricultural projects and university vending machines. But like every story that touches on these themes, my partner left me hanging at one point with several projects ready to launch and money already disbursed from people who trusted us. Some projects that actually saw the light of day included a system for inspecting surgical screws and plates, where we had to categorize and qualify everything from color to characteristics and defects of these components. Other projects also came to life, though they're not quite as cool or relevant to showcase and describe here - some of those repositories are still up on my profile if you want to take a look.
+And of course, my entrepreneurial phase: agricultural projects and university vending machines with a partner who eventually left me hanging, with projects ready to launch and money already invested by people who trusted us. Some projects did see the light of day, like an inspection system for surgical screws and plates (color, characteristics and defects).
 
 <div align="center">
 
@@ -324,13 +325,13 @@ And of course, there was my entrepreneurial phase! That spirit is still alive, a
 <!-- ----------------------------------------------------------------------------------- -->
 #### Academic Research and Training (Before 2018)
 
-Let me be honest - I wasn't exactly a prodigy in university! I was organized and delivered solid work, but while I wasn't terrible academically, I was far from being the star student. What really defined me was being someone who was extremely, almost obsessively organized with an eye for detail. My university years were a rollercoaster of equal parts joy and struggle. I worked as a teaching assistant and ran several tutoring sessions in electronic circuits, logic circuits, and programming - which probably taught me more than I taught others!
+Let me be honest - I wasn't exactly a prodigy in university! Far from the star student, but almost obsessively organized, with an eye for detail. I was a teaching assistant and tutor in electronic circuits, logic circuits and programming - which probably taught me more than I taught others!
 
-At my university (PUJ-Colombia), I found my tribe in the Robotics group, where we competed in various categories and competitions, both national and international, on the VEX platform. After taking numerous robotics courses and working on various projects like a differential drive cart and a drawing arm, I developed a deep love for creating in robotics that naturally drew me to this group. I still vividly remember the electric excitement of almost winning an international competition when we went head-to-head against what today might be the talent leading robotics in various sectors. Those were the days!
+At PUJ-Colombia I found my tribe in the Robotics group, competing nationally and internationally on the VEX platform. I still remember the electric excitement of almost winning an international competition against what today might be the talent leading robotics in many sectors. Those were the days!
 
-For my undergraduate thesis, I dove deep into computer vision. Back then, there were no programming agents, no ChatGPT, and precious little guidance on these topics, so I had to devour mountains of literature to build an aquaculture net inspection system. The program ran on an ROV (Remotely Operated Vehicle) as part of a thesis that one of my advisors directed for his postdoctoral work, focused on inspecting water quality parameters in aquatic bodies. This work would later continue at Kraken under his permission - full circle moment! I was honored to receive a title of excellence and merit for being one of the best works in the faculty.
+For my thesis I dove deep into computer vision - no coding agents, no ChatGPT, just mountains of papers - to build an aquaculture net inspection system running on an ROV (Remotely Operated Vehicle), part of my advisor's postdoctoral work on water quality monitoring. It later continued at Kraken with his blessing (full circle!) and earned a distinction of excellence and merit as one of the best works in the faculty.
 
-After finishing my undergraduate work and having taken several coterminal or master's level courses in advance, I decided to continue with my master's studies. However, due to personal and economic circumstances at the time, I couldn't complete the final stage. This still weighs on me a bit, but nowadays, given what I do, I question: who the hell cares about another degree? I think experience and knowing how to actually do things matters far more. Anyway, during my university period, I enjoyed it immensely. More than learning what I use today, it was the formation that taught me a methodological process, the rigor and discipline to approach engineering challenges, and it left me with several of my best friends, acquaintances, and advisors that I count on today.
+I started a master's but couldn't finish the final stage due to personal and economic circumstances. It still weighs on me a bit, but these days I ask: who the hell cares about another degree? Knowing how to actually do things matters far more. More than the content, university gave me method, rigor and discipline - and several of my best friends and advisors.
 
 
   <div align="center">
@@ -399,16 +400,7 @@ Beyond shipped systems, part of my work is documented in formal patent filings. 
 ---
 ### Am I Looking for Something More? 
 
-While I love what I do and the people I've worked with, I'm always open to new opportunities and growth. Like evolution itself, staying in one place means stagnation. I'm constantly seeking to explore and engage with new opportunities, initiatives, and ventures in:
-
-* Robotics & Autonomous Systems 🤖
-* Industrial Automation & Smart Manufacturing 🏭
-* Software as a Service (SaaS) Solutions 💻
-* Academic Research & Education 🎓
-* AI & Machine Learning Innovation 🧠
-* Technical Leadership & Team Building 👥
-* Conference Speaking & Technical Workshops 🎤
-* Innovative Startup Partnerships & Ventures 💫
+I love what I do, but like evolution itself, staying in one place means stagnation. I'm always open to talk about robotics & autonomous systems 🤖, industrial automation 🏭, SaaS 💻, research & education 🎓, AI/ML 🧠, technical leadership 👥, speaking & workshops 🎤, and startup partnerships 💫.
 
 ### Contact Me
 
